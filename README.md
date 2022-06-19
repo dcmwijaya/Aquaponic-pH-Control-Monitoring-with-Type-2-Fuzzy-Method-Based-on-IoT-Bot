@@ -1,3 +1,3 @@
 # Control-Monitoring-pH-Aquaponics-IoTBased-FuzzyType2
 
-Project Thesis (S1)
+Thesis Project (S1)
