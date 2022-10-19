@@ -1,6 +1,6 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-![GitHub last commit](https://img.shields.io/github/last-commit/Lab-SCR-Informatika-UPN-Veteran-Jatim/IT2FL-Control-Monitoring-pH-Aquaponics-TGBot-IoTBased-ESP32)
+![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Control-Monitoring-pH-Aquaponics-BotIoTBased-FuzzyType2)
 ![Thesis-Project](https://img.shields.io/badge/Project-S1-%2DInformatika%20UPN%20Jatim-light.svg?style=flat&logo=arduino&logoColor=white&color=008B8B)
 ![Bot-IoT](https://img.shields.io/badge/Based-IoT-%2DTGBot-%2DIT2FL-light.svg?style=flat&color=008B8B)
 
