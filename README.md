@@ -91,3 +91,14 @@ https://dl.espressif.com/dl/package_esp32_index.json
 
 Catatan : Project ini membutuhkan internet dan suplai listrik untuk menjalankan aplikasinya.<br>
 <b>Informasi selengkapnya :</b> <a href="http://repository.upnjatim.ac.id/id/eprint/7014"><u>Klik Disini</u></a>
+
+<br>
+
+## LISENSI
+MIT License - Copyright (c) 2023 - Devan C. M. Wijaya, S.Kom
+
+Izin dengan ini diberikan tanpa biaya kepada siapa pun yang mendapatkan salinan perangkat lunak ini dan file dokumentasi terkait perangkat lunak untuk ditangani tanpa adanya batasan, termasuk tanpa batasan hak untuk menggunakan, menyalin, memodifikasi, menggabungkan, menerbitkan, mendistribusikan, mensublisensikan, dan/atau menjual salinan Perangkat Lunak, dan untuk mengizinkan orang yang menerima Perangkat Lunak tersebut diperlengkapi untuk itu dengan syarat-syarat sebagai berikut:
+
+Pemberitahuan hak cipta di atas dan pemberitahuan izin ini harus disertakan semua salinannya atau bagian substansial dari Perangkat Lunak.
+
+DALAM HAL APAPUN, PENULIS ATAU PEMEGANG HAK CIPTA DISINI MEMILIKI HAK KEPEMILIKAN PENUH. PERANGKAT LUNAK INI DISEDIAKAN SEBAGAIMANA ADANYA, TANPA ADA JAMINAN APAPUN, BAIK TERSURAT MAUPUN TERSIRAT, OLEH KARENA ITU APABILA DITEMUI KERUSAKAN, KERUGIAN, ATAU LAINNYA YANG DITIMBULKAN DARI PENGGUNAAN ATAU URUSAN LAIN DALAM PERANGKAT LUNAK INI, MAKA PENULIS ATAU PEMEGANG HAK CIPTA TIDAK BERHAK BERTANGGUNGJAWAB, SEBAB DARI AWAL PENGGUNAAN PERANGKAT LUNAK INI TIDAK DIPAKSAKAN SAMA SEKALI, JADI RESIKO DITANGGUNG SENDIRI.
