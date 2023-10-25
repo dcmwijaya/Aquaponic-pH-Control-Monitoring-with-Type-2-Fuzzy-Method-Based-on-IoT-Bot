@@ -6,7 +6,7 @@
 
 
 # Control-Monitoring-pH-Aquaponics-IoTBased-FuzzyType2
-Thesis (S1) Project Documentation - Informatika UPN Veteran Jawa Timur
+Undergraduate Thesis Project Documentation (S1) - Informatics UPN Veteran Jatim
 
 <br>
 
