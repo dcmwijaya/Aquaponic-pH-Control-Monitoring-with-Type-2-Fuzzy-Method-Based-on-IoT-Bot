@@ -12,15 +12,19 @@
 
 <br>
 
-## Support Detail
-| Media | Penggunaan | Penjelasan |
-| --- | --- | --- |
-| Broker IoT | Free & Customizable | Platform Internet of Things |
-| MCU | DOIT ESP32 DEVKIT V1 | Jenis Mikrokontroler |
-| Arduino Lib | WiFi, PubSubClient, ESPMQTTClient, OneWire, LiquidCrystal I2C, CTBot, dan RTClib | Library |
-| Telegram | API Bot Telegram | Konfigurasi Bot Telegram |
-| Matlab | FIS IT2FL Design | Perancangan & Visualisasi IT2FL |
-| Component | pH Sensor, NodeMCU baseboard, Electrical relay 2 channel, Submersible pump aquarium, Pneumatic solenoid valve, Piezo buzzer, LCD I2C, RTC (real time clock), Switching power supply, Arduino Uno, PCB Dot Matrix, Socket female jack DC, Terminal PCB block screw, Kabel jumper, Connector male jack DC, & Saklar bulat | Perangkat Keras |
+## Features / Framework / Tools
+| Media | Description |
+| --- | --- |
+| IoT Broker | io-t.net |
+| MCU | DOIT ESP32 DEVKIT V1 & Arduino Uno |
+| Arduino Library | WiFi, PubSubClient, ESPMQTTClient, OneWire, LiquidCrystal I2C, CTBot, & RTClib |
+| Telegram | Telegram Bot API |
+| Matlab |  Fuzzy Interface System |
+| Actuators | Submersible pump aquarium, Pneumatic solenoid valve, & Piezo buzzer |
+| Sensor | pH Sensor & RTC (real time clock) |
+| Display | LCD I2C |
+| Switch | Switching power supply, Electrical relay 2 channel, & Round switch |
+| Other Components | ESP32 baseboard, PCB Dot Matrix, Terminal PCB block screw, Jumper cable, Socket female jack DC, & Connector male jack DC  |
 
 <br>
 
