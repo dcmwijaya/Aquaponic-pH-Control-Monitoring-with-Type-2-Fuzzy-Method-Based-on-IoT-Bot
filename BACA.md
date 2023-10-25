@@ -36,7 +36,7 @@ https://www.arduino.cc/en/software
 <br>
 
 ## Pengaturan
-1. Buka Arduino IDE terlebih dahulu, kemudian masukkan Url Boards Manager dengan menyalin tautan berikut:
+1. Buka Arduino IDE terlebih dahulu, kemudian masukkan Url Boards Manager dengan cara menyalin tautan berikut:
 ```bash
 https://dl.espressif.com/dl/package_esp32_index.json
 ```
