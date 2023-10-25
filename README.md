@@ -40,11 +40,11 @@ https://www.arduino.cc/en/software
 ```bash
 https://dl.espressif.com/dl/package_esp32_index.json
 ```
-2. Setting Board in Arduino IDE
+2. Board Setup in Arduino IDE
    <ul>
       <li>Method: click Boards Manager -> ESP32 Arduino -> DOIT ESP32 DEVKIT V1.</li>
    </ul>
-3. Port Settings in Arduino IDE
+3. Port Setup in Arduino IDE
    <ul>
       <li>Method: click Port -> Choose according to your device port (you can see in device manager).</li>
    </ul>
