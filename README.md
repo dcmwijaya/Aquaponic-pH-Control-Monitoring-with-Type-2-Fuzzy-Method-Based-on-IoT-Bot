@@ -5,8 +5,10 @@
 ![Bot-IoT](https://img.shields.io/badge/Based-IoT-%2DTGBot-%2DIT2FL-light.svg?style=flat&color=008B8B)
 
 
-# Control-Monitoring-pH-Aquaponics-IoTBased-FuzzyType2
-Undergraduate Thesis Project Documentation (S1) - Informatics UPN Veteran Jatim
+# Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot
+<strong>Undergraduate Thesis Project Documentation (S1) - Informatics UPN Veteran Jatim</strong>
+
+
 
 <br>
 
