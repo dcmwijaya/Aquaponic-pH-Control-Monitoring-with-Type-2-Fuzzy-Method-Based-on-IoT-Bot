@@ -28,26 +28,28 @@
 
 <br>
 
-## Environment
-1. Download Arduino IDE
+## Download & Install
+Download Arduino IDE :
 ```bash
 https://www.arduino.cc/en/software
 ```
-2. Cantumkan Boards Manager Urls
+
+## Settings
+1. Open the Arduino IDE first, then include the Boards Manager Urls by copying the following link:
 ```bash
 https://dl.espressif.com/dl/package_esp32_index.json
 ```
-3. Setting Board di Arduino IDE
+2. Setting Board in Arduino IDE
    <ul>
-      <li>Cara: klik Boards Manager -> ESP32 Arduino -> DOIT ESP32 DEVKIT V1.</li>
+      <li>Method: click Boards Manager -> ESP32 Arduino -> DOIT ESP32 DEVKIT V1.</li>
    </ul>
-4. Setting Port di Arduino IDE
+3. Port Settings in Arduino IDE
    <ul>
-      <li>Cara: klik Port -> Pilihkan sesuai port device anda (dapat anda lihat di device manager).</li>
+      <li>Method: click Port -> Choose according to your device port (you can see in device manager).</li>
    </ul>
-5. Install Library di Arduino IDE
+4. Install Library in Arduino IDE
    <ul>
-      <li>Cara: klik Tools -> Manage Libraries -> Install Library sesuai dengan yang ada di tabel Support Detail.</li>
+      <li>Method: click Tools -> Manage Libraries -> Install Library according to project needs.</li>
    </ul>
 
 <br>
