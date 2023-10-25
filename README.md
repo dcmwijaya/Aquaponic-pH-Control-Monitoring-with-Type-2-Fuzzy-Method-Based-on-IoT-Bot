@@ -52,31 +52,29 @@ https://dl.espressif.com/dl/package_esp32_index.json
 
 <br>
 
-## Perancangan Hardware
+## Hardware Design
 <img src="https://user-images.githubusercontent.com/54527592/174567843-176f5f16-fbe3-420d-b50b-0aff1d11714e.jpg" alt="DesignElectro" width="600" height="400"/>
 <img src="https://user-images.githubusercontent.com/54527592/174567696-c3737937-dbdd-4608-a6a2-3b9ec0cb81cd.jpg" alt="DesignAquaponic" width="600" height="400"/>
 <img src="https://user-images.githubusercontent.com/54527592/174568419-f564693e-d35d-4d85-b967-3144d6671bf9.jpg" alt="DesignMainBox" width="600" height="400"/>
 
 <br>
 
-## Perancangan Software
+## Software Design
 <img src="https://user-images.githubusercontent.com/54527592/174572131-696fcda6-43fb-477b-9579-a0a40d02c1db.jpg" alt="FIS_IT2FL" width="600" height="300"/>
 <img src="https://user-images.githubusercontent.com/54527592/174571816-eefdd5de-c0cd-487d-8d68-eea659a313eb.jpg" alt="VarIn_IT2FL" width="600" height="300"/>
 <img src="https://user-images.githubusercontent.com/54527592/174571258-5da4e0d1-e788-41a9-9937-1d9c6eaf7ada.jpg" alt="VarOut_IT2FL" width="600" height="400"/>
 
 <br>
 
-## Cara Menerapkan dan Menggunakan Aplikasi
-1. Download Repository ini.
-2. Pastikan anda memiliki komponen elektronik yang dibutuhkan sesuai tabel Support Detail.
-3. Pastikan komponen anda telah dirancang sesuai pada bagian Perancangan Hardware diatas.
-4. Pastikan terkoneksi dengan baik (Menyesuaikan settingan Board dan Port).
-5. Disarankan untuk membuat akun Broker beserta service nya.
-6. Disarankan mengubah code arduino pada bagian Router, Broker, API, dan sebagainya sesuai dengan milik anda.
-7. Jika tidak melakukan 2 point diatas (point 2 dan 3) tidak apa-apa *dalam artian: dapat anda kembangkan lagi.
-8. Buatlah bot Telegram (tidak disarankan memakai bot telegram yang sudah ada, karena beresiko crash aktivitas).
-9. Jika anda merasa kesulitan, terdapat informasi selengkapnya pada bagian paling bawah di keterangan ini.
-10. Selesai.
+## Running
+1. Download this Repository.
+2. Make sure you have the necessary electronic components.
+3. Make sure your components have been designed according to the diagram.
+4. Make sure the components are well connected (Adjust Board and Port settings).
+5. It is recommended to create a Broker account along with this service.
+6. Make sure to change the arduino program code in the "Router" section according to the device you are using.
+7. If you do not apply points 2 and 3 for the purposes of project development, it is fine, but please note that some things need to be changed in order to function properly.
+8. Done, good luck.
 
 <br>
 
@@ -85,40 +83,26 @@ https://dl.espressif.com/dl/package_esp32_index.json
 
 <br>
 
-## Preview: Implementasi Interval Fuzzy Type-2 (SPK)
+## Preview: Implementation of Fuzzy Interval Type-2 (SPK)
 <img src="https://user-images.githubusercontent.com/54527592/174578231-f2675b70-ebbf-4e9d-84fa-f0c2a7efa167.jpg" alt="IT2FL" width="500" height="350"/>
 
 <br>
 
-## Preview: Implementasi Bot Telegram (Media Interaktif)
+## Preview: Telegram Bot Implementation (Interactive Media)
 <img src="https://user-images.githubusercontent.com/54527592/174577321-b1da1af7-ce1b-4ec4-9f87-af616ad9f52b.jpg" alt="TGBot" width="500" height="480"/>
 
 <br>
 
-Catatan : Project ini membutuhkan internet dan suplai listrik untuk menjalankan aplikasinya.<br>
-<b>Informasi selengkapnya :</b> <a href="http://repository.upnjatim.ac.id/id/eprint/7014"><u>Klik Disini</u></a>
+Notes: This project requires internet and electricity supply to run the application.<br>
+<b>More information:</b> <a href="http://repository.upnjatim.ac.id/id/eprint/7014"><u>Click Here</u></a>
 
 <br>
 
-## LISENSI
-Copyright (c) 2023 - Devan C. M. Wijaya, S.Kom.
+## LICENSE
+MIT License - Copyright (c) 2023 - Devan C. M. Wijaya, S.Kom
 
-Izin dengan ini diberikan tanpa biaya kepada siapa pun yang mendapatkan salinan perangkat lunak ini dan file dokumentasi terkait perangkat lunak untuk ditangani tanpa adanya batasan, termasuk tanpa batasan hak untuk menggunakan, menyalin, memodifikasi, menggabungkan, menerbitkan, mendistribusikan, mensublisensikan, dan/atau menjual salinan Perangkat Lunak, dan untuk mengizinkan orang yang menerima Perangkat Lunak tersebut diperlengkapi untuk itu dengan syarat-syarat sebagai berikut:
+Permission is hereby granted without charge to any person obtaining a copy of this software and the software-related documentation files to deal in them without restriction, including without limitation the right to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons receiving the Software to be furnished therewith on the following terms:
 
-1. Pemberitahuan hak cipta di atas dan pemberitahuan izin ini harus disertakan semua salinannya atau bagian substansial dari Perangkat Lunak.
+The above copyright notice and this permission notice must accompany all copies or substantial portions of the Software.
 
-2. Jika kreasi produk ini dirasa bermanfaat bagi anda mohon dukungannya dengan cara menekan tombol "Star", dan jika anda ingin mengembangkan produk ini lebih lanjut, maka silahkan anda dapat menekan tombol "Fork". Mohon dapatnya hargai PENULIS ATAU PEMEGANG HAK CIPTA dengan tidak melakukan re-upload.
-
-3. PENULIS ATAU PEMEGANG HAK CIPTA DISINI MEMILIKI HAK KEPEMILIKAN PENUH ATAS KREASI PRODUK YANG DIBUAT, KECUALI YANG TERTERA DI DAFTAR PUSTAKA DAN ATAU KARYA PIHAK LAIN YANG DILUAR KREASI PRODUK INI. APABILA DITEMUI KERUSAKAN, KERUGIAN, ATAU LAINNYA YANG DITIMBULKAN DARI PENGGUNAAN PERANGKAT LUNAK INI, MAKA PENULIS ATAU PEMEGANG HAK CIPTA TIDAK BERHAK BERTANGGUNGJAWAB, SEBAB PERANGKAT LUNAK INI TELAH DISEDIAKAN SEBAGAIMANA ADANYA, TANPA ADA JAMINAN APAPUN BAIK TERSURAT MAUPUN TERSIRAT, DAN TANPA ADANYA PAKSAKAN SEKALI PUN.
-
-<br/>
-Atas perhatian dan kerjasamanya, saya selaku PENULIS/PEMEGANG HAK CIPTA disini mengucapkan TERIMA KASIH.
-<br/>
-<br/>
-
-Salam Hormat,
-<br/>
-<br/>
-<br/>
-<br/>
-Devan C. M. Wijaya, S.Kom.
+IN ANY EVENT, THE AUTHOR OR COPYRIGHT HOLDER HEREIN RETAINS FULL OWNERSHIP RIGHTS. THE SOFTWARE IS PROVIDED AS IS, WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, THEREFORE IF ANY DAMAGE, LOSS, OR OTHERWISE ARISES FROM THE USE OR OTHER DEALINGS IN THE SOFTWARE, THE AUTHOR OR COPYRIGHT HOLDER SHALL NOT BE LIABLE, AS THE USE OF THE SOFTWARE IS NOT COMPELLED AT ALL, SO THE RISK IS YOUR OWN.
