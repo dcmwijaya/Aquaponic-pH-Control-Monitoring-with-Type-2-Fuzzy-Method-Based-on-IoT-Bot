@@ -14,8 +14,8 @@ This project is closely related to agricultural technology, where this tool is u
 ## Features / Framework / Tools
 | Media | Description |
 | --- | --- |
-| IoT Broker | io-t.net |
-| MCU | DOIT ESP32 DEVKIT V1 & Arduino Uno |
+| IoT Platform | io-t.net |
+| Board Development | DOIT ESP32 DEVKIT V1 & Arduino Uno |
 | Arduino Library | WiFi, PubSubClient, ESPMQTTClient, OneWire, LiquidCrystal I2C, CTBot, & RTClib |
 | Telegram | Telegram Bot API |
 | Matlab |  Fuzzy Interface System |
