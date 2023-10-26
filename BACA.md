@@ -96,9 +96,13 @@ https://dl.espressif.com/dl/package_esp32_index.json
 
 <br>
 
-Catatan: Proyek ini membutuhkan internet dan pasokan listrik untuk menjalankan aplikasi.<br>
-<b>Informasi lebih lanjut:</b> <a href="http://repository.upnjatim.ac.id/id/eprint/7014"><u>Klik Disini</u></a>
-
+Catatan: Proyek ini membutuhkan internet dan pasokan listrik untuk menjalankan aplikasi.<br><br>
+<b>Informasi lebih lanjut:</b> <br>
+<ul>
+   • Skripsi: <a href="http://repository.upnjatim.ac.id/id/eprint/7014"><u>Click Here</u></a><br>
+   • Jurnal tipe SINTA: <a href="https://publikasi.mercubuana.ac.id/index.php/Incomtech/article/view/15453"><u>Click Here</u></a><br>
+   • Jurnal tipe Non SINTA: <a href="https://www.researchgate.net/publication/363660330_SISTEM_KONTROL_PH_UP-DOWN_BERBASIS_NODEMCU32_DENGAN_METODE_ON-OFF_CONTROLLER"><u>Click Here</u></a>
+</ul>
 <br>
 
 ## LISENSI
