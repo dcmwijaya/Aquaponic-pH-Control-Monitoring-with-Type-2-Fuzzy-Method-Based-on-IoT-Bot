@@ -96,8 +96,13 @@ https://dl.espressif.com/dl/package_esp32_index.json
 
 <br>
 
-Notes: This project requires internet and electricity supply to run the application.<br>
-<b>More information:</b> <a href="http://repository.upnjatim.ac.id/id/eprint/7014"><u>Click Here</u></a>
+Notes: This project requires internet and electricity supply to run the application.<br><br>
+<b>More information:</b> <br>
+<ul>
+   • Undergraduate Thesis: <a href="http://repository.upnjatim.ac.id/id/eprint/7014"><u>Click Here</u></a><br>
+   • SINTA-type journals: <a href="https://publikasi.mercubuana.ac.id/index.php/Incomtech/article/view/15453"><u>Click Here</u></a><br>
+   • Non SINTA-type journals: <a href="https://www.researchgate.net/publication/363660330_SISTEM_KONTROL_PH_UP-DOWN_BERBASIS_NODEMCU32_DENGAN_METODE_ON-OFF_CONTROLLER"><u>Click Here</u></a>
+</ul>
 
 <br>
 
