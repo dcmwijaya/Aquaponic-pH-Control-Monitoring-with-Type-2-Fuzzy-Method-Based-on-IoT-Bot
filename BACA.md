@@ -14,8 +14,8 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 ## Fitur / Kerangka Kerja / Alat
 | Media | Deskripsi |
 | --- | --- |
-| Broker IoT | io-t.net |
-| MCU | DOIT ESP32 DEVKIT V1 & Arduino Uno |
+| Platform IoT | io-t.net |
+| Papan Pengembangan | DOIT ESP32 DEVKIT V1 & Arduino Uno |
 | Pustaka Arduino | WiFi, PubSubClient, ESPMQTTClient, OneWire, LiquidCrystal I2C, CTBot, & RTClib |
 | Telegram | API Bot Telegram |
 | Matlab |  Fuzzy Interface System |
