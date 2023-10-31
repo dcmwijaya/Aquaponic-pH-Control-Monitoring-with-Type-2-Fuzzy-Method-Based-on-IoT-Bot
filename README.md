@@ -55,17 +55,31 @@ https://dl.espressif.com/dl/package_esp32_index.json
 
 <br>
 
-## Hardware Design
-<img src="https://user-images.githubusercontent.com/54527592/174567843-176f5f16-fbe3-420d-b50b-0aff1d11714e.jpg" alt="DesignElectro" width="600" height="400"/>
-<img src="https://user-images.githubusercontent.com/54527592/174567696-c3737937-dbdd-4608-a6a2-3b9ec0cb81cd.jpg" alt="DesignAquaponic" width="600" height="400"/>
-<img src="https://user-images.githubusercontent.com/54527592/174568419-f564693e-d35d-4d85-b967-3144d6671bf9.jpg" alt="DesignMainBox" width="600" height="400"/>
-
-<br>
-
-## Software Design
-<img src="https://user-images.githubusercontent.com/54527592/174572131-696fcda6-43fb-477b-9579-a0a40d02c1db.jpg" alt="FIS_IT2FL" width="600" height="300"/>
-<img src="https://user-images.githubusercontent.com/54527592/174571816-eefdd5de-c0cd-487d-8d68-eea659a313eb.jpg" alt="VarIn_IT2FL" width="600" height="300"/>
-<img src="https://user-images.githubusercontent.com/54527592/174571258-5da4e0d1-e788-41a9-9937-1d9c6eaf7ada.jpg" alt="VarOut_IT2FL" width="600" height="400"/>
+## Project Requirements
+<table>
+<tr>
+<th width="280">Pictorial Diagram</th>
+<th width="280">Prototype Design</th>
+<th width="280">Main Box Design</th>
+</tr>
+<tr>
+<td><img src="https://user-images.githubusercontent.com/54527592/174567843-176f5f16-fbe3-420d-b50b-0aff1d11714e.jpg" alt="Pictorial-Diagram"></td>
+<td><img src="https://user-images.githubusercontent.com/54527592/174567696-c3737937-dbdd-4608-a6a2-3b9ec0cb81cd.jpg" alt="Prototype-Design"></td>
+<td><img src="https://user-images.githubusercontent.com/54527592/174568419-f564693e-d35d-4d85-b967-3144d6671bf9.jpg" alt="MainBox-Design"></td>
+</tr>
+</table>
+<table>
+<tr>
+<th width="280">Fuzzy Interface System IT2FL</th>
+<th width="280">IT2FL Input Variable</th>
+<th width="280">IT2FL Output Variable</th>
+</tr>
+<tr>
+<td><img src="https://user-images.githubusercontent.com/54527592/174572131-696fcda6-43fb-477b-9579-a0a40d02c1db.jpg" alt="FIS-IT2FL"></td>
+<td><img src="https://user-images.githubusercontent.com/54527592/174571816-eefdd5de-c0cd-487d-8d68-eea659a313eb.jpg" alt="VarIn-IT2FL"></td>
+<td><img src="https://user-images.githubusercontent.com/54527592/174571258-5da4e0d1-e788-41a9-9937-1d9c6eaf7ada.jpg" alt="VarOut-IT2FL"></td>
+</tr>
+</table>
 
 <br>
 
@@ -81,18 +95,19 @@ https://dl.espressif.com/dl/package_esp32_index.json
 
 <br>
 
-## Preview: Product
-<img src="https://user-images.githubusercontent.com/54527592/174566236-fbcf5d61-bc8e-4daf-ac06-5d396a5c58b8.jpg" alt="PreProduct" width="500" height="450"/>
-
-<br>
-
-## Preview: Implementation of Fuzzy Interval Type-2 (SPK)
-<img src="https://user-images.githubusercontent.com/54527592/174578231-f2675b70-ebbf-4e9d-84fa-f0c2a7efa167.jpg" alt="IT2FL" width="500" height="350"/>
-
-<br>
-
-## Preview: Telegram Bot Implementation (Interactive Media)
-<img src="https://user-images.githubusercontent.com/54527592/174577321-b1da1af7-ce1b-4ec4-9f87-af616ad9f52b.jpg" alt="TGBot" width="500" height="480"/>
+## Highlights
+<table>
+<tr>
+<th width="280">Product</th>
+<th width="280">IT2FL Decision Support System</th>
+<th width="280">Telegram Bot</th>
+</tr>
+<tr>
+<td><img src="https://user-images.githubusercontent.com/54527592/174566236-fbcf5d61-bc8e-4daf-ac06-5d396a5c58b8.jpg" alt="Product"></td>
+<td><img src="https://user-images.githubusercontent.com/54527592/174578231-f2675b70-ebbf-4e9d-84fa-f0c2a7efa167.jpg" alt="IT2FL-SPK"></td>
+<td><img src="https://user-images.githubusercontent.com/54527592/174577321-b1da1af7-ce1b-4ec4-9f87-af616ad9f52b.jpg" alt="Telegram-Bot"></td>
+</tr>
+</table>
 
 <br>
 
