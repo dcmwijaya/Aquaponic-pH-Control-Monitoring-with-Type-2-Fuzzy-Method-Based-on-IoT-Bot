@@ -99,7 +99,7 @@ https://dl.espressif.com/dl/package_esp32_index.json
 <table>
 <tr>
 <th width="280">Produk</th>
-<th width="280">Sistem Pendukung Keputusan IT2FL</th>
+<th width="280">Sistem Pendukung Keputusan (SPK) IT2FL</th>
 <th width="280">Bot Telegram</th>
 </tr>
 <tr>
