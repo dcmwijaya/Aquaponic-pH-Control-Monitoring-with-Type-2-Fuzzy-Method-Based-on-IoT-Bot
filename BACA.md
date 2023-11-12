@@ -9,7 +9,7 @@
 <strong>Dokumentasi Tugas Akhir (S1) - Teknik Informatika UPN Veteran Jatim</strong><br>
 Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini digunakan untuk mengontrol atau memonitoring perubahan pH air setiap saat pada area akuaponik. Sistem akuaponik ini sendiri merupakan sistem budidaya gabungan antara ikan dan sayuran dimana kegiatannya saling menguntungkan. Alat ini dilengkapi dengan sistem pendukung keputusan berupa IT2FL dengan interface berbasis Bot of Things (BoT). Alat ini telah diatur sedemikian rupa agar dapat bekerja secara otomatis, namun juga dapat diperintahkan secara manual.
 
-<br>
+<br><br>
 
 ## Fitur / Kerangka Kerja / Alat
 | Media | Deskripsi |
@@ -25,35 +25,33 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 | Saklar | Switching power supply, Electrical relay 2 channel, & Saklar bulat |
 | Komponen Lainnya | ESP32 baseboard, PCB Dot Matrix, Terminal PCB block screw, Kabel Jumper, Socket female jack DC, & Connector male jack DC  |
 
-<br>
+<br><br>
 
-## Unduh & Instal
-Unduh Arduino IDE :
+## Unduh & Instal Arduino IDE
 ```bash
 https://www.arduino.cc/en/software
 ```
 
-<br>
+<br><br>
 
 ## Pengaturan
-1. Buka Arduino IDE terlebih dahulu, kemudian masukkan Url Boards Manager dengan cara menyalin tautan berikut:
-```bash
-https://dl.espressif.com/dl/package_esp32_index.json
-```
-2. Pengaturan Board di Arduino IDE
-   <ul>
-      <li>Cara: klik Boards Manager -> ESP32 Arduino -> DOIT ESP32 DEVKIT V1.</li>
-   </ul>
-3. Pengaturan Port di Arduino IDE
-   <ul>
-      <li>Cara: klik Port -> Pilih sesuai dengan port perangkat Anda (Anda dapat melihatnya di Device Manager).</li>
-   </ul>
-4. Instal pustaka di Arduino IDE
-   <ul>
-      <li>Cara: klik Tools -> Manage Libraries -> Instal Pustaka sesuai dengan kebutuhan proyek.</li>
-   </ul>
-
+1. Buka ``` Arduino IDE ``` terlebih dahulu, lalu masuk ke ``` Boards Manager Url ``` dengan cara menyalin tautan berikut:
+   
+   ```bash
+   https://dl.espressif.com/dl/package_esp32_index.json
+   ```
 <br>
+
+2. ``` Pengaturan Board ``` di Arduino IDE<br><br>
+   Cara: klik ``` Boards Manager ``` -> ``` ESP32 Arduino ``` -> ``` DOIT ESP32 DEVKIT V1 ```.
+   <br><br><br>
+3. ``` Pengaturan Port ``` di Arduino IDE<br><br>
+   • Cara: klik ``` Port ``` -> Pilih sesuai dengan port perangkat Anda ``` (Anda dapat melihatnya di Device Manager) ```.
+   <br><br><br>
+4. ``` Instal pustaka ``` di Arduino IDE<br><br>
+   • Cara: klik ``` Tools ``` -> ``` Manage Libraries ``` -> ``` Install Library ``` sesuai dengan kebutuhan proyek.
+
+<br><br>
 
 ## Persyaratan Proyek
 <table>
@@ -81,19 +79,30 @@ https://dl.espressif.com/dl/package_esp32_index.json
 </tr>
 </table>
 
-<br>
+<br><br>
 
-## Menjalankan
-1. Unduh Repositori ini.
-2. Pastikan Anda memiliki komponen elektronik yang diperlukan.
-3. Pastikan komponen Anda telah dirancang sesuai dengan diagram.
-4. Pastikan komponen terhubung dengan baik (Sesuaikan pengaturan Board dan Port).
-5. Disarankan untuk membuat akun Broker sekaligus dengan layanannya.
-6. Pastikan untuk mengubah kode program arduino di bagian "Router" sesuai dengan perangkat yang Anda gunakan.
-7. Jika Anda tidak menerapkan poin 2 dan 3 untuk keperluan pengembangan proyek itu tidak masalah, tetapi harap dicatat bahwa beberapa hal perlu diubah agar dapat berfungsi dengan baik.
-8. Selesai, semoga berhasil.
+## Memulai
+1. Pastikan anda memiliki komponen elektronik yang diperlukan.
+   
+2. Pastikan komponen anda telah dirancang sesuai dengan diagram.
+   
+3. Pastikan komponen terhubung dengan baik ``` (Sesuaikan pengaturan Board dan Port) ```.
+   
+4. Disarankan untuk ``` membuat akun Platform IoT ``` sekaligus dengan layanannya.
+    
+5. Pastikan untuk mengubah kode program arduino di bagian ``` Router ``` sesuai dengan perangkat yang anda gunakan.
+    
+6. Jika anda tidak menerapkan poin 1 dan 2 untuk keperluan pengembangan proyek itu tidak masalah, tetapi harap dicatat bahwa beberapa hal perlu diubah agar dapat berfungsi dengan baik.
 
-<br>
+7. Pastikan perangkat terhubung ke internet.
+
+8. Pastikan semua Things telah dibuat.
+
+9. Unduh dan ekstrak repositori ini.
+   
+10. Selamat menikmati [Selesai].
+
+<br><br>
 
 ## Sorotan
 <table>
@@ -110,15 +119,14 @@ https://dl.espressif.com/dl/package_esp32_index.json
 </table>
 
 <br>
-
-Catatan: Proyek ini membutuhkan internet dan pasokan listrik untuk menjalankan aplikasi.<br><br>
-<b>Informasi lebih lanjut:</b> <br>
+<b>Informasi lebih lanjut:</b> <br><br>
 <ul>
-   • Skripsi: <a href="http://repository.upnjatim.ac.id/id/eprint/7014"><u>Click Here</u></a><br>
-   • Jurnal tipe SINTA: <a href="https://publikasi.mercubuana.ac.id/index.php/Incomtech/article/view/15453"><u>Click Here</u></a><br>
+   • Skripsi: <a href="http://repository.upnjatim.ac.id/id/eprint/7014"><u>Click Here</u></a><br><br>
+   • Jurnal tipe SINTA: <a href="https://publikasi.mercubuana.ac.id/index.php/Incomtech/article/view/15453"><u>Click Here</u></a><br><br>
    • Jurnal tipe Non SINTA: <a href="https://www.researchgate.net/publication/363660330_SISTEM_KONTROL_PH_UP-DOWN_BERBASIS_NODEMCU32_DENGAN_METODE_ON-OFF_CONTROLLER"><u>Click Here</u></a>
 </ul>
-<br>
+
+<br><br>
 
 ## LISENSI
 LISENSI MIT - Hak Cipta (c) 2020 - Devan C. M. Wijaya, S.Kom
