@@ -9,7 +9,7 @@
 <strong>Undergraduate Thesis Project Documentation (S1) - Informatics UPN Veteran Jatim</strong><br>
 This project is closely related to agricultural technology, where this tool is used to control or monitor changes in water pH at any time in the aquaponics area. This aquaponic system itself is a combined cultivation system between fish and vegetables where the activities are mutually beneficial. This tool is equipped with a decision support system in the form of IT2FL with a Bot of Things (BoT) based interface. This tool has been set up in such a way as to be able to work automatically, but it can also be commanded manually.
 
-<br>
+<br><br>
 
 ## Features / Framework / Tools
 | Media | Description |
@@ -25,35 +25,33 @@ This project is closely related to agricultural technology, where this tool is u
 | Switch | Switching power supply, Electrical relay 2 channel, & Round switch |
 | Other Components | ESP32 baseboard, PCB Dot Matrix, Terminal PCB block screw, Jumper cable, Socket female jack DC, & Connector male jack DC  |
 
-<br>
+<br><br>
 
-## Download & Install
-Download Arduino IDE :
+## Download & Install Arduino IDE
 ```bash
 https://www.arduino.cc/en/software
 ```
 
-<br>
+<br><br>
 
 ## Settings
-1. Open the Arduino IDE first, then enter the Boards Manager Url by copying the following link:
-```bash
-https://dl.espressif.com/dl/package_esp32_index.json
-```
-2. Board Setup in Arduino IDE
-   <ul>
-      <li>Method: click Boards Manager -> ESP32 Arduino -> DOIT ESP32 DEVKIT V1.</li>
-   </ul>
-3. Port Setup in Arduino IDE
-   <ul>
-      <li>Method: click Port -> Choose according to your device port (you can see in device manager).</li>
-   </ul>
-4. Install Library in Arduino IDE
-   <ul>
-      <li>Method: click Tools -> Manage Libraries -> Install Library according to project needs.</li>
-   </ul>
-
+1. Open the ``` Arduino IDE ``` first, then enter the ``` Boards Manager Url ``` by copying the following link:
+   
+   ```bash
+   https://dl.espressif.com/dl/package_esp32_index.json
+   ```
 <br>
+
+2. ``` Board Setup ``` in Arduino IDE<br><br>
+   Method: click ``` Boards Manager ``` -> ``` ESP32 Arduino ``` -> ``` DOIT ESP32 DEVKIT V1 ```.
+   <br><br><br>
+3. ``` Port Setup ``` in Arduino IDE<br><br>
+   • Method: click ``` Port ``` -> Choose according to your device port ``` (you can see in device manager) ```.
+   <br><br><br>
+4. ``` Install Library ``` in Arduino IDE<br><br>
+   • Method: click ``` Tools ``` -> ``` Manage Libraries ``` -> ``` Install Library ``` according to project needs.
+
+<br><br>
 
 ## Project Requirements
 <table>
@@ -81,19 +79,30 @@ https://dl.espressif.com/dl/package_esp32_index.json
 </tr>
 </table>
 
-<br>
+<br><br>
 
-## Running
-1. Download this Repository.
-2. Make sure you have the necessary electronic components.
-3. Make sure your components have been designed according to the diagram.
-4. Make sure the components are well connected (Adjust Board and Port settings).
-5. It is recommended to create a Broker account along with this service.
-6. Make sure to change the arduino program code in the "Router" section according to the device you are using.
-7. If you do not apply points 2 and 3 for the purposes of project development, it is fine, but please note that some things need to be changed in order to function properly.
-8. Done, good luck.
+## Get Started
+1. Make sure you have the necessary electronic components.
+   
+2. Make sure your components are designed according to the diagram.
+   
+3. Make sure the components are well connected ``` (Adjust Board and Port settings) ```.
+   
+4. It is recommended to ``` create an IoT Platform account ``` at the same time as the service.
+    
+5. Be sure to change the arduino program code in the ``` Router ``` section according to the device you are using.
+    
+6. If you don't apply points 1 and 2 for the purposes of project development that's fine, but please note that some things need to be changed for it to work properly.
 
-<br>
+7. Ensure that the device is connected to the internet.
+  
+8. Make sure all things have been created.
+
+9. Download and extract this repository.
+   
+10. Please enjoy [Done].
+
+<br><br>
 
 ## Highlights
 <table>
@@ -110,16 +119,14 @@ https://dl.espressif.com/dl/package_esp32_index.json
 </table>
 
 <br>
-
-Notes: This project requires internet and electricity supply to run the application.<br><br>
-<b>More information:</b> <br>
+<strong>More information:</strong> <br><br>
 <ul>
-   • Undergraduate Thesis: <a href="http://repository.upnjatim.ac.id/id/eprint/7014"><u>Click Here</u></a><br>
-   • SINTA-type journals: <a href="https://publikasi.mercubuana.ac.id/index.php/Incomtech/article/view/15453"><u>Click Here</u></a><br>
+   • Undergraduate Thesis: <a href="http://repository.upnjatim.ac.id/id/eprint/7014"><u>Click Here</u></a><br><br>
+   • SINTA-type journals: <a href="https://publikasi.mercubuana.ac.id/index.php/Incomtech/article/view/15453"><u>Click Here</u></a><br><br>
    • Non SINTA-type journals: <a href="https://www.researchgate.net/publication/363660330_SISTEM_KONTROL_PH_UP-DOWN_BERBASIS_NODEMCU32_DENGAN_METODE_ON-OFF_CONTROLLER"><u>Click Here</u></a>
 </ul>
 
-<br>
+<br><br>
 
 ## LICENSE
 MIT License - Copyright (c) 2020 - Devan C. M. Wijaya, S.Kom
