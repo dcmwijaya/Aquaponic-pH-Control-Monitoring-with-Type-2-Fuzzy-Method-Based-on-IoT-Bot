@@ -1,11 +1,11 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://opensource.org/licenses/MIT)
 ![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Control-Monitoring-pH-Aquaponics-BotIoTBased-FuzzyType2)
-![Thesis-Project](https://img.shields.io/badge/Project-Undergraduate%20Thesis%20-%2D%20Informatika%20UPN%20Veteran%20Jatim-light.svg?style=flat&logo=arduino&logoColor=white&color=%23F7DF1E)
+![Thesis-Project](https://img.shields.io/badge/Project-Skripsi%20-%2D%20Informatika%20UPN%20Veteran%20Jatim-light.svg?style=flat&logo=arduino&logoColor=white&color=%23F7DF1E)
 
 
 # Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot
-<strong>Dokumentasi Tugas Akhir (S1) - Teknik Informatika UPN Veteran Jatim</strong><br>
+<strong>Dokumentasi Skripsi - Teknik Informatika UPN Veteran Jatim</strong><br>
 Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini digunakan untuk mengontrol atau memonitoring perubahan pH air setiap saat pada area akuaponik. Sistem akuaponik ini sendiri merupakan sistem budidaya gabungan antara ikan dan sayuran dimana kegiatannya saling menguntungkan. Alat ini dilengkapi dengan sistem pendukung keputusan berupa IT2FL dengan interface berbasis Bot of Things (BoT). Alat ini telah diatur sedemikian rupa agar dapat bekerja secara otomatis, namun juga dapat diperintahkan secara manual.
 
 <br><br>
