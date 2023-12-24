@@ -13,11 +13,11 @@ This project is closely related to agricultural technology, where this tool is u
 ## Features / Framework / Tools
 | Media | Description |
 | --- | --- |
-| IoT Platform | io-t.net |
 | Board Development | DOIT ESP32 DEVKIT V1 & Arduino Uno |
-| Arduino Library | WiFi, PubSubClient, ESPMQTTClient, OneWire, LiquidCrystal I2C, CTBot, & RTClib |
+| IoT Platform | io-t.net |
 | Telegram | Telegram Bot API |
 | Matlab |  Fuzzy Interface System |
+| Arduino Library | WiFi, PubSubClient, ESPMQTTClient, OneWire, LiquidCrystal I2C, CTBot, & RTClib |
 | Actuators | Submersible pump aquarium, Pneumatic solenoid valve, & Piezo buzzer |
 | Sensor | pH Sensor & RTC (real time clock) |
 | Display | LCD I2C |
