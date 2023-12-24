@@ -13,11 +13,11 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 ## Fitur / Kerangka Kerja / Alat
 | Media | Deskripsi |
 | --- | --- |
-| Platform IoT | io-t.net |
 | Papan Pengembangan | DOIT ESP32 DEVKIT V1 & Arduino Uno |
-| Pustaka Arduino | WiFi, PubSubClient, ESPMQTTClient, OneWire, LiquidCrystal I2C, CTBot, & RTClib |
+| Platform IoT | io-t.net |
 | Telegram | API Bot Telegram |
 | Matlab |  Fuzzy Interface System |
+| Pustaka Arduino | WiFi, PubSubClient, ESPMQTTClient, OneWire, LiquidCrystal I2C, CTBot, & RTClib |
 | Aktuator | Submersible pump aquarium, Pneumatic solenoid valve, & Piezo buzzer |
 | Sensor | pH Sensor & RTC (real time clock) |
 | Layar | LCD I2C |
