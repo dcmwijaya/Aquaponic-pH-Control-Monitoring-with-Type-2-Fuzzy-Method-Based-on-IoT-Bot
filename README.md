@@ -14,7 +14,11 @@ This project is closely related to agricultural technology, where this tool is u
 | Media | Description |
 | --- | --- |
 | Board Development | DOIT ESP32 DEVKIT V1 & Arduino Uno |
+| Code Editor | Arduino IDE |
+| Driver | USB-Serial CP210X |
 | IoT Platform | io-t.net |
+| IoT Protocol | MQTT |
+| IoT Architecture | 4 Layer |
 | Telegram | Telegram Bot API |
 | Matlab |  Fuzzy Interface System |
 | Arduino Library | WiFi, PubSubClient, ESPMQTTClient, OneWire, LiquidCrystal I2C, CTBot, & RTClib |
@@ -26,17 +30,26 @@ This project is closely related to agricultural technology, where this tool is u
 
 <br><br>
 
-## Download & Install Arduino IDE
-```bash
-https://www.arduino.cc/en/software
-```
+## Download & Install 
+1. Arduino IDE
+
+   ```
+   https://www.arduino.cc/en/software
+   ```
+   <br>
+
+2. USB-Serial CP210X
+
+   ```
+   https://bit.ly/CP210X_Driver
+   ```
 
 <br><br>
 
 ## Settings
 1. Open the ``` Arduino IDE ``` first, then enter the ``` Boards Manager Url ``` by copying the following link:
    
-   ```bash
+   ```
    https://dl.espressif.com/dl/package_esp32_index.json
    ```
 <br>
