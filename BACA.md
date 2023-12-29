@@ -5,7 +5,7 @@
 
 
 # Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot
-<strong>Dokumentasi Skripsi - Informatika UPN Veteran Jatim</strong><br>
+<strong>Dokumentasi Skripsi - Informatika UPN Veteran Jatim</strong><br><br>
 Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini digunakan untuk mengontrol atau memonitoring perubahan pH air setiap saat pada area akuaponik. Sistem akuaponik ini sendiri merupakan sistem budidaya gabungan antara ikan dan sayuran dimana kegiatannya saling menguntungkan. Alat ini dilengkapi dengan sistem pendukung keputusan berupa IT2FL dengan interface berbasis Bot of Things (BoT). Alat ini telah diatur sedemikian rupa agar dapat bekerja secara otomatis, namun juga dapat diperintahkan secara manual.
 
 <br><br>
@@ -14,7 +14,11 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 | Media | Deskripsi |
 | --- | --- |
 | Papan Pengembangan | DOIT ESP32 DEVKIT V1 & Arduino Uno |
+| Editor Kode | Arduino IDE |
+| Driver | USB-Serial CP210X |
 | Platform IoT | io-t.net |
+| Protokol IoT | MQTT |
+| Arsitektur IoT | 4 Lapisan |
 | Telegram | API Bot Telegram |
 | Matlab |  Fuzzy Interface System |
 | Pustaka Arduino | WiFi, PubSubClient, ESPMQTTClient, OneWire, LiquidCrystal I2C, CTBot, & RTClib |
@@ -26,17 +30,26 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 
 <br><br>
 
-## Unduh & Instal Arduino IDE
-```bash
-https://www.arduino.cc/en/software
-```
+## Unduh & Instal
+1. Arduino IDE
+
+   ```
+   https://www.arduino.cc/en/software
+   ```
+   <br>
+
+2. USB-Serial CP210X
+
+   ```
+   https://bit.ly/CP210X_Driver
+   ```
 
 <br><br>
 
 ## Pengaturan
 1. Buka ``` Arduino IDE ``` terlebih dahulu, lalu masuk ke ``` Boards Manager Url ``` dengan cara menyalin tautan berikut:
    
-   ```bash
+   ```
    https://dl.espressif.com/dl/package_esp32_index.json
    ```
 <br>
