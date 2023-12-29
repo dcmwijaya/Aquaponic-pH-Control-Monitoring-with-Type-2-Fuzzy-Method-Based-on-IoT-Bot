@@ -48,14 +48,14 @@ bool relayOFF = HIGH;
 #define PoPin 35 //Pin Kaki pH Sensor (Po)
 #define SValve1 5 //Pin Kaki pH Up
 #define SValve2 18 //Pin Kaki pH Down
-#define ssid "" //Nama wifi router
-#define password "" //Password wifi router
-#define mqtt_server "i-ot.net" //Nama Platform IoT (Broker)
-#define mqtt_port 1883 //Port I-ot.net
-#define mqtt_username "" //Username I-ot.net
-#define mqtt_password "" //Password I-ot.net
-#define mqtt_clientID "" //Client ID I-ot.net
-#define BOTtoken "" //API bot telegram
+#define ssid "YOUR_WIFI_NAME" //Nama wifi router
+#define password "YOUR_WIFI_PASSWORD" //Password wifi router
+#define mqtt_server "io-t.net" //Nama Platform IoT (Broker)
+#define mqtt_port 1883 //Port Io-t.net
+#define mqtt_username "YOUR_IOTNET_USERNAME" //Username Io-t.net
+#define mqtt_password "YOUR_IOTNET_PASSWORD" //Password Io-t.net
+#define mqtt_clientID "YOUR_IOTNET_CLIENTID" //Client ID Io-t.net
+#define BOTtoken "YOUR_API_BOT_TOKEN" //API bot telegram
 #define INrespYes "INrespYes" //Callback Inline Respon Iya ke-1 
 #define INrespNo "INrespNo" //Callback Inline Respon Tidak ke-1 
 #define INrespYes1 "INrespYes1" //Callback Inline Respon Iya ke-2 
