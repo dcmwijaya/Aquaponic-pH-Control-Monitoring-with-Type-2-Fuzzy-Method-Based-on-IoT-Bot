@@ -104,6 +104,11 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 
 <br><br>
 
+## Pengaturan io-t.net
+Dalam proses penulisan...
+
+<br><br>
+
 ## Pengaturan Bot Telegram
 1. Buka <a href="https://t.me/botfather">@BotFather</a>.
 
