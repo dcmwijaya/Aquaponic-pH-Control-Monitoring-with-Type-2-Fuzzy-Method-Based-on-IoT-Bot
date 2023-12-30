@@ -147,8 +147,6 @@ Via Telegram: <a href="https://t.me/phiotnet_bot">@phiotnet_bot</a>
 
 <br><br>
 
-<br><br>
-
 ## Highlights
 <table>
 <tr>
