@@ -116,7 +116,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 
 3. Buat device :<br><br>
    • Masuk ke menu ``` Devices ```.<br><br>
-   • Pilih ``` Tambah Devices ```. Lalu isi bagian ``` Client ID ```, ``` Access ```, ``` Topic ``` sesuai dengan kebutuhan anda. Contohnya sebagai berikut:<br>
+   • Pilih ``` Tambah Devices ``` -> isi bagian ``` Client ID ```, ``` Access ```, ``` Topic ``` sesuai dengan kebutuhan. Contohnya seperti ini:<br>
       - ``` Client ID ``` -> ``` Phiotnet_v1 ```.<br>
       - ``` Access ``` -> ``` Publish & Subscribe ```.<br>
       - ``` Topic ``` -> ``` detect ```.
