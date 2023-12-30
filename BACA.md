@@ -104,6 +104,27 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 
 <br><br>
 
+## Pengaturan Bot Telegram
+1. Buka <a href="https://t.me/botfather">@BotFather</a>.
+
+2. Ketik ``` /newbot ```.
+
+3. Ketik nama bot yang diinginkan, contoh: ``` phiotnet_bot ```.
+
+4. Ketik nama pengguna bot yang diinginkan, contoh: ``` phiotnet_bot ```.
+
+5. Lakukan juga untuk pengaturan gambar bot, deskripsi bot, dan lain sebagainya menyesuaikan dengan kebutuhan anda.
+
+6. Salin ``` API token bot telegram anda ``` -> lalu tempelkan pada bagian ``` #define BOTtoken "YOUR_API_BOT_TOKEN" ```. Contohnya yaitu :
+
+   ```
+   #define BOTtoken "" //API bot telegram
+   ```
+   
+7. Jika gagal terkoneksi ke Bot Telegram, maka perkiraan masalahnya ada di bagian firmware. Silakan periksa lagi.
+
+<br><br>
+
 ## Memulai
 1. Unduh dan ekstrak repositori ini.<br><br>
    
@@ -118,6 +139,11 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 6. Pastikan semua Things telah dibuat.<br><br>
 
 7. Selamat menikmati [Selesai].
+
+<br><br>
+
+## Demonstrasi Aplikasi
+Via Telegram: <a href="https://t.me/phiotnet_bot">@phiotnet_bot</a>
 
 <br><br>
 
