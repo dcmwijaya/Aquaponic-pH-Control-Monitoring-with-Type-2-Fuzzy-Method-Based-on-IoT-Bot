@@ -104,6 +104,11 @@ This project is closely related to agricultural technology, where this tool is u
 
 <br><br>
 
+## Io-t.net Setup
+In the writing process...
+
+<br><br>
+
 ## Telegram Bot Setup
 1. Open <a href="https://t.me/botfather">@BotFather</a>.
 
