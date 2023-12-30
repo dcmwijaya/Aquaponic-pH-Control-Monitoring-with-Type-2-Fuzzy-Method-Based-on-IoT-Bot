@@ -118,7 +118,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 6. Salin ``` API token bot telegram anda ``` -> lalu tempelkan pada bagian ``` #define BOTtoken "YOUR_API_BOT_TOKEN" ```. Contohnya yaitu :
 
    ```
-   #define BOTtoken "" //API bot telegram
+   #define BOTtoken "2130879110:AAEoY1qtnB3xcspCUjCYsUGImysau3N802U" //API bot telegram
    ```
    
 7. Jika gagal terkoneksi ke Bot Telegram, maka perkiraan masalahnya ada di bagian firmware. Silakan periksa lagi.
