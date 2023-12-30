@@ -85,7 +85,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
    ```
    
 3. ``` Pengaturan Board ``` di Arduino IDE<br><br>
-   • Cara: klik ``` Tools ``` -> ``` Board ``` -> ``` Boards Manager ``` -> Instal ``` esp32 ```. Kemudian pilih Board dengan mengklik: ``` Tools ``` -> ``` Board ``` -> ``` ESP32 Arduino ``` -> ``` DOIT ESP32 DEVKIT V1 ```. Mengenai board Arduino Uno yang ada dalam proyek ini hanya digunakan sebatas regulator tegangan. Jadi pada bagian ini anda tidak perlu melakukan konfigurasi Arduino Uno (cukup hanya berfokus pada ESP32 saja).<br><br>
+   • Cara: klik ``` Tools ``` -> ``` Board ``` -> ``` Boards Manager ``` -> Instal ``` esp32 ```. Kemudian pilih Board dengan mengklik: ``` Tools ``` -> ``` Board ``` -> ``` ESP32 Arduino ``` -> ``` DOIT ESP32 DEVKIT V1 ```.<br><br>Mengenai board Arduino Uno yang ada dalam proyek ini hanya digunakan sebatas regulator tegangan. Jadi pada bagian ini anda tidak perlu melakukan konfigurasi Arduino Uno (cukup hanya berfokus pada ESP32 saja).<br><br>
    
 4. ``` Ubah Kecepatan Papan ``` di Arduino IDE<br><br>
    • Cara: klik ``` Tools ``` -> ``` Upload Speed ``` -> ``` 115200 ```.<br><br>
