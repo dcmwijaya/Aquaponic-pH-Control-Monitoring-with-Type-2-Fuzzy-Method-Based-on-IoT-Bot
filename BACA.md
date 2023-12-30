@@ -107,7 +107,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 ## Pengaturan io-t.net
 1. Memulai io-t.net :<br><br>
    • Buka situs resminya di tautan berikut: <a href="https://io-t.net/">io-t.net</a>.<br><br>
-   • Jika anda belum memiliki akun, silakan <a href="https://i-ot.net/register">Daftar</a> terlebih dahulu.<br><br>
+   • Jika anda belum memiliki akun, silakan <a href="https://i-ot.net/register">Daftar</a> terlebih dahulu -> aktivasi akun melalui email.<br><br>
    • Jika anda sudah memiliki akun, silakan <a href="https://i-ot.net/login">Masuk</a> untuk dapat mengakses layanan io-t.net.<br><br>
 
 <br><br>
