@@ -85,7 +85,7 @@ This project is closely related to agricultural technology, where this tool is u
    ```
    
 3. ``` Board Setup ``` in Arduino IDE<br><br>
-   • Method: click ``` Tools ``` -> ``` Board ``` -> ``` Boards Manager ``` -> Install ``` esp32 ```. Then selecting a Board by clicking: ``` Tools ``` -> ``` Board ``` -> ``` ESP32 Arduino ``` -> ``` DOIT ESP32 DEVKIT V1 ```. Regarding the Arduino Uno board in this project it is only used as a voltage regulator. So in this section you do not need to configure the Arduino Uno (just focus on the ESP32 only).<br><br>
+   • Method: click ``` Tools ``` -> ``` Board ``` -> ``` Boards Manager ``` -> Install ``` esp32 ```. Then selecting a Board by clicking: ``` Tools ``` -> ``` Board ``` -> ``` ESP32 Arduino ``` -> ``` DOIT ESP32 DEVKIT V1 ```.<br><br>Regarding the Arduino Uno board in this project it is only used as a voltage regulator. So in this section you do not need to configure the Arduino Uno (just focus on the ESP32 only).<br><br>
    
 4. ``` Change the Board Speed ``` in Arduino IDE<br><br>
    • Method: click ``` Tools ``` -> ``` Upload Speed ``` -> ``` 115200 ```.<br><br>
