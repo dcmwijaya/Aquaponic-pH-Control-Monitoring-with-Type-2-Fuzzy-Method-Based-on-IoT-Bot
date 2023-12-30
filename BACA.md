@@ -106,7 +106,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 
 ## Pengaturan io-t.net
 1. Memulai io-t.net :<br><br>
-   • Buka situs resminya di tautan berikut: <a href="https://io-t.net/">io-t.net</a>.<br><br>
+   • Buka situs resminya di tautan berikut : <a href="https://io-t.net/">io-t.net</a>.<br><br>
    • Jika anda belum memiliki akun, silakan <a href="https://i-ot.net/register">Daftar</a> terlebih dahulu -> aktivasi akun melalui email.<br><br>
    • Jika anda sudah memiliki akun, silakan <a href="https://i-ot.net/login">Masuk</a> untuk dapat mengakses layanan io-t.net.<br><br>
 
@@ -116,7 +116,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 
 3. Buat device :<br><br>
    • Masuk ke menu ``` Devices ```.<br><br>
-   • Pilih ``` Tambah Devices ``` -> isi bagian ``` Client ID ```, ``` Access ```, ``` Topic ``` sesuai dengan kebutuhan. Contohnya seperti ini:<br>
+   • Pilih ``` Tambah Devices ``` -> isi bagian ``` Client ID ```, ``` Access ```, ``` Topic ``` sesuai dengan kebutuhan. Contohnya seperti ini :<br>
       - ``` Client ID ``` -> ``` Phiotnet_v1 ```.<br>
       - ``` Access ``` -> ``` Publish & Subscribe ```.<br>
       - ``` Topic ``` -> ``` detect ```.
