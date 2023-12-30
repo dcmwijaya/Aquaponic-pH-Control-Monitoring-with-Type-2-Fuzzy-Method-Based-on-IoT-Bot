@@ -110,6 +110,17 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
    • Jika anda belum memiliki akun, silakan <a href="https://i-ot.net/register">Daftar</a> terlebih dahulu -> aktivasi akun melalui email.<br><br>
    • Jika anda sudah memiliki akun, silakan <a href="https://i-ot.net/login">Masuk</a> untuk dapat mengakses layanan io-t.net.<br><br>
 
+2. Buat node :<br><br>
+   • Masuk ke menu ``` Instance ``` -> ``` Atur Node ```.<br><br>
+   • Lalu berikan nama yang unik pada node yang anda gunakan.<br><br>
+
+3. Buat device :<br><br>
+   • Masuk ke menu ``` Devices ```.<br><br>
+   • Pilih ``` Tambah Devices ```. Lalu isi bagian ``` Client ID ```, ``` Access ```, ``` Topic ``` sesuai dengan kebutuhan anda. Contohnya sebagai berikut:<br>
+      - ``` Client ID ``` -> ``` Phiotnet_v1 ```.<br>
+      - ``` Access ``` -> ``` Publish & Subscribe ```.<br>
+      - ``` Topic ``` -> ``` detect ```.
+   
 <br><br>
 
 ## Pengaturan Bot Telegram
