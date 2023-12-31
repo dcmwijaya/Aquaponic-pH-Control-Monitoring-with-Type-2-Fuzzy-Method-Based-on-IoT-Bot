@@ -55,8 +55,8 @@ This project is closely related to agricultural technology, where this tool is u
 </tr>
 <tr>
 <td><img src="https://user-images.githubusercontent.com/54527592/174567843-176f5f16-fbe3-420d-b50b-0aff1d11714e.jpg" alt="Pictorial-Diagram"></td>
-<td><img src="https://user-images.githubusercontent.com/54527592/174567696-c3737937-dbdd-4608-a6a2-3b9ec0cb81cd.jpg" alt="Prototype-Design"></td>
-<td><img src="https://user-images.githubusercontent.com/54527592/174568419-f564693e-d35d-4d85-b967-3144d6671bf9.jpg" alt="MainBox-Design"></td>
+<td><img src="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/assets/54527592/86d03081-632b-415c-9962-f38ba9097039" alt="Prototype-Design"></td>
+<td><img src="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/assets/54527592/6d8c4722-5b95-44ba-b383-404d83377334" alt="MainBox-Design"></td>
 </tr>
 </table>
 <table>
