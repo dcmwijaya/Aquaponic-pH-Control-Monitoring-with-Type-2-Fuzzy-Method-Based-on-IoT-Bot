@@ -22,11 +22,11 @@ This project is closely related to agricultural technology, where this tool is u
 | Telegram | Telegram Bot API |
 | Matlab |  Fuzzy Interface System |
 | Arduino Library | WiFi, PubSubClient, ESPMQTTClient, OneWire, LiquidCrystal I2C, CTBot, & RTClib |
-| Actuators | Submersible pump aquarium, Pneumatic solenoid valve, & Piezo buzzer |
-| Sensor | pH Sensor & RTC (real time clock) |
-| Display | LCD I2C |
-| Switch | Switching power supply, Electrical relay 2 channel, & Round switch |
-| Other Components | Micro usb cable, ESP32 baseboard, PCB Dot Matrix, Terminal PCB block screw, Jumper cable, Socket female jack DC, Connector male jack DC, ETC |
+| Actuators | Submersible pump aquarium (x1), Pneumatic solenoid valve (x2), & Piezo buzzer (x1) |
+| Sensor | pH Sensor (x1) & RTC (x1) |
+| Display | LCD I2C (x1) |
+| Switch | Switching power supply (x1), Electrical relay 2 channel (x1), & Round switch (x1) |
+| Other Components | Micro usb cable (x1), ESP32 baseboard (x1), PCB Dot Matrix (x1), Terminal PCB block screw (x10), Jumper cable, Socket female jack DC (x1), Connector male jack DC (x3), ETC |
 
 <br><br>
 
