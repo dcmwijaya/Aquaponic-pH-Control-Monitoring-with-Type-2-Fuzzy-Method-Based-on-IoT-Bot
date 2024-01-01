@@ -26,7 +26,7 @@ This project is closely related to agricultural technology, where this tool is u
 | Sensor | pH Sensor & RTC (real time clock) |
 | Display | LCD I2C |
 | Switch | Switching power supply, Electrical relay 2 channel, & Round switch |
-| Other Components | Micro usb cable, USB cable type A/B, ESP32 baseboard, PCB Dot Matrix, Terminal PCB block screw, Jumper cable, Socket female jack DC, Connector male jack DC, ETC |
+| Other Components | Micro usb cable, ESP32 baseboard, PCB Dot Matrix, Terminal PCB block screw, Jumper cable, Socket female jack DC, Connector male jack DC, ETC |
 
 <br><br>
 
