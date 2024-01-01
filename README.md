@@ -25,7 +25,7 @@ This project is closely related to agricultural technology, where this tool is u
 | Actuators | Submersible pump aquarium (x1), Pneumatic solenoid valve (x2), & Piezo buzzer (x1) |
 | Sensor | pH Sensor (x1) & RTC (x1) |
 | Display | LCD I2C (x1) |
-| Switch | Switching power supply (x1), Electrical relay 2 channel (x1), & Round switch (x1) |
+| Switch | Switching power supply 12V 1A (x1), Electrical relay 2 channel (x1), & Round switch (x1) |
 | Other Components | Micro usb cable (x1), ESP32 baseboard (x1), PCB Dot Matrix (x1), Terminal PCB block screw (x10), Jumper cable, Socket female jack DC (x1), Connector male jack DC (x3), ETC |
 
 <br><br>
