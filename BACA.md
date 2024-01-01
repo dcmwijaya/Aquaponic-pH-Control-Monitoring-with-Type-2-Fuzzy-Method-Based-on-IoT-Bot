@@ -26,7 +26,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 | Sensor | pH Sensor & RTC (real time clock) |
 | Layar | LCD I2C |
 | Saklar | Switching power supply, Electrical relay 2 channel, & Saklar bulat |
-| Komponen Lainnya | ESP32 baseboard, PCB Dot Matrix, Terminal PCB block screw, Kabel Jumper, Socket female jack DC, & Connector male jack DC  |
+| Komponen Lainnya | Kabel micro usb, Kabel USB tipe A/B, ESP32 baseboard, PCB Dot Matrix, Terminal PCB block screw, Kabel Jumper, Socket female jack DC, Connector male jack DC, DLL |
 
 <br><br>
 
