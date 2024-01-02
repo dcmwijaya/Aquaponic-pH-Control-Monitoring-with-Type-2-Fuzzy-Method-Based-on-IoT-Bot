@@ -21,6 +21,7 @@ This project is closely related to agricultural technology, where this tool is u
 | IoT Architecture | 4 Layer |
 | Telegram | Telegram Bot API |
 | Matlab |  Fuzzy Interface System |
+| Programming Language | C/C++ |
 | Arduino Library | WiFi, PubSubClient, ESPMQTTClient, OneWire, LiquidCrystal I2C, CTBot, & RTClib |
 | Actuators | Submersible pump aquarium (x1), Pneumatic solenoid valve (x2), & Piezo buzzer (x1) |
 | Sensor | pH Sensor (x1) & RTC (x1) |
