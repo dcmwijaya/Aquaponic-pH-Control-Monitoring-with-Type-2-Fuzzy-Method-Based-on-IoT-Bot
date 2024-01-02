@@ -13,7 +13,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 ## Fitur / Kerangka Kerja / Alat
 | Media | Deskripsi |
 | --- | --- |
-| Papan Pengembangan | DOIT ESP32 DEVKIT V1 & Arduino Uno |
+| Papan Pengembangan | DOIT ESP32 DEVKIT V1 & Arduino Uno R3 |
 | Editor Kode | Arduino IDE |
 | Driver | USB-Serial CP210X |
 | Platform IoT | io-t.net |
@@ -21,6 +21,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 | Arsitektur IoT | 4 Lapisan |
 | Telegram | API Bot Telegram |
 | Matlab |  Fuzzy Interface System |
+| Bahasa Pemrograman | C/C++ |
 | Pustaka Arduino | WiFi, PubSubClient, ESPMQTTClient, OneWire, LiquidCrystal I2C, CTBot, & RTClib |
 | Aktuator | Submersible pump aquarium (x1), Pneumatic solenoid valve (x2), & Piezo buzzer (x1) |
 | Sensor | pH Sensor (x1) & RTC (x1) |
