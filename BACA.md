@@ -10,7 +10,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 
 <br><br>
 
-## Fitur / Kerangka Kerja / Alat
+## Kebutuhan Proyek
 | Media | Deskripsi |
 | --- | --- |
 | Papan Pengembangan | DOIT ESP32 DEVKIT V1 & Arduino Uno R3 |
@@ -47,7 +47,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 
 <br><br>
 
-## Persyaratan Proyek
+## Rancangan Proyek
 <table>
 <tr>
 <th width="280">Diagram Piktorial</th>
@@ -152,13 +152,9 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
    
 3. Pastikan komponen anda telah dirancang sesuai dengan diagram.<br><br>
    
-4. Membuat akun untuk Platform IoT beserta layanannya.<br><br>
-    
-5. Jika Anda tidak menerapkan poin 2 dan 3 untuk tujuan pengembangan proyek, tidak masalah, tetapi perlu diketahui bahwa beberapa hal perlu diubah sesuai dengan kebutuhan Anda agar sistem dapat bekerja dengan baik.<br><br>
+4. Konfigurasikan perangkat anda menurut pengaturan di atas.<br><br>
 
-6. Pastikan semua Things telah dibuat.<br><br>
-
-7. Selamat menikmati [Selesai].
+5. Selamat menikmati [Selesai].
 
 <br><br>
 
