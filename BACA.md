@@ -13,7 +13,8 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 ## Kebutuhan Proyek
 | Media | Deskripsi |
 | --- | --- |
-| Papan Pengembangan | DOIT ESP32 DEVKIT V1 & Arduino Uno R3 |
+| Papan Pengembangan | DOIT ESP32 DEVKIT V1 |
+| Dukungan Papan Utama | Arduino Uno R3 |
 | Editor Kode | Arduino IDE |
 | Driver | USB-Serial CP210X |
 | Platform IoT | io-t.net |
@@ -26,8 +27,8 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 | Aktuator | Submersible pump aquarium (x1), Pneumatic solenoid valve (x2), & Piezo buzzer (x1) |
 | Sensor | pH Sensor (x1) & RTC (x1) |
 | Layar | LCD I2C (x1) |
-| Saklar | Switching power supply 12V 1A (x1), Electrical relay 2 channel (x1), & Saklar bulat (x1) |
-| Komponen Lainnya | Kabel micro usb (x1), ESP32 baseboard (x1), PCB Dot Matrix (x1), Terminal PCB block screw (x10), Kabel Jumper, Socket female jack DC (x1), Connector male jack DC (x3), DLL |
+| Komponen Lainnya | Kabel Mikro USB - USB tipe A (x1), Kabel jumper (1 set), Switching power supply 12V 1A (x1), Electrical relay 2 channel (x1), Saklar bulat (x1), Papan ekspansi ESP32 (x1), PCB Dot Matrix (x1), Terminal PCB block screw (x10), Socket female jack DC (x1), Connector male jack DC (x3), Probe Elektroda pH (x1), Pipa (1 set), Netpot (1 set), Rockwool (1 set), Kain flanel (1 set), Saringan air (x1), Gelas dop (1 set), Botol (x2), Tatakan beroda akuarium (x1), Akuarium (x1), Kotak casing (x1), Skun (1 set), Plat galvanis (x1), Baut plus (1 set), dan Mur (1 set) |
+| Objek Percobaan | Benih sawi pakcoy & Benih lele dumbo |
 
 <br><br>
 
