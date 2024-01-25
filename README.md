@@ -27,7 +27,7 @@ This project is closely related to agricultural technology, where this tool is u
 | Actuators | Submersible pump aquarium (x1), Pneumatic solenoid valve (x2), & Piezo buzzer (x1) |
 | Sensor | pH Sensor (x1) & RTC (x1) |
 | Display | LCD I2C (x1) |
-| Other Components | Micro USB cable - USB type A (x1), Jumper cable (1 set), Switching power supply 12V 1A (x1), Electrical relay 2 channel (x1), Round switch (x1), ESP32 expansion board (x1), PCB Dot Matrix (x1), Terminal PCB block screw (x10), Socket female jack DC (x1), Connector male jack DC (x3), Probe Elektroda pH (x1), Pipes (1 set), Netpot (1 set), Rockwool (1 set), Flannel fabric (1 set), Water filter (x1), Glass hubcap (1 set), Bottle (x2), Skun (1 set), Bolts plus (1 set), and Nuts (1 set) |
+| Other Components | Micro USB cable - USB type A (x1), Jumper cable (1 set), Switching power supply 12V 1A (x1), Electrical relay 2 channel (x1), Round switch (x1), ESP32 expansion board (x1), PCB Dot Matrix (x1), Terminal PCB block screw (x10), Socket female jack DC (x1), Connector male jack DC (x3), Probe Elektroda pH (x1), Pipes (1 set), Netpot (1 set), Rockwool (1 set), Flannel fabric (1 set), Water filter (x1), Glass hubcap (1 set), Bottle (x2), Aquarium wheeled placemat (x1), Aquarium (x1), Casing box (x1), Skun (1 set), Galvanized plate (x1), Bolts plus (1 set), and Nuts (1 set) |
 | Experimental Object | Pakcoy mustard seeds & Dumbo catfish fry |
 
 <br><br>
