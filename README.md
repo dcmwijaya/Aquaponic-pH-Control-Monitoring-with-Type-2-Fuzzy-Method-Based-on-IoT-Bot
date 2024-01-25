@@ -13,7 +13,8 @@ This project is closely related to agricultural technology, where this tool is u
 ## Project Requirements
 | Media | Description |
 | --- | --- |
-| Board Development | DOIT ESP32 DEVKIT V1 & Arduino Uno R3 |
+| Board Development | DOIT ESP32 DEVKIT V1 |
+| Main Board Support | Arduino Uno R3 |
 | Code Editor | Arduino IDE |
 | Driver | USB-Serial CP210X |
 | IoT Platform | io-t.net |
@@ -26,8 +27,7 @@ This project is closely related to agricultural technology, where this tool is u
 | Actuators | Submersible pump aquarium (x1), Pneumatic solenoid valve (x2), & Piezo buzzer (x1) |
 | Sensor | pH Sensor (x1) & RTC (x1) |
 | Display | LCD I2C (x1) |
-| Switch | Switching power supply 12V 1A (x1), Electrical relay 2 channel (x1), & Round switch (x1) |
-| Other Components | Micro usb cable (x1), ESP32 baseboard (x1), PCB Dot Matrix (x1), Terminal PCB block screw (x10), Jumper cable, Socket female jack DC (x1), Connector male jack DC (x3), ETC |
+| Other Components | Micro USB cable - USB type A (x1), Jumper cable (1 set), Switching power supply 12V 1A (x1), Electrical relay 2 channel (x1), Round switch (x1), ESP32 expansion board (x1), PCB Dot Matrix (x1), Terminal PCB block screw (x10), Socket female jack DC (x1), Connector male jack DC (x3), Probe Elektroda pH (x1), Bottle (x2), Bolts plus (1 set), and Nuts (1 set) |
 
 <br><br>
 
