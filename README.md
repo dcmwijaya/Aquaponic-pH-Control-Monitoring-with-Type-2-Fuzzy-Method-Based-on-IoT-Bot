@@ -14,7 +14,7 @@ This project is closely related to agricultural technology, where this tool is u
 | Media | Description |
 | --- | --- |
 | Development Board | DOIT ESP32 DEVKIT V1 |
-| Main Board Support | Arduino Uno R3 |
+| Supporting Board | Arduino Uno R3 |
 | Code Editor | Arduino IDE |
 | Driver | USB-Serial CP210X |
 | IoT Platform | io-t.net |
