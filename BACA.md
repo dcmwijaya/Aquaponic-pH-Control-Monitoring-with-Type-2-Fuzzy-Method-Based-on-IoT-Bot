@@ -14,7 +14,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 | Media | Deskripsi |
 | --- | --- |
 | Papan Pengembangan | DOIT ESP32 DEVKIT V1 |
-| Dukungan Papan Utama | Arduino Uno R3 |
+| Papan Pendukung | Arduino Uno R3 |
 | Editor Kode | Arduino IDE |
 | Driver | USB-Serial CP210X |
 | Platform IoT | io-t.net |
