@@ -11,7 +11,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 <br><br>
 
 ## Kebutuhan Proyek
-| Media | Deskripsi |
+| Bagian | Deskripsi |
 | --- | --- |
 | Papan Pengembangan | DOIT ESP32 DEVKIT V1 |
 | Papan Pendukung | Arduino Uno R3 |
