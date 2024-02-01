@@ -116,7 +116,7 @@ This project is closely related to agricultural technology, where this tool is u
 
     • Do not press the ``` BOOT ``` and ``` EN ``` buttons at the same time as it will enter the ``` firmware upload ``` mode.<br><br>
 
-12. If there is still a problem when uploading the program, then try to check the ``` driver ``` / ``` port ``` / ``` others ``` section.
+11. If there is still a problem when uploading the program, then try to check the ``` driver ``` / ``` port ``` / ``` others ``` section.
 
 <br><br>
 
