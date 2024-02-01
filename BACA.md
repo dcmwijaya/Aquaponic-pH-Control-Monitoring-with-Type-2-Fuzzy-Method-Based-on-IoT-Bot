@@ -110,7 +110,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
     
     • Ketika jendela informasi muncul pesan: ``` Done Uploading ``` maka lepaskan tombol ``` BOOT ```.
 
-    • Jika ``` board ESP32 ``` anda tidak dapat menerima unggahan program, maka anda dapat membersihkannya terlebih dahulu dengan cara menekan tombol ``` EN ``` lalu ``` Restart ```.
+    • Jika ``` board ESP32 ``` tidak dapat menerima unggahan program, maka tekan tombol ``` EN (RESET) ``` lalu ``` Restart ```.
 
     • Jangan menekan tombol ``` BOOT ``` dan ``` EN ``` secara bersamaan karena akan masuk ke dalam mode ``` unggahan firmware ```.<br><br>
 
