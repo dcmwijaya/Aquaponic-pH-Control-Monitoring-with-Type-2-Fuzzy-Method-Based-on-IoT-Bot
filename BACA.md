@@ -104,7 +104,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 
 9. Jika tidak ada kesalahan dalam kode program, silakan klik: ``` Upload ```.<br><br>
     
-10. Tahapan yang harus dilakukan ketika anda menggunakan ``` board ESP32 ``` :
+10. Beberapa hal yang perlu anda lakukan ketika menggunakan ``` board ESP32 ``` :
 
     • Ketika jendela informasi muncul pesan: ``` Uploading... ``` maka tekan dan tahan tombol ``` BOOT ```.
     
