@@ -110,7 +110,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 
     • Informasi ``` Arduino IDE ```: ``` Persentase (%) ``` -> lepaskan tombol ``` BOOT ```.
 
-    • Tunggu sampai pesan muncul: ``` Done Uploading ``` -> ``` Program dioperasikan ```.
+    • Tunggu sampai muncul pesan: ``` Done Uploading ``` -> ``` Program langsung dioperasikan ```.
 
     • Jika ``` board ESP32 ``` tidak dapat menerima pengunggahan program, maka tekan tombol ``` EN (RST) ``` lalu ``` Restart ```.
 
