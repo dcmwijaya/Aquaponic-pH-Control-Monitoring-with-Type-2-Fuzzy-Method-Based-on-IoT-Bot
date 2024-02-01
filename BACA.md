@@ -106,15 +106,15 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
     
 10. Beberapa hal yang perlu anda lakukan ketika menggunakan ``` board ESP32 ``` :
 
-    • Ketika jendela informasi muncul pesan: ``` Uploading... ``` maka tekan dan tahan tombol ``` BOOT ```.
-    
-    • Ketika jendela informasi muncul pesan: ``` Done Uploading ``` maka lepaskan tombol ``` BOOT ```.
+    • Saat jendela informasi menampilkan pesan: ``` Uploading... ``` maka segera tekan dan tahan tombol ``` BOOT ```.
+
+    • Saat konsol menampilkan pesan: ``` Persentase (%) ``` maka lepaskan tombol ``` BOOT ``` dan tunggu hingga muncul pesan: ``` Done Uploading ```.
 
     • Jika ``` board ESP32 ``` tidak dapat menerima unggahan program, maka tekan tombol ``` EN (RESET) ``` lalu ``` Restart ```.
 
     • Jangan menekan tombol ``` BOOT ``` dan ``` EN ``` secara bersamaan karena akan masuk ke dalam mode ``` unggahan firmware ```.<br><br>
 
-11. Jika saat unggah program masih terdapat masalah, maka coba periksa pada bagian ``` driver ``` / ``` port ``` / ``` yang lainnya ```.
+12. Jika saat unggah program masih terdapat masalah, maka coba periksa pada bagian ``` driver ``` / ``` port ``` / ``` yang lainnya ```.
 
 <br><br>
 
