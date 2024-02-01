@@ -104,7 +104,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 
 9. Jika tidak ada kesalahan dalam kode program, silakan klik: ``` Upload ```.<br><br>
     
-10. Beberapa hal yang perlu anda lakukan ketika menggunakan ``` board ESP32 ``` :
+10. Beberapa hal yang perlu anda lakukan ketika memakai ``` board ESP32 ``` :
 
     • Saat jendela informasi menampilkan pesan: ``` Uploading... ``` maka segera tekan dan tahan tombol ``` BOOT ```.
 
@@ -114,7 +114,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 
     • Jangan menekan tombol ``` BOOT ``` dan ``` EN ``` secara bersamaan karena akan masuk ke dalam mode ``` unggahan firmware ```.<br><br>
 
-12. Jika saat unggah program masih terdapat masalah, maka coba periksa pada bagian ``` driver ``` / ``` port ``` / ``` yang lainnya ```.
+11. Jika saat unggah program masih terdapat masalah, maka coba periksa pada bagian ``` driver ``` / ``` port ``` / ``` yang lainnya ```.
 
 <br><br>
 
