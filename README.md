@@ -16,11 +16,11 @@ This project is closely related to agricultural technology, where this tool is u
 | Development Board | DOIT ESP32 DEVKIT V1 |
 | Supporting Board | Arduino Uno R3 |
 | Code Editor | Arduino IDE |
+| Application Support | Telegram Bot |
 | Driver | USB-Serial CP210X |
 | IoT Platform | io-t.net |
 | IoT Protocol | MQTT |
 | IoT Architecture | 4 Layer |
-| Telegram | Telegram Bot API |
 | Matlab |  Fuzzy Interface System |
 | Programming Language | C/C++ |
 | Arduino Library | WiFi, PubSubClient, ESPMQTTClient, OneWire, LiquidCrystal I2C, CTBot, & RTClib |
