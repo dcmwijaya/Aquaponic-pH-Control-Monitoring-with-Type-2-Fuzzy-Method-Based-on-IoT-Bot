@@ -16,11 +16,11 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 | Papan Pengembangan | DOIT ESP32 DEVKIT V1 |
 | Papan Pendukung | Arduino Uno R3 |
 | Editor Kode | Arduino IDE |
+| Dukungan Aplikasi | Bot Telegram |
 | Driver | USB-Serial CP210X |
 | Platform IoT | io-t.net |
 | Protokol IoT | MQTT |
 | Arsitektur IoT | 4 Lapisan |
-| Telegram | API Bot Telegram |
 | Matlab |  Fuzzy Interface System |
 | Bahasa Pemrograman | C/C++ |
 | Pustaka Arduino | WiFi, PubSubClient, ESPMQTTClient, OneWire, LiquidCrystal I2C, CTBot, & RTClib |
