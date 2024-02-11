@@ -77,14 +77,25 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 <br><br>
 
 ## Pengaturan Arduino IDE
-1. Buka ``` Arduino IDE ``` terlebih dahulu, kemudian buka proyek dengan cara klik: ``` File ``` -> ``` Open ``` -> ``` PH_IT2FL.ino ```.<br><br>
+1. Buka ``` Arduino IDE ``` terlebih dahulu, kemudian buka proyek dengan cara klik ``` File ``` -> ``` Open ``` :
+
+   <table><tr><td width="840">
+      
+      ``` PH_IT2FL.ino ```
+
+   </td></tr></table><br>
    
-2. Isi ``` Url Pengelola Papan Tambahan ``` di Arduino IDE<br><br>
-   • Cara: klik ``` File ``` -> ``` Preferences ``` -> masukkan ``` Boards Manager Url ``` dengan menyalin tautan berikut:
-   
-   ```
-   https://dl.espressif.com/dl/package_esp32_index.json
-   ```
+2. Isi ``` Url Pengelola Papan Tambahan ``` di Arduino IDE
+
+   <table><tr><td width="840">
+      
+      Klik ``` File ``` -> ``` Preferences ``` -> masukkan ``` Boards Manager Url ``` dengan menyalin tautan berikut:
+      
+      ```
+      https://dl.espressif.com/dl/package_esp32_index.json
+      ```
+
+   </td></tr></table><br>
    
 3. ``` Pengaturan Board ``` di Arduino IDE<br><br>
    • Cara: klik ``` Tools ``` -> ``` Board ``` -> ``` Boards Manager ``` -> Instal ``` esp32 ```. Kemudian pilih Board dengan mengklik: ``` Tools ``` -> ``` Board ``` -> ``` ESP32 Arduino ``` -> ``` DOIT ESP32 DEVKIT V1 ```.<br><br>Mengenai board Arduino Uno yang ada dalam proyek ini hanya digunakan sebatas regulator tegangan. Jadi pada bagian ini anda tidak perlu melakukan konfigurasi Arduino Uno (cukup hanya berfokus pada ESP32 saja).<br><br>
