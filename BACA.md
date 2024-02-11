@@ -89,7 +89,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 
    <table><tr><td width="840">
       
-      Klik ``` File ``` -> ``` Preferences ``` -> masukkan ``` Boards Manager Url ``` dengan menyalin tautan berikut:
+      Klik ``` File ``` -> ``` Preferences ``` -> masukkan ``` Boards Manager Url ``` dengan menyalin tautan berikut :
       
       ```
       https://dl.espressif.com/dl/package_esp32_index.json
@@ -111,34 +111,53 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 
    </td></tr></table><br>
    
-5. ``` Ubah Kecepatan Papan ``` di Arduino IDE<br><br>
-   • Cara: klik ``` Tools ``` -> ``` Upload Speed ``` -> ``` 115200 ```.<br><br>
+4. ``` Ubah Kecepatan Papan ``` di Arduino IDE
+
+   <table><tr><td width="840">
+      
+      Klik ``` Tools ``` -> ``` Upload Speed ``` -> ``` 115200 ```
+
+   </td></tr></table><br>
    
-6. ``` Instal Pustaka ``` di Arduino IDE<br><br>
-   • Cara: unduh semua file zip pustaka. Kemudian tempelkan di: ``` C:\Users\Computer_Username\Documents\Arduino\libraries ```.<br><br>
+5. ``` Instal Pustaka ``` di Arduino IDE
 
-7. ``` Pengaturan Port ``` di Arduino IDE<br><br>
-   • Cara: klik ``` Port ``` -> Pilih sesuai dengan port perangkat Anda ``` (Anda dapat melihatnya di Device Manager) ```.<br><br>
+   <table><tr><td width="840">
+      
+      Unduh semua file zip pustaka. Kemudian tempelkan di: ``` C:\Users\Computer_Username\Documents\Arduino\libraries ```
 
-8. Ubah ``` Nama WiFi ```, ``` Kata Sandi WiFi ```, dan sebagainya sesuai dengan apa yang Anda gunakan saat ini.<br><br>
+   </td></tr></table><br>
 
-9. Sebelum mengunggah program, silakan klik: ``` Verify ```.<br><br>
+6. ``` Pengaturan Port ``` di Arduino IDE
 
-10. Jika tidak ada kesalahan dalam kode program, silakan klik: ``` Upload ```.<br><br>
+   <table><tr><td width="840">
+      
+      Klik ``` Port ``` -> Pilih sesuai dengan port perangkat Anda ``` (Anda dapat melihatnya di Device Manager) ```
+
+   </td></tr></table><br>
+
+7. Ubah ``` Nama WiFi ```, ``` Kata Sandi WiFi ```, dan sebagainya sesuai dengan apa yang Anda gunakan saat ini.<br><br>
+
+8. Sebelum mengunggah program, silakan klik: ``` Verify ```.<br><br>
+
+9. Jika tidak ada kesalahan dalam kode program, silakan klik: ``` Upload ```.<br><br>
     
-11. Beberapa hal yang perlu anda lakukan saat menggunakan ``` board ESP32 ```:
+10. Beberapa hal yang perlu anda lakukan saat menggunakan ``` board ESP32 ``` :
+    
+    <table><tr><td width="840">
 
-    • Informasi ``` Arduino IDE ```: ``` Uploading... ``` -> segera tekan dan tahan tombol ``` BOOT ```.
+       • Informasi ``` Arduino IDE ```: ``` Uploading... ``` -> segera tekan dan tahan tombol ``` BOOT ```.
 
-    • Informasi ``` Arduino IDE ```: ``` Writing at .... (%) ``` -> lepaskan tombol ``` BOOT ```.
+       • Informasi ``` Arduino IDE ```: ``` Writing at .... (%) ``` -> lepaskan tombol ``` BOOT ```.
 
-    • Tunggu sampai muncul pesan: ``` Done Uploading ``` -> ``` Program langsung dioperasikan ```.
+       • Tunggu sampai muncul pesan: ``` Done Uploading ``` -> ``` Program langsung dioperasikan ```.
 
-    • Jika ``` board ESP32 ``` tidak dapat menerima pengunggahan program, maka tekan tombol ``` EN (RST) ``` lalu ``` Restart ```.
+       • Jika ``` board ESP32 ``` tidak dapat menerima pengunggahan program, maka tekan tombol ``` EN (RST) ``` lalu ``` Restart ```.
 
-    • Jangan tekan tombol ``` BOOT ``` dan ``` EN ``` secara bersamaan karena akan masuk ke mode ``` pengunggahan firmware ```.<br><br>
+       • Jangan tekan tombol ``` BOOT ``` dan ``` EN ``` secara bersamaan karena akan masuk ke mode ``` pengunggahan firmware ```.
 
-12. Jika saat unggah program masih terdapat masalah, maka coba periksa pada bagian ``` driver ``` / ``` port ``` / ``` yang lainnya ```.
+    </td></tr></table><br>
+
+11. Jika saat unggah program masih terdapat masalah, maka coba periksa pada bagian ``` driver ``` / ``` port ``` / ``` yang lainnya ```.
 
 <br><br>
 
