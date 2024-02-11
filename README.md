@@ -162,21 +162,43 @@ This project is closely related to agricultural technology, where this tool is u
 <br><br>
 
 ## Io-t.net Setup
-1. Getting started with io-t.net :<br><br>
-   • Go to the official website at the following link : <a href="https://io-t.net/">io-t.net</a>.<br><br>
-   • If you do not have an account, please <a href="https://i-ot.net/register">Register</a> first -> activate your account via email.<br><br>
-   • If you already have an account, please <a href="https://i-ot.net/login">Sign In</a> to be able to access io-t.net services.<br><br>
+1. Getting started with io-t.net :
 
-2. Create a node :<br><br>
-   • Go to ``` Instance ``` menu -> ``` Set Node ```.<br><br>
-   • Then give the node a unique name that you use.<br><br>
+   <table><tr><td width="840">
+      
+      • Go to the official website at the following link : <a href="https://io-t.net/">io-t.net</a>.
+      
+      • If you do not have an account, please <a href="https://i-ot.net/register">Register</a> first -> activate your account via email.
+      
+      • If you already have an account, please <a href="https://i-ot.net/login">Sign In</a> to be able to access io-t.net services.
 
-3. Create a device :<br><br>
-   • Go to ``` Devices ``` menu.<br><br>
-   • Select ``` Add Devices ``` -> fill in the ``` Client ID ```, ``` Access ```, ``` Topic ``` sections as needed. For example like this :<br>
-      - ``` Client ID ``` -> ``` Phiotnet_v1 ```.<br>
-      - ``` Access ``` -> ``` Publish & Subscribe ```.<br>
+   </td></tr></table><br>
+
+2. Create a node :
+
+   <table><tr><td width="840">
+      
+      • Go to ``` Instance ``` menu -> ``` Set Node ```.
+      
+      • Then give the node a unique name that you use.
+
+   </td></tr></table><br>
+
+3. Create a device :
+
+   <table><tr><td width="840">
+      
+      • Go to ``` Devices ``` menu.
+      
+      • Select ``` Add Devices ``` -> fill in the ``` Client ID ```, ``` Access ```, ``` Topic ``` sections as needed. For example like this :
+   
+      - ``` Client ID ``` -> ``` Phiotnet_v1 ```.
+
+      - ``` Access ``` -> ``` Publish & Subscribe ```.
+
       - ``` Topic ``` -> ``` detect ```.
+
+   </td></tr></table>
    
 <br><br>
 
