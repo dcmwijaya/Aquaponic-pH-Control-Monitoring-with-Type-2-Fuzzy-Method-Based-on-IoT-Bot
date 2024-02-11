@@ -181,25 +181,26 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 <br><br>
 
 ## Pengaturan Bot Telegram
-1. Buka <a href="https://t.me/botfather">@BotFather</a>.
+1. Buka <a href="https://t.me/botfather">@BotFather</a>.<br><br>
 
-2. Ketik ``` /newbot ```.
+2. Ketik ``` /newbot ```.<br><br>
 
-3. Ketik nama bot yang diinginkan, contoh: ``` phiotnet_bot ```.
+3. Ketik nama bot yang diinginkan, contoh: ``` phiotnet_bot ```.<br><br>
 
-4. Ketik nama pengguna bot yang diinginkan, contoh: ``` phiotnet_bot ```.
+4. Ketik nama pengguna bot yang diinginkan, contoh: ``` phiotnet_bot ```.<br><br>
 
-5. Lakukan juga untuk pengaturan gambar bot, deskripsi bot, dan lain sebagainya menyesuaikan dengan kebutuhan anda.
+5. Lakukan juga untuk pengaturan gambar bot, deskripsi bot, dan lain sebagainya menyesuaikan dengan kebutuhan anda.<br><br>
 
-6. Salin ``` API token bot telegram anda ``` -> lalu tempelkan pada bagian ``` #define BOTtoken "YOUR_API_BOT_TOKEN" ```. Contohnya yaitu :
+6. Salin ``` API token bot telegram anda ``` -> lalu tempelkan pada bagian ``` #define BOTtoken "YOUR_API_BOT_TOKEN" ```. 
+
+   <table><tr><td width="840">
+   Contohnya yaitu :<br><br>
 
    ```
-   #define BOTtoken "2130879110:AAEoY1qtnB3xcspCUjCYsUGImysau3N802U" //API bot telegram
+   #define BOTtoken "2006772150:AAE6Fdjk3KbiySkzV6CLbd6ClJDzgTfJ5y0"
    ```
-   
-7. Jika gagal terkoneksi ke Bot Telegram, maka perkiraan masalahnya ada di bagian firmware. Silakan periksa lagi.
 
-<br><br>
+   </td></tr></table><br><br>
 
 ## Memulai
 1. Unduh dan ekstrak repositori ini.<br><br>
@@ -235,11 +236,12 @@ Via Telegram: <a href="https://t.me/phiotnet_bot">@phiotnet_bot</a>
 
 <br>
 <b>Informasi lebih lanjut:</b> <br><br>
-<ul>
+<table><tr><td width="840">
+      
    • Skripsi: <a href="http://repository.upnjatim.ac.id/id/eprint/7014"><u>Klik Disini</u></a><br><br>
    • Jurnal tipe SINTA: <a href="https://publikasi.mercubuana.ac.id/index.php/Incomtech/article/view/15453"><u>Klik Disini</u></a><br><br>
    • Jurnal tipe Non SINTA: <a href="https://www.researchgate.net/publication/363660330_SISTEM_KONTROL_PH_UP-DOWN_BERBASIS_NODEMCU32_DENGAN_METODE_ON-OFF_CONTROLLER"><u>Klik Disini</u></a>
-</ul>
+</td></tr></table>
 
 <br><br>
 
