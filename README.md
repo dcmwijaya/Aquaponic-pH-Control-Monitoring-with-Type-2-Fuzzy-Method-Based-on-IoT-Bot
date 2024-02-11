@@ -81,7 +81,7 @@ This project is closely related to agricultural technology, where this tool is u
 
    <table><tr><td width="840">
    
-      ``` PH_IT2FL.ino ```.
+      ``` PH_IT2FL.ino ```
 
    </td></tr></table><br>
    
@@ -89,7 +89,7 @@ This project is closely related to agricultural technology, where this tool is u
 
    <table><tr><td width="840">
       
-      Click ``` File ``` -> ``` Preferences ``` -> enter the ``` Boards Manager Url ``` by copying the following link:
+      Click ``` File ``` -> ``` Preferences ``` -> enter the ``` Boards Manager Url ``` by copying the following link :
       
       ```
       https://dl.espressif.com/dl/package_esp32_index.json
@@ -111,34 +111,53 @@ This project is closely related to agricultural technology, where this tool is u
 
    </td></tr></table><br>
    
-5. ``` Change the Board Speed ``` in Arduino IDE<br><br>
-   • Method: click ``` Tools ``` -> ``` Upload Speed ``` -> ``` 115200 ```.<br><br>
+4. ``` Change the Board Speed ``` in Arduino IDE
+
+   <table><tr><td width="840">
+      
+      Click ``` Tools ``` -> ``` Upload Speed ``` -> ``` 115200 ```
+
+   </td></tr></table><br>
    
-6. ``` Install Library ``` in Arduino IDE<br><br>
-   • Method: download all the library zip files. Then paste it in the: ``` C:\Users\Computer_Username\Documents\Arduino\libraries ```.<br><br>
+5. ``` Install Library ``` in Arduino IDE
 
-7. ``` Port Setup ``` in Arduino IDE<br><br>
-   • Method: click ``` Port ``` -> Choose according to your device port ``` (you can see in device manager) ```.<br><br>
+   <table><tr><td width="840">
+      
+      Download all the library zip files. Then paste it in the: ``` C:\Users\Computer_Username\Documents\Arduino\libraries ```
 
-8. Change the ``` WiFi Name ```, ``` WiFi Password ```, and so on according to what you are currently using.<br><br>
+   </td></tr></table><br>
 
-9. Before uploading the program please click: ``` Verify ```.<br><br>
+6. ``` Port Setup ``` in Arduino IDE
 
-10. If there is no error in the program code, then please click: ``` Upload ```.<br><br>
+   <table><tr><td width="840">
+      
+      Click ``` Port ``` -> Choose according to your device port ``` (you can see in device manager) ```
+
+   </td></tr></table><br>
+
+7. Change the ``` WiFi Name ```, ``` WiFi Password ```, and so on according to what you are currently using.<br><br>
+
+8. Before uploading the program please click: ``` Verify ```.<br><br>
+
+9. If there is no error in the program code, then please click: ``` Upload ```.<br><br>
     
-11. Some things you need to do when using the ``` ESP32 board ``` :
+10. Some things you need to do when using the ``` ESP32 board ``` :
 
-    • ``` Arduino IDE ``` information: ``` Uploading... ``` -> immediately press and hold the ``` BOOT ``` button.
+    <table><tr><td width="840">
+       
+      • ``` Arduino IDE ``` information: ``` Uploading... ``` -> immediately press and hold the ``` BOOT ``` button.
 
-    • ``` Arduino IDE ``` information: ``` Writing at .... (%) ``` -> release the ``` BOOT ``` button.
+      • ``` Arduino IDE ``` information: ``` Writing at .... (%) ``` -> release the ``` BOOT ``` button.
 
-    • Wait until the message appears: ```Done Uploading ``` -> ```The program is directly operated ```.
+      • Wait until the message appears: ``` Done Uploading ``` -> ``` The program is directly operated ```.
 
-    • If the ``` ESP32 board ``` cannot accept the program upload, then press the ``` EN (RST) button ``` and then ``` Restart ```.
+      • Press the ``` EN (RST) ``` button and then ``` Restart ``` to handle the ``` ESP32 ``` board that cannot process the ``` SC ```.
 
-    • Do not press the ``` BOOT ``` and ``` EN ``` buttons at the same time as it will enter the ``` firmware upload ``` mode.<br><br>
+      • Do not press the ``` BOOT ``` and ``` EN ``` buttons at the same time as this may switch to ``` Upload Firmware ``` mode.
 
-12. If there is still a problem when uploading the program, then try to check the ``` driver ``` / ``` port ``` / ``` others ``` section.
+    </td></tr></table><br>
+
+11. If there is still a problem when uploading the program, then try to check the ``` driver ``` / ``` port ``` / ``` others ``` section.
 
 <br><br>
 
