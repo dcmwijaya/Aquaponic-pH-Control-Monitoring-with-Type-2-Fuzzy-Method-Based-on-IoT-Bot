@@ -162,21 +162,43 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 <br><br>
 
 ## Pengaturan io-t.net
-1. Memulai io-t.net :<br><br>
-   • Buka situs resminya di tautan berikut : <a href="https://io-t.net/">io-t.net</a>.<br><br>
-   • Jika anda belum memiliki akun, silakan <a href="https://i-ot.net/register">Daftar</a> terlebih dahulu -> aktivasi akun melalui email.<br><br>
-   • Jika anda sudah memiliki akun, silakan <a href="https://i-ot.net/login">Masuk</a> untuk dapat mengakses layanan io-t.net.<br><br>
+1. Memulai io-t.net :
 
-2. Buat node :<br><br>
-   • Masuk ke menu ``` Instance ``` -> ``` Atur Node ```.<br><br>
-   • Lalu berikan nama yang unik pada node yang anda gunakan.<br><br>
+   <table><tr><td width="840">
+      
+      • Buka situs resminya di tautan berikut : <a href="https://io-t.net/">io-t.net</a>.
+      
+      • Jika anda belum memiliki akun, silakan <a href="https://i-ot.net/register">Daftar</a> terlebih dahulu -> aktivasi akun melalui email.
+      
+      • Jika anda sudah memiliki akun, silakan <a href="https://i-ot.net/login">Masuk</a> untuk dapat mengakses layanan io-t.net.
 
-3. Buat device :<br><br>
-   • Masuk ke menu ``` Devices ```.<br><br>
-   • Pilih ``` Tambah Devices ``` -> isi bagian ``` Client ID ```, ``` Access ```, ``` Topic ``` sesuai dengan kebutuhan. Contohnya seperti ini :<br>
-      - ``` Client ID ``` -> ``` Phiotnet_v1 ```.<br>
-      - ``` Access ``` -> ``` Publish & Subscribe ```.<br>
+   </td></tr></table><br>
+
+3. Buat node :
+
+   <table><tr><td width="840">
+      
+      • Masuk ke menu ``` Instance ``` -> ``` Atur Node ```.
+      
+      • Lalu berikan nama yang unik pada node yang anda gunakan.
+
+   </td></tr></table><br>
+
+4. Buat device :
+
+   <table><tr><td width="840">
+      
+      • Masuk ke menu ``` Devices ```.
+   
+      • Pilih ``` Tambah Devices ``` -> isi bagian ``` Client ID ```, ``` Access ```, ``` Topic ``` sesuai dengan kebutuhan. Contohnya seperti ini :
+      
+      - ``` Client ID ``` -> ``` Phiotnet_v1 ```.
+        
+      - ``` Access ``` -> ``` Publish & Subscribe ```.
+        
       - ``` Topic ``` -> ``` detect ```.
+
+   </td></tr></table>
    
 <br><br>
 
