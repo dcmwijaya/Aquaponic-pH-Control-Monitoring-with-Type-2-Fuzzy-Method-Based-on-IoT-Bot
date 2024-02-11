@@ -77,34 +77,55 @@ This project is closely related to agricultural technology, where this tool is u
 <br><br>
 
 ## Arduino IDE Setup
-1. Open the ``` Arduino IDE ``` first, then open the project by clicking: ``` File ``` -> ``` Open ``` -> ``` PH_IT2FL.ino ```.<br><br>
+1. Open the ``` Arduino IDE ``` first, then open the project by clicking ``` File ``` -> ``` Open ``` : 
+
+   <table><tr><td width="840">
    
-2. Fill in the ``` Additional Board Manager URLs ``` in Arduino IDE<br><br>
-   Method: click ``` File ``` -> ``` Preferences ``` -> enter the ``` Boards Manager Url ``` by copying the following link:
+      ``` PH_IT2FL.ino ```.
+
+   </td></tr></table><br>
    
-   ```
-   https://dl.espressif.com/dl/package_esp32_index.json
-   ```
+2. Fill in the ``` Additional Board Manager URLs ``` in Arduino IDE
+
+   <table><tr><td width="840">
+      
+      Click ``` File ``` -> ``` Preferences ``` -> enter the ``` Boards Manager Url ``` by copying the following link:
+      
+      ```
+      https://dl.espressif.com/dl/package_esp32_index.json
+      ```
+
+   </td></tr></table><br>
    
-3. ``` Board Setup ``` in Arduino IDE<br><br>
-   • Method: click ``` Tools ``` -> ``` Board ``` -> ``` Boards Manager ``` -> Install ``` esp32 ```. Then selecting a Board by clicking: ``` Tools ``` -> ``` Board ``` -> ``` ESP32 Arduino ``` -> ``` DOIT ESP32 DEVKIT V1 ```.<br><br>Regarding the Arduino Uno board in this project it is only used as a voltage regulator. So in this section you do not need to configure the Arduino Uno (just focus on the ESP32 only).<br><br>
+3. ``` Board Setup ``` in Arduino IDE
+
+   <table><tr><td width="840">
+      • Click ``` Tools ``` -> ``` Board ``` -> ``` Boards Manager ``` -> Install ``` esp32 ```. 
+      
+      • Then selecting a Board by clicking: ``` Tools ``` -> ``` Board ``` -> ``` ESP32 Arduino ``` -> ``` DOIT ESP32 DEVKIT V1 ```.
+
+      • ``` Arduino Uno ``` board in this project is only used as a voltage regulator.
+
+      • You don't need to configure the ``` Arduino Uno ``` board, just focus on the ``` ESP32 ```.
+
+   </td></tr></table><br>
    
-4. ``` Change the Board Speed ``` in Arduino IDE<br><br>
+5. ``` Change the Board Speed ``` in Arduino IDE<br><br>
    • Method: click ``` Tools ``` -> ``` Upload Speed ``` -> ``` 115200 ```.<br><br>
    
-5. ``` Install Library ``` in Arduino IDE<br><br>
+6. ``` Install Library ``` in Arduino IDE<br><br>
    • Method: download all the library zip files. Then paste it in the: ``` C:\Users\Computer_Username\Documents\Arduino\libraries ```.<br><br>
 
-6. ``` Port Setup ``` in Arduino IDE<br><br>
+7. ``` Port Setup ``` in Arduino IDE<br><br>
    • Method: click ``` Port ``` -> Choose according to your device port ``` (you can see in device manager) ```.<br><br>
 
-7. Change the ``` WiFi Name ```, ``` WiFi Password ```, and so on according to what you are currently using.<br><br>
+8. Change the ``` WiFi Name ```, ``` WiFi Password ```, and so on according to what you are currently using.<br><br>
 
-8. Before uploading the program please click: ``` Verify ```.<br><br>
+9. Before uploading the program please click: ``` Verify ```.<br><br>
 
-9. If there is no error in the program code, then please click: ``` Upload ```.<br><br>
+10. If there is no error in the program code, then please click: ``` Upload ```.<br><br>
     
-10. Some things you need to do when using the ``` ESP32 board ``` :
+11. Some things you need to do when using the ``` ESP32 board ``` :
 
     • ``` Arduino IDE ``` information: ``` Uploading... ``` -> immediately press and hold the ``` BOOT ``` button.
 
@@ -116,7 +137,7 @@ This project is closely related to agricultural technology, where this tool is u
 
     • Do not press the ``` BOOT ``` and ``` EN ``` buttons at the same time as it will enter the ``` firmware upload ``` mode.<br><br>
 
-11. If there is still a problem when uploading the program, then try to check the ``` driver ``` / ``` port ``` / ``` others ``` section.
+12. If there is still a problem when uploading the program, then try to check the ``` driver ``` / ``` port ``` / ``` others ``` section.
 
 <br><br>
 
