@@ -23,12 +23,12 @@ This project is closely related to agricultural technology, where this tool is u
 | IoT Architecture | 4 Layer |
 | Matlab |  Fuzzy Interface System |
 | Programming Language | C/C++ |
-| Arduino Library | WiFi, PubSubClient, ESPMQTTClient, OneWire, LiquidCrystal I2C, CTBot, & RTClib |
-| Actuators | Submersible pump aquarium (x1), Pneumatic solenoid valve (x2), & Piezo buzzer (x1) |
-| Sensor | pH Sensor (x1) & RTC (x1) |
+| Arduino Library | • WiFi<br>• PubSubClient<br>• ESPMQTTClient<br>• OneWire<br>• LiquidCrystal I2C<br>• CTBot<br>• RTClib |
+| Actuators | • Submersible pump aquarium (x1)<br>• Pneumatic solenoid valve (x2)<br>• Piezo buzzer (x1) |
+| Sensor | • pH Sensor (x1)<br>• RTC (x1) |
 | Display | LCD I2C (x1) |
-| Experimental Object | Pakcoy mustard seeds & Dumbo catfish fry |
-| Other Components | Micro USB cable - USB type A (x1), Jumper cable (1 set), Switching power supply 12V 1A (x1), Electrical relay 2 channel (x1), Round switch (x1), ESP32 expansion board (x1), PCB Dot Matrix (x1), Terminal PCB block screw (x10), Socket female jack DC (x1), Connector male jack DC (x3), Probe Elektroda pH (x1), Pipes (1 set), Netpot (1 set), Rockwool (1 set), Flannel fabric (1 set), Water filter (x1), Glass hubcap (1 set), Bottle (x2), Aquarium wheeled placemat (x1), Aquarium (x1), Casing box (x1), Skun (1 set), Galvanized plate (x1), Bolts plus (1 set), and Nuts (1 set) |
+| Experimental Object | • Pakcoy mustard seeds<br>• Dumbo catfish fry |
+| Other Components | • Micro USB cable - USB type A (x1)<br>• Jumper cable (1 set)<br>• Switching power supply 12V 1A (x1)<br>• Electrical relay 2 channel (x1)<br>• Round switch (x1)<br>• ESP32 expansion board (x1)<br>• PCB Dot Matrix (x1)<br>• Terminal PCB block screw (x10)<br>• Socket female jack DC (x1)<br>• Connector male jack DC (x3)<br>• Probe Elektroda pH (x1)<br>• Pipes (1 set)<br>• Netpot (1 set)<br>• Rockwool (1 set)<br>• Flannel fabric (1 set)<br>• Water filter (x1)<br>• Glass hubcap (1 set)<br>• Bottle (x2)<br>• Aquarium wheeled placemat (x1)<br>• Aquarium (x1)<br>• Casing box (x1)<br>• Skun (1 set)<br>• Galvanized plate (x1)<br>• Bolts plus (1 set)<br>• Nuts (1 set) |
 
 <br><br>
 
@@ -80,7 +80,7 @@ This project is closely related to agricultural technology, where this tool is u
 1. Open the ``` Arduino IDE ``` first, then open the project by clicking: ``` File ``` -> ``` Open ``` -> ``` PH_IT2FL.ino ```.<br><br>
    
 2. Fill in the ``` Additional Board Manager URLs ``` in Arduino IDE<br><br>
-   • Method: click ``` File ``` -> ``` Preferences ``` -> enter the ``` Boards Manager Url ``` by copying the following link:
+   Method: click ``` File ``` -> ``` Preferences ``` -> enter the ``` Boards Manager Url ``` by copying the following link:
    
    ```
    https://dl.espressif.com/dl/package_esp32_index.json
