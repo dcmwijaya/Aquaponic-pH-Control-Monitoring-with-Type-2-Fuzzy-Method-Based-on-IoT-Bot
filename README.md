@@ -100,6 +100,7 @@ This project is closely related to agricultural technology, where this tool is u
 3. ``` Board Setup ``` in Arduino IDE
 
    <table><tr><td width="840">
+      
       • Click ``` Tools ``` -> ``` Board ``` -> ``` Boards Manager ``` -> Install ``` esp32 ```. 
       
       • Then selecting a Board by clicking: ``` Tools ``` -> ``` Board ``` -> ``` ESP32 Arduino ``` -> ``` DOIT ESP32 DEVKIT V1 ```.
