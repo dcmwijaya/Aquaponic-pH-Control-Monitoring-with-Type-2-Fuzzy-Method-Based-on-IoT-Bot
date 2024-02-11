@@ -97,25 +97,34 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 
    </td></tr></table><br>
    
-3. ``` Pengaturan Board ``` di Arduino IDE<br><br>
-   • Cara: klik ``` Tools ``` -> ``` Board ``` -> ``` Boards Manager ``` -> Instal ``` esp32 ```. Kemudian pilih Board dengan mengklik: ``` Tools ``` -> ``` Board ``` -> ``` ESP32 Arduino ``` -> ``` DOIT ESP32 DEVKIT V1 ```.<br><br>Mengenai board Arduino Uno yang ada dalam proyek ini hanya digunakan sebatas regulator tegangan. Jadi pada bagian ini anda tidak perlu melakukan konfigurasi Arduino Uno (cukup hanya berfokus pada ESP32 saja).<br><br>
+3. ``` Pengaturan Board ``` di Arduino IDE
+
+   <table><tr><td width="840">
+      
+   • Klik ``` Tools ``` -> ``` Board ``` -> ``` Boards Manager ``` -> Instal ``` esp32 ```.
+
+   • Kemudian klik ``` Tools ``` -> ``` Board ``` -> ``` ESP32 Arduino ``` -> ``` DOIT ESP32 DEVKIT V1 ```.
+
+   • ``` Arduino Uno ``` yang ada di proyek ini hanya digunakan sebagai regulator tegangan saja, sehingga anda tidak perlu melakukan konfigurasi pada board tersebut (cukup hanya berfokus pada ``` ESP32 ``` saja).
+
+   </td></tr></table><br>
    
-4. ``` Ubah Kecepatan Papan ``` di Arduino IDE<br><br>
+5. ``` Ubah Kecepatan Papan ``` di Arduino IDE<br><br>
    • Cara: klik ``` Tools ``` -> ``` Upload Speed ``` -> ``` 115200 ```.<br><br>
    
-5. ``` Instal Pustaka ``` di Arduino IDE<br><br>
+6. ``` Instal Pustaka ``` di Arduino IDE<br><br>
    • Cara: unduh semua file zip pustaka. Kemudian tempelkan di: ``` C:\Users\Computer_Username\Documents\Arduino\libraries ```.<br><br>
 
-6. ``` Pengaturan Port ``` di Arduino IDE<br><br>
+7. ``` Pengaturan Port ``` di Arduino IDE<br><br>
    • Cara: klik ``` Port ``` -> Pilih sesuai dengan port perangkat Anda ``` (Anda dapat melihatnya di Device Manager) ```.<br><br>
 
-7. Ubah ``` Nama WiFi ```, ``` Kata Sandi WiFi ```, dan sebagainya sesuai dengan apa yang Anda gunakan saat ini.<br><br>
+8. Ubah ``` Nama WiFi ```, ``` Kata Sandi WiFi ```, dan sebagainya sesuai dengan apa yang Anda gunakan saat ini.<br><br>
 
-8. Sebelum mengunggah program, silakan klik: ``` Verify ```.<br><br>
+9. Sebelum mengunggah program, silakan klik: ``` Verify ```.<br><br>
 
-9. Jika tidak ada kesalahan dalam kode program, silakan klik: ``` Upload ```.<br><br>
+10. Jika tidak ada kesalahan dalam kode program, silakan klik: ``` Upload ```.<br><br>
     
-10. Beberapa hal yang perlu anda lakukan saat menggunakan ``` board ESP32 ```:
+11. Beberapa hal yang perlu anda lakukan saat menggunakan ``` board ESP32 ```:
 
     • Informasi ``` Arduino IDE ```: ``` Uploading... ``` -> segera tekan dan tahan tombol ``` BOOT ```.
 
@@ -127,7 +136,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 
     • Jangan tekan tombol ``` BOOT ``` dan ``` EN ``` secara bersamaan karena akan masuk ke mode ``` pengunggahan firmware ```.<br><br>
 
-11. Jika saat unggah program masih terdapat masalah, maka coba periksa pada bagian ``` driver ``` / ``` port ``` / ``` yang lainnya ```.
+12. Jika saat unggah program masih terdapat masalah, maka coba periksa pada bagian ``` driver ``` / ``` port ``` / ``` yang lainnya ```.
 
 <br><br>
 
