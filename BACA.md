@@ -101,11 +101,13 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 
    <table><tr><td width="840">
       
-   • Klik ``` Tools ``` -> ``` Board ``` -> ``` Boards Manager ``` -> Instal ``` esp32 ```.
-
-   • Kemudian klik ``` Tools ``` -> ``` Board ``` -> ``` ESP32 Arduino ``` -> ``` DOIT ESP32 DEVKIT V1 ```.
-
-   • ``` Arduino Uno ``` yang ada di proyek ini hanya digunakan sebagai regulator tegangan saja, sehingga anda tidak perlu melakukan konfigurasi pada board tersebut (cukup hanya berfokus pada ``` ESP32 ``` saja).
+      • Klik ``` Tools ``` -> ``` Board ``` -> ``` Boards Manager ``` -> Instal ``` esp32 ```.
+   
+      • Kemudian klik ``` Tools ``` -> ``` Board ``` -> ``` ESP32 Arduino ``` -> ``` DOIT ESP32 DEVKIT V1 ```.
+   
+      • Board ``` Arduino Uno ``` yang ada di proyek ini hanya digunakan sebagai regulator tegangan saja.
+   
+      • Anda tidak perlu melakukan konfigurasi pada board ``` Arduino Uno ```, cukup hanya berfokus pada ``` ESP32 ``` saja.
 
    </td></tr></table><br>
    
