@@ -105,7 +105,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
    
       • Kemudian klik ``` Tools ``` -> ``` Board ``` -> ``` ESP32 Arduino ``` -> ``` DOIT ESP32 DEVKIT V1 ```.
    
-      • Board ``` Arduino Uno ``` yang ada di proyek ini hanya digunakan sebagai regulator tegangan saja.
+      • Board ``` Arduino Uno ``` yang ada di proyek ini hanya digunakan sebagai regulator tegangan.
    
       • Anda tidak perlu melakukan konfigurasi pada board ``` Arduino Uno ```, cukup hanya berfokus pada ``` ESP32 ``` saja.
 
