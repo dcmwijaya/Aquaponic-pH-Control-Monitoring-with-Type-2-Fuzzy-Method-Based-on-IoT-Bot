@@ -141,19 +141,19 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 
 9. Jika tidak ada kesalahan dalam kode program, silakan klik: ``` Upload ```.<br><br>
     
-10. Beberapa hal yang perlu anda lakukan saat menggunakan ``` board ESP32 ``` :
-    
-    <table><tr><td width="840">
+10. Beberapa hal yang perlu anda lakukan saat menggunakan ``` board ESP32 ```:
 
+    <table><tr><td width="840">
+       
        • Informasi ``` Arduino IDE ```: ``` Uploading... ``` -> segera tekan dan tahan tombol ``` BOOT ```.
 
        • Informasi ``` Arduino IDE ```: ``` Writing at .... (%) ``` -> lepaskan tombol ``` BOOT ```.
 
        • Tunggu sampai muncul pesan: ``` Done Uploading ``` -> ``` Program langsung dioperasikan ```.
 
-       • Jika ``` board ESP32 ``` tidak dapat menerima pengunggahan program, maka tekan tombol ``` EN (RST) ``` lalu ``` Restart ```.
+       • Tekan tombol ``` EN (RST) ``` lalu ``` Restart ``` untuk menangani board ``` ESP32 ``` yang tidak bisa memproses ``` SC ```.
 
-       • Jangan tekan tombol ``` BOOT ``` dan ``` EN ``` secara bersamaan karena akan masuk ke mode ``` pengunggahan firmware ```.
+       • Jangan tekan tombol ``` BOOT ``` dan ``` EN ``` secara bersamaan karena hal ini bisa beralih ke mode ``` Unggah Firmware ```.
 
     </td></tr></table><br>
 
