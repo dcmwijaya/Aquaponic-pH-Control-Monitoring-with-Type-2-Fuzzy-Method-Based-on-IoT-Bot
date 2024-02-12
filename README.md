@@ -170,7 +170,7 @@ This project is closely related to agricultural technology, where this tool is u
 
     </td></tr></table><br>
 
-11. If there is still a problem when uploading the program, then try to check the ``` driver ``` / ``` port ``` / ``` others ``` section.
+11. If there is still a problem when uploading the program, then try checking the ```driver ``` / ``` port ``` / ``` others ``` section.
 
 <br><br>
 
