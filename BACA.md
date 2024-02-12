@@ -35,16 +35,23 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 ## Unduh & Instal
 1. Arduino IDE
 
+   <table><tr><td width="810">
+      
    ```
    https://www.arduino.cc/en/software
    ```
-   <br>
+
+   </td></tr></table><br>
 
 2. USB-Serial CP210X
 
+   <table><tr><td width="810">
+      
    ```
    https://bit.ly/CP210X_Driver
    ```
+
+   </td></tr></table>
 
 <br><br>
 
@@ -79,7 +86,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 ## Pengaturan Arduino IDE
 1. Buka ``` Arduino IDE ``` terlebih dahulu, kemudian buka proyek dengan cara klik ``` File ``` -> ``` Open ``` :
 
-   <table><tr><td width="840">
+   <table><tr><td width="810">
       
       ``` PH_IT2FL.ino ```
 
@@ -87,7 +94,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
    
 2. Isi ``` Url Pengelola Papan Tambahan ``` di Arduino IDE
 
-   <table><tr><td width="840">
+   <table><tr><td width="810">
       
       Klik ``` File ``` -> ``` Preferences ``` -> masukkan ``` Boards Manager Url ``` dengan menyalin tautan berikut :
       
@@ -99,7 +106,13 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
    
 3. ``` Pengaturan Board ``` di Arduino IDE
 
-   <table><tr><td width="840">
+   <table>
+      <tr><th width="810">
+
+      How to setup the ``` ESP32 ``` board
+            
+      </th></tr>
+      <tr><td>
       
       • Klik ``` Tools ``` -> ``` Board ``` -> ``` Boards Manager ``` -> Instal ``` esp32 ```.
    
@@ -109,11 +122,12 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
    
       • Anda tidak perlu melakukan konfigurasi pada board ``` Arduino Uno ```, cukup hanya berfokus pada ``` ESP32 ``` saja.
 
-   </td></tr></table><br>
+      </td></tr>
+   </table><br>
    
 4. ``` Ubah Kecepatan Papan ``` di Arduino IDE
 
-   <table><tr><td width="840">
+   <table><tr><td width="810">
       
       Klik ``` Tools ``` -> ``` Upload Speed ``` -> ``` 115200 ```
 
@@ -121,7 +135,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
    
 5. ``` Instal Pustaka ``` di Arduino IDE
 
-   <table><tr><td width="840">
+   <table><tr><td width="810">
       
       Unduh semua file zip pustaka. Kemudian tempelkan di: ``` C:\Users\Computer_Username\Documents\Arduino\libraries ```
 
@@ -129,7 +143,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 
 6. ``` Pengaturan Port ``` di Arduino IDE
 
-   <table><tr><td width="840">
+   <table><tr><td width="810">
       
       Klik ``` Port ``` -> Pilih sesuai dengan port perangkat Anda ``` (Anda dapat melihatnya di Device Manager) ```
 
@@ -143,7 +157,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
     
 10. Beberapa hal yang perlu anda lakukan saat menggunakan ``` board ESP32 ``` :
 
-    <table><tr><td width="840">
+    <table><tr><td width="810">
        
        • Informasi ``` Arduino IDE ```: ``` Uploading... ``` -> segera tekan dan tahan tombol ``` BOOT ```.
 
@@ -164,7 +178,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 ## Pengaturan io-t.net
 1. Memulai io-t.net :
 
-   <table><tr><td width="840">
+   <table><tr><td width="810">
       
       • Buka situs resminya di tautan berikut : <a href="https://io-t.net/">io-t.net</a>.
       
@@ -176,7 +190,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 
 3. Buat node :
 
-   <table><tr><td width="840">
+   <table><tr><td width="810">
       
       • Masuk ke menu ``` Instance ``` -> ``` Atur Node ```.
       
@@ -186,7 +200,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 
 4. Buat device :
 
-   <table><tr><td width="840">
+   <table><tr><td width="810">
       
       • Masuk ke menu ``` Devices ```.
    
@@ -215,7 +229,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 
 6. Salin ``` API token bot telegram anda ``` -> lalu tempelkan pada bagian ``` #define BOTtoken "YOUR_API_BOT_TOKEN" ```. 
 
-   <table><tr><td width="840">
+   <table><tr><td width="810">
    Contohnya yaitu :<br><br>
 
    ```
@@ -245,9 +259,9 @@ Via Telegram: <a href="https://t.me/phiotnet_bot">@phiotnet_bot</a>
 ## Sorotan
 <table>
 <tr>
-<th width="280">Produk</th>
-<th width="280">Sistem Pendukung Keputusan (SPK) IT2FL</th>
-<th width="280">Bot Telegram</th>
+<th width="270">Produk</th>
+<th width="270">Sistem Pendukung Keputusan (SPK) IT2FL</th>
+<th width="270">Bot Telegram</th>
 </tr>
 <tr>
 <td><img src="https://user-images.githubusercontent.com/54527592/174566236-fbcf5d61-bc8e-4daf-ac06-5d396a5c58b8.jpg" alt="Product"></td>
@@ -258,7 +272,7 @@ Via Telegram: <a href="https://t.me/phiotnet_bot">@phiotnet_bot</a>
 
 <br>
 <b>Informasi lebih lanjut:</b> <br><br>
-<table><tr><td width="840">
+<table><tr><td width="810">
       
    • Skripsi: <a href="http://repository.upnjatim.ac.id/id/eprint/7014"><u>Klik Disini</u></a><br><br>
    • Jurnal tipe SINTA: <a href="https://publikasi.mercubuana.ac.id/index.php/Incomtech/article/view/15453"><u>Klik Disini</u></a><br><br>
