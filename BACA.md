@@ -109,7 +109,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
    <table>
       <tr><th width="810">
 
-      How to setup the ``` ESP32 ``` board
+      Cara mengatur board ``` ESP32 ```
             
       </th></tr>
       <tr><td>
@@ -171,7 +171,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 
     </td></tr></table><br>
 
-11. Jika saat unggah program masih terdapat masalah, maka coba periksa pada bagian ``` driver ``` / ``` port ``` / ``` yang lainnya ```.
+11. Jika masih ada masalah saat unggah program, maka coba periksa pada bagian ``` driver ``` / ``` port ``` / ``` yang lainnya ```.
 
 <br><br>
 
