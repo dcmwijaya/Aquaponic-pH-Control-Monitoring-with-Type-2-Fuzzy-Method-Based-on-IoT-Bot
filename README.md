@@ -87,7 +87,13 @@ This project is closely related to agricultural technology, where this tool is u
    
 2. Fill in the ``` Additional Board Manager URLs ``` in Arduino IDE
 
-   <table><tr><td width="840">
+   <table>
+      <tr><th width="810">
+
+      How to setup the ``` ESP32 ``` board
+            
+      </th></tr>
+      <tr><td>
       
       Click ``` File ``` -> ``` Preferences ``` -> enter the ``` Boards Manager Url ``` by copying the following link :
       
