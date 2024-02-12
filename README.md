@@ -35,16 +35,23 @@ This project is closely related to agricultural technology, where this tool is u
 ## Download & Install 
 1. Arduino IDE
 
+   <table><tr><td width="810">
+
    ```
    https://www.arduino.cc/en/software
    ```
-   <br>
+
+   </td></tr></table><br>
 
 2. USB-Serial CP210X
+
+   <table><tr><td width="810">
 
    ```
    https://bit.ly/CP210X_Driver
    ```
+
+   </td></tr></table>
 
 <br><br>
 
