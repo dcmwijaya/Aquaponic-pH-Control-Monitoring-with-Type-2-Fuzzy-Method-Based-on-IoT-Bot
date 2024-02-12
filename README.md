@@ -203,7 +203,7 @@ This project is closely related to agricultural technology, where this tool is u
       
       • Go to ``` Devices ``` menu.
       
-      • Select ``` Add Devices ``` -> fill in the ``` Client ID ```, ``` Access ```, ``` Topic ``` sections as needed. For example like this :
+      • Select ``` Add Devices ``` -> fill in the ``` Client ID ```, ``` Access ```, ``` Topic ``` sections as needed. For example :
    
       - ``` Client ID ``` -> ``` Phiotnet_v1 ```.
 
