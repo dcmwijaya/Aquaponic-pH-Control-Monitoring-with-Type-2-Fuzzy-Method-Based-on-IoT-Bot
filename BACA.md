@@ -204,7 +204,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
       
       • Masuk ke menu ``` Devices ```.
    
-      • Pilih ``` Tambah Devices ``` -> isi bagian ``` Client ID ```, ``` Access ```, ``` Topic ``` sesuai dengan kebutuhan. Contohnya seperti ini :
+      • Pilih ``` Tambah Devices ``` -> isi bagian ``` Client ID ```, ``` Access ```, ``` Topic ``` sesuai dengan kebutuhan. Contohnya :
       
       - ``` Client ID ``` -> ``` Phiotnet_v1 ```.
         
