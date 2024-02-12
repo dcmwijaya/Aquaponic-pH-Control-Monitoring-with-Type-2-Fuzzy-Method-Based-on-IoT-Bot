@@ -145,11 +145,11 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 
    <table><tr><td width="810">
       
-      Klik ``` Port ``` -> Pilih sesuai dengan port perangkat Anda ``` (Anda dapat melihatnya di Device Manager) ```
+      Klik ``` Port ``` -> Pilih sesuai dengan port perangkat anda ``` (anda dapat melihatnya di Device Manager) ```
 
    </td></tr></table><br>
 
-7. Ubah ``` Nama WiFi ```, ``` Kata Sandi WiFi ```, dan sebagainya sesuai dengan apa yang Anda gunakan saat ini.<br><br>
+7. Ubah ``` Nama WiFi ```, ``` Kata Sandi WiFi ```, dan sebagainya sesuai dengan apa yang anda gunakan saat ini.<br><br>
 
 8. Sebelum mengunggah program, silakan klik: ``` Verify ```.<br><br>
 
