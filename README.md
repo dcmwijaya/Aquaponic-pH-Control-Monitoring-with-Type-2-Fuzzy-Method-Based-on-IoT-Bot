@@ -258,9 +258,9 @@ Via Telegram: <a href="https://t.me/phiotnet_bot">@phiotnet_bot</a>
 ## Highlights
 <table>
 <tr>
-<th width="270">Product</th>
-<th width="270">IT2FL Decision Support System</th>
-<th width="270">Telegram Bot</th>
+<th width="280">Product</th>
+<th width="280">IT2FL Decision Support System</th>
+<th width="280">Telegram Bot</th>
 </tr>
 <tr>
 <td><img src="https://user-images.githubusercontent.com/54527592/174566236-fbcf5d61-bc8e-4daf-ac06-5d396a5c58b8.jpg" alt="Product"></td>
@@ -271,7 +271,7 @@ Via Telegram: <a href="https://t.me/phiotnet_bot">@phiotnet_bot</a>
 
 <br>
 <strong>More information:</strong> <br><br>
-<table><tr><td width="810">
+<table><tr><td width="840">
    • Undergraduate Thesis: <a href="http://repository.upnjatim.ac.id/id/eprint/7014"><u>Click Here</u></a><br><br>
    • SINTA-type journals: <a href="https://publikasi.mercubuana.ac.id/index.php/Incomtech/article/view/15453"><u>Click Here</u></a><br><br>
    • Non SINTA-type journals: <a href="https://www.researchgate.net/publication/363660330_SISTEM_KONTROL_PH_UP-DOWN_BERBASIS_NODEMCU32_DENGAN_METODE_ON-OFF_CONTROLLER"><u>Click Here</u></a>
