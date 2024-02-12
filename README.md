@@ -79,7 +79,7 @@ This project is closely related to agricultural technology, where this tool is u
 ## Arduino IDE Setup
 1. Open the ``` Arduino IDE ``` first, then open the project by clicking ``` File ``` -> ``` Open ``` : 
 
-   <table><tr><td width="840">
+   <table><tr><td width="810">
    
       ``` PH_IT2FL.ino ```
 
@@ -87,13 +87,7 @@ This project is closely related to agricultural technology, where this tool is u
    
 2. Fill in the ``` Additional Board Manager URLs ``` in Arduino IDE
 
-   <table>
-      <tr><th width="810">
-
-      How to setup the ``` ESP32 ``` board
-            
-      </th></tr>
-      <tr><td>
+   <table><tr><td width="810">
       
       Click ``` File ``` -> ``` Preferences ``` -> enter the ``` Boards Manager Url ``` by copying the following link :
       
@@ -105,7 +99,13 @@ This project is closely related to agricultural technology, where this tool is u
    
 3. ``` Board Setup ``` in Arduino IDE
 
-   <table><tr><td width="840">
+   <table>
+      <tr><th width="810">
+
+      How to setup the ``` ESP32 ``` board
+            
+      </th></tr>
+      <tr><td>
       
       • Click ``` Tools ``` -> ``` Board ``` -> ``` Boards Manager ``` -> Install ``` esp32 ```. 
       
@@ -119,7 +119,7 @@ This project is closely related to agricultural technology, where this tool is u
    
 4. ``` Change the Board Speed ``` in Arduino IDE
 
-   <table><tr><td width="840">
+   <table><tr><td width="810">
       
       Click ``` Tools ``` -> ``` Upload Speed ``` -> ``` 115200 ```
 
@@ -127,7 +127,7 @@ This project is closely related to agricultural technology, where this tool is u
    
 5. ``` Install Library ``` in Arduino IDE
 
-   <table><tr><td width="840">
+   <table><tr><td width="810">
       
       Download all the library zip files. Then paste it in the: ``` C:\Users\Computer_Username\Documents\Arduino\libraries ```
 
@@ -135,7 +135,7 @@ This project is closely related to agricultural technology, where this tool is u
 
 6. ``` Port Setup ``` in Arduino IDE
 
-   <table><tr><td width="840">
+   <table><tr><td width="810">
       
       Click ``` Port ``` -> Choose according to your device port ``` (you can see in device manager) ```
 
@@ -149,7 +149,7 @@ This project is closely related to agricultural technology, where this tool is u
     
 10. Some things you need to do when using the ``` ESP32 board ``` :
 
-    <table><tr><td width="840">
+    <table><tr><td width="810">
        
       • ``` Arduino IDE ``` information: ``` Uploading... ``` -> immediately press and hold the ``` BOOT ``` button.
 
@@ -170,7 +170,7 @@ This project is closely related to agricultural technology, where this tool is u
 ## Io-t.net Setup
 1. Getting started with io-t.net :
 
-   <table><tr><td width="840">
+   <table><tr><td width="810">
       
       • Go to the official website at the following link : <a href="https://io-t.net/">io-t.net</a>.
       
@@ -182,7 +182,7 @@ This project is closely related to agricultural technology, where this tool is u
 
 2. Create a node :
 
-   <table><tr><td width="840">
+   <table><tr><td width="810">
       
       • Go to ``` Instance ``` menu -> ``` Set Node ```.
       
@@ -192,7 +192,7 @@ This project is closely related to agricultural technology, where this tool is u
 
 3. Create a device :
 
-   <table><tr><td width="840">
+   <table><tr><td width="810">
       
       • Go to ``` Devices ``` menu.
       
@@ -221,7 +221,7 @@ This project is closely related to agricultural technology, where this tool is u
 
 6. Copy ``` your telegram bot API token ``` -> then paste it into the ``` #define BOTtoken "YOUR_API_BOT_TOKEN" ``` section. 
 
-   <table><tr><td width="840">
+   <table><tr><td width="810">
    For example :<br><br>
 
    ```
@@ -251,9 +251,9 @@ Via Telegram: <a href="https://t.me/phiotnet_bot">@phiotnet_bot</a>
 ## Highlights
 <table>
 <tr>
-<th width="280">Product</th>
-<th width="280">IT2FL Decision Support System</th>
-<th width="280">Telegram Bot</th>
+<th width="270">Product</th>
+<th width="270">IT2FL Decision Support System</th>
+<th width="270">Telegram Bot</th>
 </tr>
 <tr>
 <td><img src="https://user-images.githubusercontent.com/54527592/174566236-fbcf5d61-bc8e-4daf-ac06-5d396a5c58b8.jpg" alt="Product"></td>
@@ -264,7 +264,7 @@ Via Telegram: <a href="https://t.me/phiotnet_bot">@phiotnet_bot</a>
 
 <br>
 <strong>More information:</strong> <br><br>
-<table><tr><td width="840">
+<table><tr><td width="810">
    • Undergraduate Thesis: <a href="http://repository.upnjatim.ac.id/id/eprint/7014"><u>Click Here</u></a><br><br>
    • SINTA-type journals: <a href="https://publikasi.mercubuana.ac.id/index.php/Incomtech/article/view/15453"><u>Click Here</u></a><br><br>
    • Non SINTA-type journals: <a href="https://www.researchgate.net/publication/363660330_SISTEM_KONTROL_PH_UP-DOWN_BERBASIS_NODEMCU32_DENGAN_METODE_ON-OFF_CONTROLLER"><u>Click Here</u></a>
