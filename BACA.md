@@ -259,9 +259,9 @@ Via Telegram: <a href="https://t.me/phiotnet_bot">@phiotnet_bot</a>
 ## Sorotan
 <table>
 <tr>
-<th width="270">Produk</th>
-<th width="270">Sistem Pendukung Keputusan (SPK) IT2FL</th>
-<th width="270">Bot Telegram</th>
+<th width="280">Produk</th>
+<th width="280">Sistem Pendukung Keputusan (SPK) IT2FL</th>
+<th width="280">Bot Telegram</th>
 </tr>
 <tr>
 <td><img src="https://user-images.githubusercontent.com/54527592/174566236-fbcf5d61-bc8e-4daf-ac06-5d396a5c58b8.jpg" alt="Product"></td>
@@ -272,7 +272,7 @@ Via Telegram: <a href="https://t.me/phiotnet_bot">@phiotnet_bot</a>
 
 <br>
 <b>Informasi lebih lanjut:</b> <br><br>
-<table><tr><td width="810">
+<table><tr><td width="840">
       
    • Skripsi: <a href="http://repository.upnjatim.ac.id/id/eprint/7014"><u>Klik Disini</u></a><br><br>
    • Jurnal tipe SINTA: <a href="https://publikasi.mercubuana.ac.id/index.php/Incomtech/article/view/15453"><u>Klik Disini</u></a><br><br>
