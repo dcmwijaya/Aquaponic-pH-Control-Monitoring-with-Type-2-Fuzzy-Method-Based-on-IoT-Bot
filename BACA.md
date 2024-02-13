@@ -23,7 +23,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 | Arsitektur IoT | 4 Lapisan |
 | Matlab |  Fuzzy Interface System |
 | Bahasa Pemrograman | C/C++ |
-| Pustaka Arduino | • WiFi<br>• PubSubClient<br>• ESPMQTTClient<br>• OneWire<br>• LiquidCrystal I2C<br>• CTBot<br>• RTClib |
+| Pustaka Arduino | • WiFi<br>• PubSubClient<br>• ESPMQTTClient<br>• OneWire<br>• LiquidCrystal_I2C<br>• CTBot<br>• RTClib |
 | Aktuator | • Submersible pump aquarium (x1)<br>• Pneumatic solenoid valve (x2)<br>• Piezo buzzer (x1) |
 | Sensor | • pH Sensor (x1)<br>• RTC (x1) |
 | Layar | LCD I2C (x1) |
