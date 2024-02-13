@@ -23,7 +23,7 @@ This project is closely related to agricultural technology, where this tool is u
 | IoT Architecture | 4 Layer |
 | Matlab |  Fuzzy Interface System |
 | Programming Language | C/C++ |
-| Arduino Library | • WiFi<br>• PubSubClient<br>• ESPMQTTClient<br>• OneWire<br>• LiquidCrystal I2C<br>• CTBot<br>• RTClib |
+| Arduino Library | • WiFi<br>• PubSubClient<br>• ESPMQTTClient<br>• OneWire<br>• LiquidCrystal_I2C<br>• CTBot<br>• RTClib |
 | Actuators | • Submersible pump aquarium (x1)<br>• Pneumatic solenoid valve (x2)<br>• Piezo buzzer (x1) |
 | Sensor | • pH Sensor (x1)<br>• RTC (x1) |
 | Display | LCD I2C (x1) |
