@@ -17,8 +17,8 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 | Editor Kode | Arduino IDE |
 | Dukungan Aplikasi | Bot Telegram |
 | Driver | USB-Serial CP210X |
-| Platform IoT | • I2C<br>• MQTT |
-| Protokol Komunikasi | MQTT |
+| Platform IoT | io-t.net |
+| Protokol Komunikasi | • I2C<br>• MQTT |
 | Arsitektur IoT | 4 Lapisan |
 | Matlab |  Fuzzy Interface System |
 | Bahasa Pemrograman | C/C++ |
