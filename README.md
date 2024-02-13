@@ -19,7 +19,7 @@ This project is closely related to agricultural technology, where this tool is u
 | Application Support | Telegram Bot |
 | Driver | USB-Serial CP210X |
 | IoT Platform | io-t.net |
-| IoT Protocol | MQTT |
+| Communications Protocol | MQTT |
 | IoT Architecture | 4 Layer |
 | Matlab |  Fuzzy Interface System |
 | Programming Language | C/C++ |
