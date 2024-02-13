@@ -108,7 +108,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
    <table>
       <tr><th width="810">
 
-      Cara mengatur board ``` ESP32 ```
+      Cara mengatur board ``` DOIT ESP32 DEVKIT V1 ```
             
       </th></tr>
       <tr><td>
