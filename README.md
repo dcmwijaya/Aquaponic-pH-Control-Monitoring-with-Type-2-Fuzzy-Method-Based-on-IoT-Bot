@@ -108,7 +108,7 @@ This project is closely related to agricultural technology, where this tool is u
    <table>
       <tr><th width="810">
 
-      How to setup the ``` ESP32 ``` board
+      How to setup the ``` DOIT ESP32 DEVKIT V1 ``` board
             
       </th></tr>
       <tr><td>
