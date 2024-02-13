@@ -18,7 +18,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 | Dukungan Aplikasi | Bot Telegram |
 | Driver | USB-Serial CP210X |
 | Platform IoT | io-t.net |
-| Protokol Komunikasi | • Inter Integrated Circuit (I2C)<br>• Message Queuing Telemetry Transport (MQTT) |
+| Protokol Komunikasi | • Inter Integrated Circuit (I2C)<br>• Message Queuing Telemetry Transport (MQTT)<br>• MTProto |
 | Arsitektur IoT | 4 Lapisan |
 | Matlab |  Fuzzy Interface System |
 | Bahasa Pemrograman | C/C++ |
