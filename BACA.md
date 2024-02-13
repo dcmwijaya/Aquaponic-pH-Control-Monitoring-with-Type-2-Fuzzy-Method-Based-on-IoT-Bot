@@ -3,7 +3,6 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Control-Monitoring-pH-Aquaponics-BotIoTBased-FuzzyType2)
 ![Thesis-Project](https://img.shields.io/badge/Project-Skripsi%20-%2D%20Informatika%20UPN%20Veteran%20Jatim-light.svg?style=flat&logo=arduino&logoColor=white&color=%23F7DF1E)
 
-
 # Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot
 <strong>Dokumentasi Skripsi - Informatika UPN Veteran Jatim</strong><br><br>
 Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini digunakan untuk mengontrol atau memonitoring perubahan pH air setiap saat pada area akuaponik. Sistem akuaponik ini sendiri merupakan sistem budidaya gabungan antara ikan dan sayuran dimana kegiatannya saling menguntungkan. Alat ini dilengkapi dengan sistem pendukung keputusan berupa IT2FL dengan interface berbasis Bot of Things (BoT). Alat ini telah diatur sedemikian rupa agar dapat bekerja secara otomatis, namun juga dapat diperintahkan secara manual.
@@ -19,7 +18,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 | Dukungan Aplikasi | Bot Telegram |
 | Driver | USB-Serial CP210X |
 | Platform IoT | io-t.net |
-| Protokol IoT | MQTT |
+| Protokol Komunikasi | MQTT |
 | Arsitektur IoT | 4 Lapisan |
 | Matlab |  Fuzzy Interface System |
 | Bahasa Pemrograman | C/C++ |
