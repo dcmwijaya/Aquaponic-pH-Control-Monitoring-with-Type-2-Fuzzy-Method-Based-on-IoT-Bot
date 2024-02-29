@@ -60,7 +60,7 @@ Contoh perhitungan regresi linear dapat anda lihat sebagai berikut.
 
 ## Tahap Kedua: Mencari nilai 𝑎 dan 𝑏
 
-Nilai dari tahap sebelumnya tinggal dimasukkan ke dalam persamaan 𝑎 dan 𝑏. Contoh perhitungannya terlihat jelas di bawah ini.
+Nilai yang sudah didapat dari tahap sebelumnya tinggal dimasukkan ke dalam persamaan 𝑎 dan 𝑏. Contoh perhitungannya sudah terlihat jelas di bawah ini.
 
 <table><tr><td width="810">
 
