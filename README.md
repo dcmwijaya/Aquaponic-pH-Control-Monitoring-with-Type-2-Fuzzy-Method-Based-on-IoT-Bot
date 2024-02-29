@@ -83,7 +83,7 @@ Aquaponic system is a combined farming system between fish with vegetables where
 <br><br>
 
 ## Calibration of pH Sensor
-The pH sensor can be calibrated using the results of a linear regression calculation. The linear regression equation used in this project can be seen as follows.
+The pH sensor can be calibrated using the results of a linear regression calculation. You can see the linear regression equation as follows.
 
 <table>
    <tr>
