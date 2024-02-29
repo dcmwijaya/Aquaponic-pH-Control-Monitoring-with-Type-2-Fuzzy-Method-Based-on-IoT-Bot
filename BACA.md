@@ -83,7 +83,7 @@ Sistem akuaponik merupakan sistem budidaya gabungan antara ikan dengan sayuran d
 <br><br>
 
 ## Kalibrasi Sensor pH
-Sensor pH di kalibrasi terlebih dahulu dengan regresi linear seperti yang ditunjukkan pada persamaan I.
+Sensor pH dapat di kalibrasi dengan regresi linear, hal tersebut seperti yang ditunjukkan pada persamaan I di bawah.
 
 <table>
    <tr>
