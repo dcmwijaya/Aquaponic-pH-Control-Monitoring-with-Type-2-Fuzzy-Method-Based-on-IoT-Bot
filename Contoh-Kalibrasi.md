@@ -64,7 +64,7 @@ Telah didapatkan nilai 𝑎 sebesar 21,84 dan nilai 𝑏 sebesar -5,27.
 
 <br><br>
 
-## Tahap Ketiga: Perhitungan Regresi Linear
+## Tahap Ketiga: Persamaan Regresi Linear
 
 Nilai 𝑎 dan 𝑏 tinggal dimasukkan ke dalam persamaan regresi linear sehingga menjadi :
 
