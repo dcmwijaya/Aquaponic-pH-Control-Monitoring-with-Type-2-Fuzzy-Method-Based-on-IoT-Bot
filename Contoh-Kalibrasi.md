@@ -1,56 +1,55 @@
-## Tahap pertama: Persiapan
+## Tahap Pertama: Perhitungan Regresi Linear
 
-Bahan dan alat :
-
-1. Gelas.
-   
-2. Air.
-   
-3. Bubuk kalibrasi pH.
-   
-4. Sensor pH.
-
-<br><br>
-
-## Tahap kedua: Perhitungan Regresi Linear
 
 • Keadaan asam (𝑌=4) :
 
-1. Celupkan sensor ke dalam air yang mengandung larutan asam.
+<table><tr><td width="810">
    
-2. Tunggu hingga tegangan menjadi stabil.
+   1. Celupkan sensor ke dalam air yang mengandung larutan asam.
+      
+   2. Tunggu hingga tegangan menjadi stabil.
+      
+   3. Silakan catat nilai tegangan (𝑋) yang dibaca oleh sensor tersebut.
+      
+   4. Selanjutnya tinggal mencari nilai 𝑌², 𝑋², dan 𝑋𝑌.
+      
+   5. Silakan hitung semua nilai dan taruh hasilnya ke dalam tabel.
    
-3. Silakan catat nilai tegangan (𝑋) yang dibaca oleh sensor tersebut.
-   
-4. Selanjutnya tinggal mencari nilai 𝑌², 𝑋², dan 𝑋𝑌.
-   
-5. Silakan hitung semua nilai dan taruh hasilnya ke dalam tabel.<br><br>
+</td></tr></table><br>
 
 • Keadaan netral (𝑌=7) :
 
-1. Celupkan sensor ke dalam air yang netral.
+<table><tr><td width="810">
    
-2. Tunggu hingga tegangan menjadi stabil.
+   1. Celupkan sensor ke dalam air yang netral.
+      
+   2. Tunggu hingga tegangan menjadi stabil.
+      
+   3. Silakan catat nilai tegangan (𝑋) yang dibaca oleh sensor tersebut.
+      
+   4. Selanjutnya tinggal mencari nilai 𝑌², 𝑋², dan 𝑋𝑌.
+      
+   5. Silakan hitung semua nilai dan taruh hasilnya ke dalam tabel.
    
-3. Silakan catat nilai tegangan (𝑋) yang dibaca oleh sensor tersebut.
-   
-4. Selanjutnya tinggal mencari nilai 𝑌², 𝑋², dan 𝑋𝑌.
-   
-5. Silakan hitung semua nilai dan taruh hasilnya ke dalam tabel.<br><br>
+</td></tr></table><br>
 
 • Keadaan basa (𝑌=10) :
 
-1. Celupkan sensor ke dalam air yang mengandung larutan basa.
+<table><tr><td width="810">
    
-2. Tunggu hingga tegangan menjadi stabil.
+   1. Celupkan sensor ke dalam air yang mengandung larutan basa.
+      
+   2. Tunggu hingga tegangan menjadi stabil.
+      
+   3. Silakan catat nilai tegangan (𝑋) yang dibaca oleh sensor tersebut.
+      
+   4. Selanjutnya tinggal mencari nilai 𝑌², 𝑋², dan 𝑋𝑌.
+      
+   5. Silakan hitung semua nilai dan taruh hasilnya ke dalam tabel.
    
-3. Silakan catat nilai tegangan (𝑋) yang dibaca oleh sensor tersebut.
-   
-4. Selanjutnya tinggal mencari nilai 𝑌², 𝑋², dan 𝑋𝑌.
-   
-5. Silakan hitung semua nilai dan taruh hasilnya ke dalam tabel.<br><br>
+</td></tr></table><br>
 
-Contoh perhitungannya dapat anda lihat di tabel berikut.
+Contoh perhitungannya dapat anda lihat sebagai berikut.
 
 <table><tr><td width="810">
 
