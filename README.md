@@ -82,7 +82,7 @@ Aquaponic system is a combined farming system between fish with vegetables where
 
 <br><br>
 
-## Calibration of pH Sensor
+##  pH Sensor Calibration
 The pH sensor can be calibrated using the results of a linear regression calculation. You can see the linear regression equation as follows.
 
 <table>
@@ -127,6 +127,33 @@ The linear regression determination values (a and b) can be obtained through equ
 </table><br>
 
 Example of pH sensor calibration: <a href="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/blob/master/Calibration-Example.md">Click Here</a>
+
+<br><br>
+
+## RTC Sensor Calibration
+This RTC sensor can be calibrated using the following program code :
+
+```ino
+#include <RTClib.h> // Calling the RTC library
+RTC_DS3231 rtc; // Constructor
+
+void setup(){
+   RTCinit(); // Calling the RTCinit method
+}
+
+void loop(){}
+
+void RTCinit(){
+   // Starting up the RTC
+   rtc.begin();
+
+   // DateTime Setting
+   rtc.adjust(DateTime(F(__DATE__), F(__TIME__)));
+
+   // Set Time Now
+   rtc.adjust(DateTime(YYYY,MM,DD,HH,MM,SS));
+}
+```
 
 <br><br>
 
