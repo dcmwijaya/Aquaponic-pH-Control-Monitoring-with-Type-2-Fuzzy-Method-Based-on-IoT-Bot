@@ -50,11 +50,7 @@
 
 Contoh perhitungannya dapat anda lihat sebagai berikut :
 
-<table><tr><td width="810">
-
-  <img src="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/assets/54527592/544cb844-59eb-4ea0-81c3-f5daa0ee3bcf">
-
-</td></tr></table>
+<img height="220" width="500" src="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/assets/54527592/544cb844-59eb-4ea0-81c3-f5daa0ee3bcf">
 
 <br><br>
 
@@ -62,11 +58,7 @@ Contoh perhitungannya dapat anda lihat sebagai berikut :
 
 Nilai yang sudah didapat dari tahap sebelumnya tinggal dimasukkan ke dalam persamaan 𝑎 dan 𝑏. Contoh perhitungannya seperti ini :
 
-<table><tr><td width="810">
-
-  <img src="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/assets/54527592/d2545e57-3307-439e-a362-93e71ffb4097">
-
-</td></tr></table>
+<img height="450" width="500" src="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/assets/54527592/d2545e57-3307-439e-a362-93e71ffb4097"><br><br>
 
 Telah didapatkan nilai 𝑎 sebesar 21,84 dan nilai 𝑏 sebesar -5,27.
 
@@ -76,10 +68,6 @@ Telah didapatkan nilai 𝑎 sebesar 21,84 dan nilai 𝑏 sebesar -5,27.
 
 Nilai 𝑎 dan 𝑏 tinggal dimasukkan ke dalam persamaan regresi linear sehingga menjadi :
 
-<table><tr><td width="810">
-
-  <img height="30" width="180" src="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/assets/54527592/b1ebdeee-7ca4-4dfc-8edd-258a9266d31e">
-
-</td></tr></table>
+<img height="30" width="180" src="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/assets/54527592/b1ebdeee-7ca4-4dfc-8edd-258a9266d31e"><br><br>
 
 Persamaan di atas bisa langsung digunakan untuk keperluan kalibrasi sensor PH4502C.
