@@ -87,17 +87,15 @@ Sensor pH di kalibrasi terlebih dahulu dengan regresi linear seperti yang ditunj
 
 <table>
    <tr>
-      <th width="120">Ke-</th>
-      <th width="720">Persamaan</th>
+      <td width="40">I</td>
+      <td width="800"><img height="30" width="120" src="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/assets/54527592/30303e06-fd2a-4e06-a7d2-911da8af041d" alt="Persamaan-I"></td>
    </tr>
-   <tr>
-   <td>I</td>
-   <td><img src="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/assets/54527592/30303e06-fd2a-4e06-a7d2-911da8af041d" alt="Persamaan-I"></td>
-   </tr>
-   <tr>
-      <th colspan="2" height="50px"></th>
-   </tr>
-   <tr>
+</table><br><br>
+
+Adapun penjelasan dari simbol-simbol yang ada di persamaan I dapat anda lihat di tabel berikut.
+
+<table>
+   <tr height="50px">
       <th width="120">Simbol</th>
       <th width="720">Keterangan</th>
    </tr>
@@ -113,26 +111,20 @@ Sensor pH di kalibrasi terlebih dahulu dengan regresi linear seperti yang ditunj
       <td>𝑎 dan 𝑏</td>
       <td>nilai ketetapan regresi linear</td>
    </tr>
-</table>
-
-<br><br>
+</table><br>
 
 Nilai ketetapan regresi linear (a dan b) dapat diperoleh melalui persamaan II dan III.
 
 <table>
    <tr>
-      <th width="120">Ke-</th>
-      <th width="720">Persamaan</th>
+      <td width="40">II</td>
+      <td width="800"><img height="50" width="180" src="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/assets/54527592/c9f65453-cb7f-4c4c-8676-ecbf8b4bd9e1" alt="Persamaan-II"></td>
    </tr>
    <tr>
-      <td>II</td>
-      <td><img src="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/assets/54527592/c9f65453-cb7f-4c4c-8676-ecbf8b4bd9e1" alt="Persamaan-II"></td>
+      <td width="40">III</td>
+      <td width="800"><img height="50" width="180" src="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/assets/54527592/260b350f-0374-4ad1-bdb2-4c74ce70aa0b" alt="Persamaan-III"></td>
    </tr>
-   <tr>
-      <td>III</td>
-      <td><img src="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/assets/54527592/260b350f-0374-4ad1-bdb2-4c74ce70aa0b" alt="Persamaan-III"></td>
-   </tr>
-</table><br>
+</table>
 
 <br><br>
 
