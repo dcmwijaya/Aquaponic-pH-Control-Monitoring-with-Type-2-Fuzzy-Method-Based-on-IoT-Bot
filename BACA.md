@@ -130,6 +130,33 @@ Contoh kalibrasi sensor pH: <a href="https://github.com/devancakra/Aquaponic-pH-
 
 <br><br>
 
+## Kalibrasi Sensor RTC
+Sensor RTC ini dapat di kalibrasi dengan menggunakan kode program berikut :
+
+```ino
+#include <RTClib.h> // Library
+RTC_DS3231 rtc; // Constructor
+
+void setup(){
+   RTCinit(); // Calling the RTCinit method
+}
+
+void loop(){}
+
+void RTCinit(){
+   // Starting up the RTC
+   rtc.begin();
+
+   // DateTime Setting
+   rtc.adjust(DateTime(F(__DATE__), F(__TIME__)));
+
+   // Set Time Now
+   rtc.adjust(DateTime(YYYY,MM,DD,HH,MM,SS));
+}
+```
+
+<br><br>
+
 ## Pengaturan Arduino IDE
 1. Buka ``` Arduino IDE ``` terlebih dahulu, kemudian buka proyek dengan cara klik ``` File ``` -> ``` Open ``` :
 
