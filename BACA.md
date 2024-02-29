@@ -92,7 +92,7 @@ Sensor pH dapat di kalibrasi dengan menggunakan hasil perhitungan regresi linear
    </tr>
 </table><br>
 
-Penjelasan dari simbol-simbol yang ada di persamaan I dapat anda lihat selengkapnya pada tabel berikut.
+Penjelasan dari simbol-simbol yang ada di persamaan I, dapat anda lihat selengkapnya pada tabel berikut.
 
 <table>
    <tr height="50px">
