@@ -92,7 +92,7 @@ The pH sensor can be calibrated using the results of a linear regression calcula
    </tr>
 </table><br>
 
-You can see the explanation of the symbols in equation I in the following table.
+Explanation of the symbols in equation I, you can see more details in the following table.
 
 <table>
    <tr height="50px">
