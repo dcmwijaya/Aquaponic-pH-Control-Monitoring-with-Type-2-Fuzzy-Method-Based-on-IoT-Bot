@@ -82,4 +82,4 @@ Nilai 𝑎 dan 𝑏 tinggal dimasukkan ke dalam persamaan regresi linear sehingg
 
 </td></tr></table>
 
-Persamaan di atas dapat langsung digunakan untuk kalibrasi sensor PH4502C.
+Persamaan di atas bisa langsung digunakan untuk keperluan kalibrasi sensor PH4502C.
