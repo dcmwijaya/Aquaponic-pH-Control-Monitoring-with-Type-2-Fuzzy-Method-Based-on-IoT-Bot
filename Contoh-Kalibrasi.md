@@ -48,7 +48,7 @@
    
 </td></tr></table><br>
 
-Contoh perhitungannya dapat anda lihat sebagai berikut.
+Contoh perhitungannya dapat anda lihat sebagai berikut :
 
 <table><tr><td width="810">
 
@@ -60,7 +60,7 @@ Contoh perhitungannya dapat anda lihat sebagai berikut.
 
 ## Tahap Kedua: Mencari nilai 𝑎 dan 𝑏
 
-Nilai yang sudah didapat dari tahap sebelumnya tinggal dimasukkan ke dalam persamaan 𝑎 dan 𝑏. Contoh perhitungannya seperti ini.
+Nilai yang sudah didapat dari tahap sebelumnya tinggal dimasukkan ke dalam persamaan 𝑎 dan 𝑏. Contoh perhitungannya seperti ini :
 
 <table><tr><td width="810">
 
@@ -74,7 +74,7 @@ Telah didapatkan nilai 𝑎 sebesar 21,84 dan nilai 𝑏 sebesar -5,27.
 
 ## Tahap Ketiga: Perhitungan Regresi Linear
 
-Nilai 𝑎 dan 𝑏 tinggal dimasukkan ke dalam persamaan regresi linear sehingga menjadi:
+Nilai 𝑎 dan 𝑏 tinggal dimasukkan ke dalam persamaan regresi linear sehingga menjadi :
 
 <table><tr><td width="810">
 
