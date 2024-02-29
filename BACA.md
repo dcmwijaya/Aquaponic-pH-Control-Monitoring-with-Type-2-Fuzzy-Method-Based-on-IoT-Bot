@@ -124,7 +124,7 @@ Nilai ketetapan regresi linear (a dan b) dapat diperoleh melalui persamaan II da
       <td width="40">III</td>
       <td width="800"><img height="50" width="180" src="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/assets/54527592/260b350f-0374-4ad1-bdb2-4c74ce70aa0b" alt="Persamaan-III"></td>
    </tr>
-</table>
+</table><br>
 
 Contoh kalibrasi sensor pH: <a href="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/blob/master/Contoh-Kalibrasi.md">Klik Disini</a>
 
