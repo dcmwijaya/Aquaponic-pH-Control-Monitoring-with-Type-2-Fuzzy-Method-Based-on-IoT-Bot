@@ -134,7 +134,7 @@ Contoh kalibrasi sensor pH: <a href="https://github.com/devancakra/Aquaponic-pH-
 Sensor RTC ini dapat di kalibrasi dengan menggunakan kode program berikut :
 
 ```ino
-#include <RTClib.h> // Library
+#include <RTClib.h> // Calling the RTC library
 RTC_DS3231 rtc; // Constructor
 
 void setup(){
