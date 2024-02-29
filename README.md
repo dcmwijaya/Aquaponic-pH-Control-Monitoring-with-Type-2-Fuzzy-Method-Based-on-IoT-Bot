@@ -82,6 +82,54 @@ Aquaponic system is a combined farming system between fish with vegetables where
 
 <br><br>
 
+## Calibration of pH Sensor
+The pH sensor can be calibrated with linear regression, as shown in equation I below.
+
+<table>
+   <tr>
+      <td width="40">I</td>
+      <td width="800"><img height="30" width="120" src="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/assets/54527592/30303e06-fd2a-4e06-a7d2-911da8af041d" alt="Persamaan-I"></td>
+   </tr>
+</table><br>
+
+You can see the explanation of the symbols in equation I in the following table.
+
+<table>
+   <tr height="50px">
+      <th width="120">Symbol</th>
+      <th width="720">Description</th>
+   </tr>
+   <tr>
+      <td>𝑌</td>
+      <td>pH buffer value</td>
+   </tr>
+   <tr>
+      <td>𝑋</td>
+      <td>voltage value obtained based on Y</td>
+   </tr>
+   <tr>
+      <td>𝑎 and 𝑏</td>
+      <td>linear regression determination value</td>
+   </tr>
+</table><br>
+
+The linear regression determination values (a and b) can be obtained through equations II and III.
+
+<table>
+   <tr>
+      <td width="40">II</td>
+      <td width="800"><img height="50" width="180" src="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/assets/54527592/c9f65453-cb7f-4c4c-8676-ecbf8b4bd9e1" alt="Persamaan-II"></td>
+   </tr>
+   <tr>
+      <td width="40">III</td>
+      <td width="800"><img height="50" width="180" src="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/assets/54527592/260b350f-0374-4ad1-bdb2-4c74ce70aa0b" alt="Persamaan-III"></td>
+   </tr>
+</table><br>
+
+Example of pH sensor calibration: <a href="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/blob/master/Calibration-Example.md">Click Here</a>
+
+<br><br>
+
 ## Arduino IDE Setup
 1. Open the ``` Arduino IDE ``` first, then open the project by clicking ``` File ``` -> ``` Open ``` : 
 
