@@ -48,7 +48,7 @@
    
 </td></tr></table><br>
 
-Contoh perhitungan regresi linear dapat anda lihat sebagai berikut.
+Contoh perhitungannya dapat anda lihat sebagai berikut.
 
 <table><tr><td width="810">
 
