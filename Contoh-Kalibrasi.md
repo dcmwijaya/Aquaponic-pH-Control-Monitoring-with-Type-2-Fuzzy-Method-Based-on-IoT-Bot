@@ -64,6 +64,6 @@ Nilai dari tahap sebelumnya tinggal dimasukkan ke dalam persamaan 𝑎 dan 𝑏.
 
 <table><tr><td width="810">
 
-  <img src="">
+  <img src="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/assets/54527592/d2545e57-3307-439e-a362-93e71ffb4097">
 
 </td></tr></table>
