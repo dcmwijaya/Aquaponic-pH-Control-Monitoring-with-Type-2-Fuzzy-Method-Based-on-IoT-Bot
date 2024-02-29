@@ -82,6 +82,58 @@ Sistem akuaponik merupakan sistem budidaya gabungan antara ikan dengan sayuran d
 
 <br><br>
 
+## Kalibrasi Sensor pH
+Mengkalibrasi sensor pH sebaiknya menggunakan perhitungan regresi linear seperti yang ditunjukkan pada persamaan I.
+
+<table>
+   <tr>
+      <th width="120">Ke-</th>
+      <th width="720">Persamaan</th>
+   </tr>
+   <tr>
+   <td>I</td>
+   <td><img src="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/assets/54527592/30303e06-fd2a-4e06-a7d2-911da8af041d" alt="Persamaan-I"></td>
+   </tr>
+</table><br>
+
+<table>
+   <tr>
+      <th width="120">Simbol</th>
+      <th width="720">Keterangan</th>
+   </tr>
+   <tr>
+      <td>𝑌</td>
+      <td>nilai buffer pH</td>
+   </tr>
+   <tr>
+      <td>𝑎 dan 𝑏</td>
+      <td>nilai ketetapan regresi linear</td>
+   </tr>
+   <tr>
+      <td>𝑋</td>
+      <td>nilai tegangan yang diperoleh berdasarkan Y</td>
+   </tr>
+</table><br>
+
+Nilai ketetapan regresi linear (a dan b) dapat diperoleh melalui persamaan II dan III.
+
+<table>
+   <tr>
+      <th width="120">Ke-</th>
+      <th width="720">Persamaan</th>
+   </tr>
+   <tr>
+      <td>II</td>
+      <td><img src="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/assets/54527592/c9f65453-cb7f-4c4c-8676-ecbf8b4bd9e1" alt="Persamaan-II"></td>
+   </tr>
+   <tr>
+      <td>III</td>
+      <td><img src="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/assets/54527592/260b350f-0374-4ad1-bdb2-4c74ce70aa0b" alt="Persamaan-III"></td>
+   </tr>
+</table><br>
+
+<br><br>
+
 ## Pengaturan Arduino IDE
 1. Buka ``` Arduino IDE ``` terlebih dahulu, kemudian buka proyek dengan cara klik ``` File ``` -> ``` Open ``` :
 
