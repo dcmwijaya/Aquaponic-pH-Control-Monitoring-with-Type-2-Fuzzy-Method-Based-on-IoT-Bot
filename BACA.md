@@ -90,9 +90,9 @@ Sensor pH di kalibrasi terlebih dahulu dengan regresi linear seperti yang ditunj
       <td width="40">I</td>
       <td width="800"><img height="30" width="120" src="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/assets/54527592/30303e06-fd2a-4e06-a7d2-911da8af041d" alt="Persamaan-I"></td>
    </tr>
-</table><br><br>
+</table><br>
 
-Adapun penjelasan dari simbol-simbol yang ada di persamaan I dapat anda lihat di tabel berikut.
+Penjelasan dari simbol-simbol yang ada di persamaan I dapat anda lihat selengkapnya pada tabel berikut.
 
 <table>
    <tr height="50px">
