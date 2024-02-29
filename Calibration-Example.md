@@ -64,7 +64,7 @@ The value of 𝑎 is 21.84 and the value of 𝑏 is -5.27.
 
 <br><br>
 
-## Step Three: Linear Regression Calculation
+## Step Three: Linear Regression Equation
 
 The values of 𝑎 and 𝑏 can just be entered into the linear regression equation so that it becomes :
 
