@@ -94,9 +94,9 @@ Sensor pH di kalibrasi terlebih dahulu dengan menerapkan regresi linear seperti 
    <td>I</td>
    <td><img src="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/assets/54527592/30303e06-fd2a-4e06-a7d2-911da8af041d" alt="Persamaan-I"></td>
    </tr>
-</table><br>
-
-<table>
+   <tr>
+      <th colspan="2" height="50px"></th>
+   </tr>
    <tr>
       <th width="120">Simbol</th>
       <th width="720">Keterangan</th>
@@ -106,14 +106,16 @@ Sensor pH di kalibrasi terlebih dahulu dengan menerapkan regresi linear seperti 
       <td>nilai buffer pH</td>
    </tr>
    <tr>
-      <td>𝑎 dan 𝑏</td>
-      <td>nilai ketetapan regresi linear</td>
-   </tr>
-   <tr>
       <td>𝑋</td>
       <td>nilai tegangan yang diperoleh berdasarkan Y</td>
    </tr>
-</table><br>
+   <tr>
+      <td>𝑎 dan 𝑏</td>
+      <td>nilai ketetapan regresi linear</td>
+   </tr>
+</table>
+
+<br><br>
 
 Nilai ketetapan regresi linear (a dan b) dapat diperoleh melalui persamaan II dan III.
 
