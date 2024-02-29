@@ -1,6 +1,5 @@
 ## Tahap Pertama: Perhitungan Regresi Linear
 
-
 • Keadaan asam (𝑌=4) :
 
 <table><tr><td width="810">
@@ -49,10 +48,22 @@
    
 </td></tr></table><br>
 
-Contoh perhitungannya dapat anda lihat sebagai berikut.
+Contoh perhitungan regresi linear dapat anda lihat sebagai berikut.
 
 <table><tr><td width="810">
 
   <img src="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/assets/54527592/544cb844-59eb-4ea0-81c3-f5daa0ee3bcf">
+
+</td></tr></table>
+
+<br><br>
+
+## Tahap Kedua: Mencari nilai 𝑎 dan 𝑏
+
+Nilai dari tahap sebelumnya tinggal dimasukkan ke dalam persamaan 𝑎 dan 𝑏. Contoh perhitungannya terlihat jelas di bawah ini.
+
+<table><tr><td width="810">
+
+  <img src="">
 
 </td></tr></table>
