@@ -305,7 +305,7 @@ void RTCinit(){
    <table><tr><td width="810">
    For example :<br><br>
 
-   ```
+   ```ino
    #define BOTtoken "2006772150:AAE6Fdjk3KbiySkzV6CLbd6ClJDzgTfJ5y0"
    ```
    
