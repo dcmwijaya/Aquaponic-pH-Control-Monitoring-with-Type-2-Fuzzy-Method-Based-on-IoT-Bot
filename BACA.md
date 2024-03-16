@@ -372,7 +372,7 @@ Via Telegram: <a href="https://t.me/phiotnet_bot">@phiotnet_bot</a>
    
    • Arus bocor listrik disebabkan oleh penggunaan PSU yang tidak standar atau kurangnya isolator yang digunakan.
    
-   • Kurangnya sirkulasi udara yang ada di main box dapat menyebabkan panas.
+   • Kurangnya sirkulasi udara yang ada di kotak utama dapat menyebabkan panas.
    
    • NO (Normally Open) yang diterapkan pada relay mengakibatkan solenoid valve menjadi panas, seharusnya menerapkan NC (Normally Close) pada relay agar perangkat yang dialiri listrik itu menjadi aman.
    
