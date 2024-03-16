@@ -374,11 +374,13 @@ Via Telegram: <a href="https://t.me/phiotnet_bot">@phiotnet_bot</a>
    
    • Kurangnya sirkulasi udara yang ada di main box dapat menyebabkan panas.
    
-   • NO (Normally Open) yang diterapkan pada relay mengakibatkan solenoid valve menjadi panas, seharusnya menerapkan NC (Normally Close) pada relay agar perangkat yang dialiri listrik aman.
+   • NO (Normally Open) yang diterapkan pada relay mengakibatkan solenoid valve menjadi panas, seharusnya menerapkan NC (Normally Close) pada relay agar perangkat yang dialiri listrik itu menjadi aman.
    
    • Kurangnya arus listrik mengakibatkan LCD tidak kuat menyala, sebaiknya ganti dengan PSU yang 3A.
    
    • Penggunaan Arduino Uno sebagai filter atau pembagi tegangan itu dinilai tidak efisien, sebaiknya ganti dengan stepdown saja, lalu atur sesuai dengan kebutuhan.
+   
+   • Probe sensor pH belum ada perlindungannya.
    
    </td></tr></table><br>
 
