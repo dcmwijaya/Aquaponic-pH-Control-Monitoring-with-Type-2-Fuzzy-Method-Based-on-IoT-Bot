@@ -372,11 +372,11 @@ Via Telegram: <a href="https://t.me/phiotnet_bot">@phiotnet_bot</a>
    
    • Lack of air circulation in the main box can cause heat.
    
-   • NO (Normally Open) applied to the relay causes the solenoid valve to become hot, it should apply NC (Normally Close) to the relay so that the electrified device becomes safe.
+   • NO (Normally Open) applied to the relay causes the solenoid valve to become hot.
    
-   • The lack of electric current causes the LCD to not power on, it is better to replace it with a 3A PSU.
+   • The lack of electric current causes the LCD to not power on.
    
-   • The use of Arduino Uno as a filter or voltage divider is considered inefficient, it is better to replace it with a stepdown, then adjust it according to your needs.
+   • The use of Arduino Uno as a filter or voltage divider is considered inefficient.
    
    • The pH sensor probe has no protection.
    
