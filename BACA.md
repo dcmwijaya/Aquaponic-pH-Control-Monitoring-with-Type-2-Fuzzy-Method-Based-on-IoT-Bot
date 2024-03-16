@@ -370,7 +370,7 @@ Via Telegram: <a href="https://t.me/phiotnet_bot">@phiotnet_bot</a>
 
    <table><tr><td width="810">
    
-   • Arus bocor listrik disebabkan oleh penggunaan PSU yang tidak standar atau isolator yang ada itu kurang.
+   • Arus bocor listrik disebabkan oleh penggunaan PSU yang tidak standar atau kurangnya isolator yang digunakan.
    
    • Kurangnya sirkulasi udara yang ada di main box dapat menyebabkan panas.
    
