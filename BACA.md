@@ -372,7 +372,7 @@ Via Telegram: <a href="https://t.me/phiotnet_bot">@phiotnet_bot</a>
    
    • Arus bocor listrik disebabkan oleh penggunaan PSU yang tidak standar atau kurangnya isolator yang digunakan.
    
-   • Kurangnya sirkulasi udara yang ada di kotak utama dapat menyebabkan panas.
+   • Kurangnya sirkulasi udara yang ada di main box dapat menyebabkan panas.
    
    • NO (Normally Open) yang diterapkan pada relay mengakibatkan solenoid valve menjadi panas, seharusnya menerapkan NC (Normally Close) pada relay agar perangkat yang dialiri listrik itu menjadi aman.
    
@@ -396,7 +396,8 @@ Via Telegram: <a href="https://t.me/phiotnet_bot">@phiotnet_bot</a>
 
 <br><br>
 
-## Kelebihan
+## Kelebihan  
+<table><tr><td width="840">
    
    • Antarmuka sistem melalui bot telegram, sehingga pemberian perintah sekaligus upaya pemantauan dapat dilakukan kapan saja dan dimana saja.
    
@@ -406,7 +407,30 @@ Via Telegram: <a href="https://t.me/phiotnet_bot">@phiotnet_bot</a>
    
    • Sistem ini telah dilengkapi dengan fitur pewaktuan.
 
-<br><br>
+</td></tr></table><br><br>
+
+## Di Masa Depan
+<table><tr><td width="840">
+   
+   • Perlunya peningkatan fitur keamanan bot telegram, karena pada penelitian ini fitur keamanan yang ada dirasa belum tergolong baik.
+
+   • Perlunya peningkatan keamanan pada sensor pH.
+   
+   • Perlunya penambahan perangkat re-fill tank pH dan AB mix tank yang dibuat secara otomatis, karena pada penelitian ini pengisian galon pH dan pemberian AB Mix masih dilakukan secara manual sehingga menyulitkan pengguna.
+   
+   • Perlunya penambahan perangkat yang dapat melakukan pengukuran suhu air dan amonia karena pada penelitian ini hanya berfokus pada pengaturan pH air sehingga hasil yang didapatkan masih belum sempurna.
+   
+   • Perlunya penambahan perangkat dalam pemberian pakan ikan secara otomatis, karena pada penelitian ini pemberian pakan ikan masih dilakukan secara manual.
+   
+   • Perlunya penambahan perangkat yang dapat memancarkan sinar hangat sebagai pengganti sinar matahari, karena pada penelitian ini terdapat kendala yaitu Sawi Pakcoy kurang mendapatkan asupan sinar matahari secara teratur, sehingga setelah pemindahan lahan, perkembangannya tidak secepat sebelumnya.
+   
+   • Perlunya penambahan perangkat yang dapat melakukan pengurasan dan pengisian air akuarium, karena pada penelitian ini masih menggunakan cara manual, sehingga sangat merepotkan bagi pengguna.
+   
+   • Perlunya penambahan perangkat yang dapat melakukan pendinginan secara optimal pada bagian main box. Hal tersebut sangat diperlukan untuk mengatasi panas yang berlebih pada komponen elektronika, karena pada penelitian ini belum tersedia.
+   
+   • Lahan tanam hidroponik yang ada pada penelitian ini mungkin kedepannya perlu dikembangkan lagi. Selain itu, media tanam rockwool dapat diganti dengan media tanam lain yang lebih mencukupi kebutuhan tanaman, misalnya : arang sekam maupun cocopeat.
+
+</td></tr></table><br><br>
 
 ## Apresiasi
 Jika anda merasa karya ini bermanfaat, dukunglah karya ini sebagai bentuk apresiasi kepada penulis dengan cara mengeklik tombol ``` ⭐Bintang ```.
