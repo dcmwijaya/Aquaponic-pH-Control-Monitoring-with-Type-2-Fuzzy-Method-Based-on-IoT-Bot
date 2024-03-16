@@ -426,7 +426,7 @@ Via Telegram: <a href="https://t.me/phiotnet_bot">@phiotnet_bot</a>
 ## In the Future
 <table><tr><td width="840">
    
-   • Need to improve the security features of telegram bots.
+   • Need for increased the security features of telegram bots.
 
    • Need for increased security on the pH sensor.
    
