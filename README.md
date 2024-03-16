@@ -426,6 +426,12 @@ Via Telegram: <a href="https://t.me/phiotnet_bot">@phiotnet_bot</a>
 ## In the Future
 <table><tr><td width="840">
    
+   • Need for increased amperage. You can use a 3A PSU.
+
+   • Need to change the NO (Normally Open) to NC (Normally Close) on the relays so that the device is able to function properly.
+
+   • Need for voltage and current sharing. You can use a step down.
+   
    • Need for increased the security features of telegram bots.
 
    • Need for increased security on the pH sensor.
