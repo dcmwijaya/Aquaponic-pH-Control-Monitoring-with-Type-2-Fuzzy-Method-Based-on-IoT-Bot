@@ -202,7 +202,7 @@ void RTCinit(){
       
       • Then selecting a Board by clicking: ``` Tools ``` -> ``` Board ``` -> ``` ESP32 Arduino ``` -> ``` DOIT ESP32 DEVKIT V1 ```.
 
-      • ``` Arduino Uno ``` board in this project is only used as a voltage regulator.
+      • ``` Arduino Uno ``` board in this project is only used as a filter or voltage divider.
 
       • You don't need to configure the ``` Arduino Uno ``` board, just focus on the ``` ESP32 ```.
 
