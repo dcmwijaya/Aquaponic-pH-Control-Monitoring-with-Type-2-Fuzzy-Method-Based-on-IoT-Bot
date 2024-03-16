@@ -365,6 +365,29 @@ Via Telegram: <a href="https://t.me/phiotnet_bot">@phiotnet_bot</a>
 
 <br><br>
 
+## Kekurangan
+1. Hardware:
+
+   <table><tr><td width="810">
+   
+   • Arus bocor listrik disebabkan oleh penggunaan PSU yang tidak standar dan juga bisa terjadi karena minimnya isolator yang dipakai.
+   
+   • Kurangnya sirkulasi udara yang ada di main box dapat menyebabkan panas.
+
+   </td></tr></table><br>
+
+2. Firmware:
+
+   <table><tr><td width="810">
+   
+   • Waktu tunda yang ada di setiap method dinilai berlebihan.
+
+   • Penggunaan platform io-t.net kurang maksimal (hanya sebatas publish).
+
+   </td></tr></table>
+
+<br><br>
+
 ## Apresiasi
 Jika anda merasa karya ini bermanfaat, dukunglah karya ini sebagai bentuk apresiasi kepada penulis dengan cara mengeklik tombol ``` ⭐Bintang ```.
 
