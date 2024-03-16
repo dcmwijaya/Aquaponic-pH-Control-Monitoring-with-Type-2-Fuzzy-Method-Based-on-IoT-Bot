@@ -363,6 +363,49 @@ Via Telegram: <a href="https://t.me/phiotnet_bot">@phiotnet_bot</a>
 
 <br><br>
 
+## Disadvantages
+1. Hardware:
+
+   <table><tr><td width="810">
+   
+   • Electrical leakage current is caused by the use of non-standard PSUs or the lack of insulators used.
+   
+   • Lack of air circulation in the main box can cause heat.
+   
+   • NO (Normally Open) applied to the relay causes the solenoid valve to become hot, it should apply NC (Normally Close) to the relay so that the electrified device becomes safe.
+   
+   • The lack of electric current causes the LCD to not power on, it is better to replace it with a 3A PSU.
+   
+   • The use of Arduino Uno as a filter or voltage divider is considered inefficient, it is better to replace it with a stepdown, then adjust it according to your needs.
+   
+   • The pH sensor probe has no protection.
+   
+   </td></tr></table><br>
+
+2. Firmware:
+
+   <table><tr><td width="810">
+   
+   • The delay time in each method is considered excessive, it should use the ``` millis() ``` function so as not to interfere with other methods.
+
+   • The use of ``` io-t.net ``` is considered not maximal because it is known that its use is just limited to ``` publish ````.
+
+   </td></tr></table>
+
+<br><br>
+
+## Advantages
+   
+   • The system interface is through a telegram bot, so that giving orders as well as monitoring efforts can be done anytime and anywhere.
+   
+   • With IT2FL, the accuracy of the sensor becomes more accurate.
+
+   • The system can automatically make its own decisions and can also be manually controlled by the user.
+   
+   • The system has been equipped with a timing feature.
+
+<br><br>
+
 ## Appreciation
 If you find this work useful, please support this work as a token of appreciation to the author by clicking the ``` ⭐Star ``` button.
 
