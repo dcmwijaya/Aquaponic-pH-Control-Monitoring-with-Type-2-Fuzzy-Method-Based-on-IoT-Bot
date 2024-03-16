@@ -370,7 +370,7 @@ Via Telegram: <a href="https://t.me/phiotnet_bot">@phiotnet_bot</a>
 
    <table><tr><td width="810">
    
-   • Arus bocor listrik disebabkan oleh penggunaan PSU yang tidak standar dan bisa saja terjadi akibat kurangnya isolator.
+   • Arus bocor listrik disebabkan oleh penggunaan PSU yang tidak standar atau isolator yang ada itu kurang.
    
    • Kurangnya sirkulasi udara yang ada di main box dapat menyebabkan panas.
    
@@ -378,7 +378,7 @@ Via Telegram: <a href="https://t.me/phiotnet_bot">@phiotnet_bot</a>
    
    • Kurangnya arus listrik mengakibatkan LCD tidak kuat menyala, sebaiknya ganti PSU yang 3A.
    
-   • Pembagi tegangan / filter dinilai tidak efisien, sebaiknya Arduino Uno ganti dengan stepdown lalu atur sesuai kebutuhan.
+   • Pembagi tegangan / filter dinilai tidak efisien, sebaiknya Arduino Uno ganti dengan stepdown lalu atur sesuai dengan kebutuhan.
    
    </td></tr></table><br>
 
