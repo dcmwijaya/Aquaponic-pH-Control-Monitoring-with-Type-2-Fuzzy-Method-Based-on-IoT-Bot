@@ -386,7 +386,7 @@ Via Telegram: <a href="https://t.me/phiotnet_bot">@phiotnet_bot</a>
 
    <table><tr><td width="810">
    
-   • Waktu tunda yang ada di setiap method dinilai berlebihan, seharusnya menggunakan fungsi ``` millis() ```.
+   • Waktu tunda yang ada di setiap method dinilai berlebihan, seharusnya menggunakan fungsi ``` millis() ``` agar tidak mengganggu method lainnya.
 
    • Penggunaan ``` io-t.net ``` dinilai kurang maksimal karena diketahui penggunaannya baru sebatas ``` publish ```.
 
