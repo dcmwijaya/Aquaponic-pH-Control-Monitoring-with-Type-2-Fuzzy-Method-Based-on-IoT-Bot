@@ -15,7 +15,7 @@ Sistem akuaponik merupakan sistem budidaya gabungan antara ikan dengan sayuran d
 | Papan Pengembangan | DOIT ESP32 DEVKIT V1 |
 | Papan Pendukung | Arduino Uno R3 |
 | Editor Kode | Arduino IDE |
-| Dukungan Aplikasi | Bot Telegram |
+| Dukungan Aplikasi | • Bot Telegram<br>• Matlab R2020 |
 | Driver | USB-Serial CP210X |
 | Platform IoT | io-t.net |
 | Protokol Komunikasi | • Inter Integrated Circuit (I2C)<br>• Message Queuing Telemetry Transport (MQTT)<br>• MTProto |
@@ -48,6 +48,16 @@ Sistem akuaponik merupakan sistem budidaya gabungan antara ikan dengan sayuran d
       
    ```
    https://bit.ly/CP210X_Driver
+   ```
+
+   </td></tr></table><br>
+
+3. Matlab R2020
+
+   <table><tr><td width="810">
+
+   ```
+   https://bit.ly/Matlab2020Installer
    ```
 
    </td></tr></table>
