@@ -376,6 +376,10 @@ Via Telegram: <a href="https://t.me/phiotnet_bot">@phiotnet_bot</a>
    
    • NO (Normally Open) yang diterapkan pada relay mengakibatkan solenoid valve menjadi panas, seharusnya menerapkan NC (Normally Close) pada relay agar perangkat yang dialiri listrik aman.
    
+   • Kurangnya arus listrik mengakibatkan LCD tidak kuat menyala, sebaiknya ganti PSU yang 3A.
+   
+   • Pembagi tegangan / filter dinilai tidak efisien, sebaiknya Arduino Uno ganti dengan stepdown lalu atur sesuai kebutuhan.
+   
    </td></tr></table><br>
 
 2. Firmware:
