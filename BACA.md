@@ -67,7 +67,7 @@ Sistem akuaponik merupakan sistem budidaya gabungan antara ikan dengan sayuran d
 ## Rancangan Proyek
 <table>
 <tr>
-<th width="280">Diagram Piktorial</th>
+<th width="280">Diagram Ilustrasi</th>
 <th width="280">Desain Prototipe</th>
 <th width="280">Desain Wadah Utama</th>
 </tr>
