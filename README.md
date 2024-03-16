@@ -368,7 +368,7 @@ Via Telegram: <a href="https://t.me/phiotnet_bot">@phiotnet_bot</a>
 
    <table><tr><td width="810">
    
-   • Electrical leakage current is caused by the use of non-standard PSUs or the lack of insulators used.
+   • Electrical leakage current is caused by the use of non-standard PSU or the lack of insulators used.
    
    • Lack of air circulation in the main box can cause heat.
    
