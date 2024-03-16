@@ -388,7 +388,7 @@ Via Telegram: <a href="https://t.me/phiotnet_bot">@phiotnet_bot</a>
    
    • The delay time in each method is considered excessive, it should use the ``` millis() ``` function so as not to interfere with other methods.
 
-   • The use of ``` io-t.net ``` is considered not maximal because it is known that its use is just limited to ``` publish ````.
+   • The use of ``` io-t.net ``` is considered not maximal because it is known that its use is just limited to ``` publish ```.
 
    </td></tr></table>
 
