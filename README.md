@@ -428,7 +428,7 @@ Via Telegram: <a href="https://t.me/phiotnet_bot">@phiotnet_bot</a>
    
    • Need for increased amperage. You can use a 3A PSU.
 
-   • Need to change the NO (Normally Open) to NC (Normally Close) on the relays so that the device is able to function properly.
+   • Need to change the NO (Normally Open) to NC (Normally Close) on the relays so that the electrified device can avoid damage.
 
    • Need for voltage and current sharing. You can use a step down.
    
