@@ -396,6 +396,16 @@ Via Telegram: <a href="https://t.me/phiotnet_bot">@phiotnet_bot</a>
 
 <br><br>
 
+## Kelebihan
+   
+   • Antarmuka sistem melalui bot telegram, sehingga pemberian perintah sekaligus upaya pemantauan dapat dilakukan kapan saja dan dimana saja.
+   
+   • Dengan IT2FL, akurasi sensor menjadi lebih akurat.
+
+   • Sistem ini secara otomatis dapat mengambil keputusannya sendiri dan juga dapat dikendalikan secara manual oleh pengguna.
+
+<br><br>
+
 ## Apresiasi
 Jika anda merasa karya ini bermanfaat, dukunglah karya ini sebagai bentuk apresiasi kepada penulis dengan cara mengeklik tombol ``` ⭐Bintang ```.
 
