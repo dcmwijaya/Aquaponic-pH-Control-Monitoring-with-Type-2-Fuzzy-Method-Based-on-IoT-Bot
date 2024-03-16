@@ -380,7 +380,7 @@ Via Telegram: <a href="https://t.me/phiotnet_bot">@phiotnet_bot</a>
 
    <table><tr><td width="810">
    
-   • Waktu tunda yang ada di setiap method dinilai berlebihan.
+   • Waktu tunda yang ada di setiap method dinilai berlebihan, seharusnya menggunakan fungsi ``` millis() ```.
 
    • Penggunaan platform io-t.net kurang maksimal (hanya sebatas publish).
 
