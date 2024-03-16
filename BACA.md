@@ -161,7 +161,7 @@ void RTCinit(){
    rtc.adjust(DateTime(F(__DATE__), F(__TIME__)));
 
    // Set Time Now
-   rtc.adjust(DateTime(YYYY,MM,DD,HH,MM,SS));
+   rtc.adjust(DateTime(YYYY,MM,DD,HH,MM,SS)); // If you have calibrated please close with a comment
 }
 ```
 
