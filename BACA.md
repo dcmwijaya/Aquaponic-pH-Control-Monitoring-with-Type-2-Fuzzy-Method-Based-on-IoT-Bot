@@ -202,7 +202,7 @@ void RTCinit(){
    
       • Kemudian klik ``` Tools ``` -> ``` Board ``` -> ``` ESP32 Arduino ``` -> ``` DOIT ESP32 DEVKIT V1 ```.
    
-      • Board ``` Arduino Uno ``` yang ada di proyek ini hanya digunakan sebagai regulator tegangan.
+      • Board ``` Arduino Uno ``` yang ada di proyek ini hanya digunakan sebagai filter atau pembagi tegangan.
    
       • Anda tidak perlu melakukan konfigurasi pada board ``` Arduino Uno ```, cukup hanya berfokus pada ``` ESP32 ``` saja.
 
