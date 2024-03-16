@@ -392,6 +392,22 @@ Via Telegram: <a href="https://t.me/phiotnet_bot">@phiotnet_bot</a>
 
    • Penggunaan ``` io-t.net ``` dinilai kurang maksimal karena diketahui penggunaannya baru sebatas ``` publish ```.
 
+   • Fitur keamanan yang ada pada bot telegram dirasa belum baik.
+
+   </td></tr></table><br>
+
+3. Lainnya:
+
+   <table><tr><td width="810">
+
+   • Pengisian galon pH dan pemberian AB Mix itu masih dilakukan secara manual sehingga menyulitkan pengguna.
+
+   • Pemberian pakan ikan masih dilakukan secara manual.
+
+   • Sawi Pakcoy kurang mendapatkan asupan sinar matahari secara teratur, sehingga setelah pemindahan lahan, perkembangannya tidak secepat sebelumnya.
+
+   • Pengurasan dan pengisian air akuarium ini masih menggunakan cara manual, sehingga sangat merepotkan bagi pengguna.
+   
    </td></tr></table>
 
 <br><br>
@@ -412,21 +428,21 @@ Via Telegram: <a href="https://t.me/phiotnet_bot">@phiotnet_bot</a>
 ## Di Masa Depan
 <table><tr><td width="840">
    
-   • Perlunya peningkatan fitur keamanan bot telegram, karena pada penelitian ini fitur keamanan yang ada dirasa belum tergolong baik.
+   • Perlunya peningkatan fitur keamanan pada bot telegram.
 
    • Perlunya peningkatan keamanan pada sensor pH.
    
-   • Perlunya penambahan perangkat re-fill tank pH dan AB mix tank yang dibuat secara otomatis, karena pada penelitian ini pengisian galon pH dan pemberian AB Mix masih dilakukan secara manual sehingga menyulitkan pengguna.
+   • Perlunya penambahan perangkat re-fill galon pH dan AB mix yang dibuat secara otomatis.
    
-   • Perlunya penambahan perangkat yang dapat melakukan pengukuran suhu air dan amonia karena pada penelitian ini hanya berfokus pada pengaturan pH air sehingga hasil yang didapatkan masih belum sempurna.
+   • Perlunya penambahan perangkat yang dapat melakukan pengukuran suhu air dan amonia.
    
-   • Perlunya penambahan perangkat dalam pemberian pakan ikan secara otomatis, karena pada penelitian ini pemberian pakan ikan masih dilakukan secara manual.
+   • Perlunya penambahan perangkat dalam pemberian pakan ikan secara otomatis.
    
-   • Perlunya penambahan perangkat yang dapat memancarkan sinar hangat sebagai pengganti sinar matahari, karena pada penelitian ini terdapat kendala yaitu Sawi Pakcoy kurang mendapatkan asupan sinar matahari secara teratur, sehingga setelah pemindahan lahan, perkembangannya tidak secepat sebelumnya.
+   • Perlunya penambahan perangkat yang dapat memancarkan sinar hangat sebagai pengganti sinar matahari.
    
-   • Perlunya penambahan perangkat yang dapat melakukan pengurasan dan pengisian air akuarium, karena pada penelitian ini masih menggunakan cara manual, sehingga sangat merepotkan bagi pengguna.
+   • Perlunya penambahan perangkat yang dapat melakukan pengurasan dan pengisian air akuarium.
    
-   • Perlunya penambahan perangkat yang dapat melakukan pendinginan secara optimal pada bagian main box. Hal tersebut sangat diperlukan untuk mengatasi panas yang berlebih pada komponen elektronika, karena pada penelitian ini belum tersedia.
+   • Perlunya penambahan perangkat yang dapat melakukan pendinginan secara optimal pada bagian main box.
    
    • Lahan tanam hidroponik yang ada pada penelitian ini mungkin kedepannya perlu dikembangkan lagi. Selain itu, media tanam rockwool dapat diganti dengan media tanam lain yang lebih mencukupi kebutuhan tanaman, misalnya : arang sekam maupun cocopeat.
 
