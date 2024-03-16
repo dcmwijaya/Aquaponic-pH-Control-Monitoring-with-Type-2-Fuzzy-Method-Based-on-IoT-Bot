@@ -403,6 +403,8 @@ Via Telegram: <a href="https://t.me/phiotnet_bot">@phiotnet_bot</a>
    • Dengan IT2FL, akurasi sensor menjadi lebih akurat.
 
    • Sistem ini secara otomatis dapat mengambil keputusannya sendiri dan juga dapat dikendalikan secara manual oleh pengguna.
+   
+   • Sistem ini telah dilengkapi dengan fitur pewaktuan.
 
 <br><br>
 
