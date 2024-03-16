@@ -390,6 +390,22 @@ Via Telegram: <a href="https://t.me/phiotnet_bot">@phiotnet_bot</a>
 
    • The use of ``` io-t.net ``` is considered not maximal because it is known that its use is just limited to ``` publish ```.
 
+   • The security features on telegram bots are not good.
+
+   </td></tr></table><br>
+
+3. Others:
+
+   <table><tr><td width="810">
+   
+   • Filling gallons of pH and giving AB Mix is still done manually, making it difficult for users.
+   
+   • Fish feeding is still done manually.
+   
+   • Pakcoy mustard greens lack regular sunlight intake, so after transplanting the land, its development is not as fast as before.
+
+   • Draining and filling the aquarium water is still done manually, making it very inconvenient for users.
+
    </td></tr></table>
 
 <br><br>
@@ -410,21 +426,21 @@ Via Telegram: <a href="https://t.me/phiotnet_bot">@phiotnet_bot</a>
 ## In the Future
 <table><tr><td width="840">
    
-   • Need to improve the security features of telegram bots, because in this study the existing security features are not considered good.
+   • Need to improve the security features of telegram bots.
 
    • Need for increased security on the pH sensor.
    
-   • Need for the addition of pH tank re-fill devices and AB mix tanks that are made automatically, because in this study the filling of pH gallons and the provision of AB Mix is still done manually, making it difficult for users.
+   • Need for the addition of pH tank re-fill devices and AB mix tanks that are made automatically.
    
-   • Need for additional devices that can measure water temperature and ammonia because this research only focuses on setting the pH of water so that the results obtained are still not perfect.
+   • Need for additional devices that can measure water temperature and ammonia.
    
-   • Need for additional devices in automatic fish feeding, because in this study fish feeding is still done manually.
+   • Need for additional devices in automatic fish feeding.
    
-   • Need for additional devices that can emit warm light as a substitute for sunlight, because in this study there is an obstacle that Pakcoy mustard greens do not get regular sunlight intake, so that after transplanting the land, its development is not as fast as before.
+   • Need for additional devices that can emit warm light as a substitute for sunlight.
    
-   • Need for additional devices that can drain and fill aquarium water, because this research still uses manual methods, so it is very inconvenient for users.
+   • Need for additional devices that can drain and fill aquarium water.
    
-   • Need for additional devices that can optimally cool the main box. This is very necessary to overcome excessive heat in electronic components, because this research is not yet available.
+   • Need for additional devices that can optimally cool the main box. 
    
    • The existing hydroponic planting field in this study may need to be developed further in the future. In addition, rockwool planting media can be replaced with other planting media that are more adequate for plant needs, for example: husk charcoal or cocopeat.
 
