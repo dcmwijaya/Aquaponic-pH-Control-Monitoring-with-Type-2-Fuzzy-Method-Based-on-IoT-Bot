@@ -380,7 +380,7 @@ Via Telegram: <a href="https://t.me/phiotnet_bot">@phiotnet_bot</a>
    
    • Penggunaan Arduino Uno sebagai filter atau pembagi tegangan itu dinilai tidak efisien.
    
-   • Probe sensor pH belum ada perlindungan.
+   • Probe sensor pH tidak memiliki proteksi.
    
    </td></tr></table><br>
 
