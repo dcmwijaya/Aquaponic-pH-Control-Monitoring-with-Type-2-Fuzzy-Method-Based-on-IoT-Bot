@@ -136,7 +136,7 @@ The linear regression determination values (a and b) can be obtained through equ
    </tr>
 </table><br>
 
-Example of pH sensor calibration: <a href="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/blob/master/Assets/Others/pHSensor-Calibration-Example.md">Click Here</a>
+Example of pH sensor calibration: <a href="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/blob/master/Assets/Articles/pHSensor-Calibration-Example.md">Click Here</a>
 
 <br><br>
 
