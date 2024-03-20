@@ -1,0 +1,53 @@
+[System]
+Name='FIS_pHAkuaponik'
+Type='sugeno'
+Version=2.0
+NumInputs=1
+NumOutputs=2
+NumRules=5
+AndMethod='prod'
+OrMethod='probor'
+ImpMethod='prod'
+AggMethod='sum'
+DefuzzMethod='wtaver'
+TypeRedMethod='Karnik-Mendel'
+
+[Input1]
+Name='pHair'
+Range=[0 14]
+NumMFs=5
+MF1U='AsamKuat_U':'trimf',[-1000 1 3 1]
+MF1L='AsamKuat_L':'trimf',[-1000 1 2.8 1]
+MF2U='AsamLemah_U':'trimf',[3 4.5 6 1]
+MF2L='AsamLemah_L':'trimf',[3.2 4.5 5.8 1]
+MF3U='Netral_U':'trimf',[6 7 8 1]
+MF3L='Netral_L':'trimf',[6.2 7 7.8 1]
+MF4U='BasaLemah_U':'trimf',[8 9 10 1]
+MF4L='BasaLemah_L':'trimf',[8.2 9 9.8 1]
+MF5U='BasaKuat_U':'trimf',[10 12 1000 1]
+MF5L='BasaKuat_L':'trimf',[10.2 12 1000 1]
+
+[Output1]
+Name='RelaypHup'
+CrispInterval='crisp'
+Range=[-1 1]
+NumMFs=3
+MF1='Diam':'constant',[0 0]
+MF2='Sedang':'constant',[10 10]
+MF3='Lama':'constant',[25 25]
+
+[Output2]
+Name='RelaypHdown'
+CrispInterval='crisp'
+Range=[-1 1]
+NumMFs=3
+MF1='Diam':'constant',[0 0]
+MF2='Sedang':'constant',[10 10]
+MF3='Lama':'constant',[25 25]
+
+[Rules]
+1, 3 1 (1) : 1
+2, 2 1 (1) : 1
+3, 1 1 (1) : 1
+4, 1 2 (1) : 1
+5, 1 3 (1) : 1
