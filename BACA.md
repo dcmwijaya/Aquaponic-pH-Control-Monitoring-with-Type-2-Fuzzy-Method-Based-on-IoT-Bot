@@ -23,7 +23,7 @@ Sistem akuaponik merupakan sistem budidaya gabungan antara ikan dengan sayuran d
 | Matlab |  Fuzzy Interface System |
 | Bahasa Pemrograman | C/C++ |
 | Pustaka Arduino | • WiFi (bawaan)<br>• Wire (bawaan)<br>• PubSubClient<br>• LiquidCrystal_I2C<br>• CTBot<br>• ArduinoJson<br>• RTClib |
-| Aktuator | • Submersible pump aquarium (x1)<br>• Pneumatic solenoid valve (x2)<br>• Piezo buzzer (x1) |
+| Aktuator | • Submersible pump aquarium (x1)<br>• Pneumatic solenoid valve (x2)<br>• Piezoelectric (x1) |
 | Sensor | • pH Sensor (x1)<br>• RTC (x1) |
 | Layar | LCD I2C (x1) |
 | Objek Percobaan | • Benih sawi pakcoy<br>• Benih lele dumbo |
