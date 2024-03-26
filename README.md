@@ -23,7 +23,7 @@ Aquaponic system is a combined farming system between fish with vegetables where
 | Matlab |  Fuzzy Interface System |
 | Programming Language | C/C++ |
 | Arduino Library | • WiFi (default)<br>• Wire (default)<br>• PubSubClient<br>• LiquidCrystal_I2C<br>• CTBot<br>• ArduinoJson<br>• RTClib |
-| Actuators | • Submersible pump aquarium (x1)<br>• Pneumatic solenoid valve (x2)<br>• Piezo buzzer (x1) |
+| Actuators | • Submersible pump aquarium (x1)<br>• Pneumatic solenoid valve (x2)<br>• Piezoelectric (x1) |
 | Sensor | • pH Sensor (x1)<br>• RTC (x1) |
 | Display | LCD I2C (x1) |
 | Experimental Object | • Pakcoy mustard seeds<br>• Dumbo catfish fry |
