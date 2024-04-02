@@ -98,7 +98,7 @@ Aquaponic system is a combined farming system between fish with vegetables where
 
 void setup() {
   Wire.begin();
-  Serial.begin(9600);
+  Serial.begin(115200);
   while (!Serial); // Wait for serial monitor
   Serial.println("\nI2C Scanner");
 }
