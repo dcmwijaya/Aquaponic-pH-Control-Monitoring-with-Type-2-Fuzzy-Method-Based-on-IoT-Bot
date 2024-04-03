@@ -28,11 +28,11 @@ void loop(){
 
 <br>
 
-Putar potensiometer hingga output yang diinginkan itu tercapai.
+Putar potensiometer hingga output yang diinginkan itu tercapai (target: 2,5V). Jika sudah stabil nilainya, maka lepaskan jumper yang ada di area probe pH tersebut. Selanjutnya, lakukan pengujian seperti langkah-langkah berikut :
 
-<br><br>
+<br>
 
-• Keadaan ``` asam (𝑌=4) ``` :
+• Keadaan ``` asam (𝑌=4) ```
 
 <table><tr><td width="810">
    
@@ -48,7 +48,7 @@ Putar potensiometer hingga output yang diinginkan itu tercapai.
    
 </td></tr></table><br>
 
-• Keadaan ``` netral (𝑌=7) ``` :
+• Keadaan ``` netral (𝑌=7) ```
 
 <table><tr><td width="810">
    
@@ -64,7 +64,7 @@ Putar potensiometer hingga output yang diinginkan itu tercapai.
    
 </td></tr></table><br>
 
-• Keadaan ``` basa (𝑌=10) ``` :
+• Keadaan ``` basa (𝑌=10) ```
 
 <table><tr><td width="810">
    
