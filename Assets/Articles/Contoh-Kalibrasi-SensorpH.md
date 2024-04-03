@@ -34,7 +34,7 @@ Putar potensiometer hingga output yang diinginkan itu tercapai (target: 2,5V). J
 
 <br>
 
-• Keadaan ``` asam (𝑌=4) ```
+• ``` Keadaan asam (𝑌=4) ```
 
 <table><tr><td width="810">
    
@@ -50,7 +50,7 @@ Putar potensiometer hingga output yang diinginkan itu tercapai (target: 2,5V). J
    
 </td></tr></table><br>
 
-• Keadaan ``` netral (𝑌=7) ```
+• ``` Keadaan netral (𝑌=7) ```
 
 <table><tr><td width="810">
    
@@ -66,7 +66,7 @@ Putar potensiometer hingga output yang diinginkan itu tercapai (target: 2,5V). J
    
 </td></tr></table><br>
 
-• Keadaan ``` basa (𝑌=10) ```
+• ``` Keadaan basa (𝑌=10) ```
 
 <table><tr><td width="810">
    
