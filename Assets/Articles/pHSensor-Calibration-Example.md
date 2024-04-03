@@ -34,7 +34,7 @@ Turn the potentiometer until the desired output is reached (target: 2.5V). If th
 
 <br>
 
-• Acidic state (𝑌=4) :
+• ``` Acidic state (𝑌=4) ```
 
 <table><tr><td width="810">
    
@@ -50,7 +50,7 @@ Turn the potentiometer until the desired output is reached (target: 2.5V). If th
    
 </td></tr></table><br>
 
-• Neutral state (𝑌=7) :
+• ``` Neutral state (𝑌=7) ```
 
 <table><tr><td width="810">
    
@@ -66,7 +66,7 @@ Turn the potentiometer until the desired output is reached (target: 2.5V). If th
    
 </td></tr></table><br>
 
-• Alkaline state (𝑌=10) :
+• ``` Alkaline state (𝑌=10) ```
 
 <table><tr><td width="810">
    
@@ -90,18 +90,18 @@ You can see the calculation example as follows :
 
 ## Step Two: Find the value of 𝑎 and 𝑏
 
-The values that have been obtained from the previous stage just need to be entered into the equations 𝑎 and 𝑏. The calculation example is like this :
+The values that have been obtained from the previous stage just need to be entered into the equations ``` 𝑎 ``` and ``` 𝑏 ```. The calculation example is like this :
 
 <img height="450" width="500" src="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/assets/54527592/d2545e57-3307-439e-a362-93e71ffb4097"><br><br>
 
-The value of 𝑎 is 21.84 and the value of 𝑏 is -5.27.
+The ``` value of 𝑎 ``` is ``` 21.84 ``` and the ``` value of 𝑏 ``` is ``` -5.27 ```.
 
 <br><br>
 
 ## Step Three: Linear Regression Equation
 
-The values of 𝑎 and 𝑏 can just be entered into the linear regression equation so that it becomes :
+The ``` value of 𝑎 ``` and ``` value of 𝑏 ``` can just be entered into the ``` linear regression ``` equation so that it becomes :
 
 <img height="30" width="180" src="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/assets/54527592/b1ebdeee-7ca4-4dfc-8edd-258a9266d31e"><br><br>
 
-The above equation can be directly used for PH4502C sensor calibration purposes.
+The above equation can be directly used for ``` PH4502C sensor ``` calibration purposes.
