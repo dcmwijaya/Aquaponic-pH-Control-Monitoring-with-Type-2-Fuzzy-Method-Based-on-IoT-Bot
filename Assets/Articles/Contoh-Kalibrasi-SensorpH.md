@@ -28,7 +28,7 @@ void loop(){
 
 <br>
 
-Putar potensiometer yang ada pada pH module untuk menyesuaikan nilai keluaran.
+Putar potensiometer hingga output yang diinginkan itu tercapai.
 
 <br><br>
 
