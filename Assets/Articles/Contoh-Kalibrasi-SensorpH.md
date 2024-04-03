@@ -20,7 +20,7 @@ void loop(){
    pHValue = analogRead(pHpin); // Read the sensor ADC
    // 4095 => 12 bit ADC resolution
    // Read the sensor voltage
-   voltage = pHValue * (5.0 / 4095.0); 
+   voltage = pHValue * (5 / 4095.0); 
    Serial.println(voltage); // Print voltage value to Serial Monitor
    delay(1000); // Delay for 1 second
 }
