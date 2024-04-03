@@ -4,7 +4,7 @@
 
 <br><br>
 
-Install a jumper cable in the ``` Positive (+) ``` part of the pH probe, then connect it to the ``` Negative (-) ``` part of the pH probe. This is deliberately done by the author to easily obtain a ``` neutral ``` value. Next, upload the program code.
+Install a jumper cable in the ``` Positive (+) ``` part of the pH BNC connector, then connect it to the ``` Negative (-) ``` part of the pH BNC connector. This is deliberately done by the author to easily obtain a ``` neutral ``` value. Next, upload the program code.
 
 <table><tr><td width="810">
    
