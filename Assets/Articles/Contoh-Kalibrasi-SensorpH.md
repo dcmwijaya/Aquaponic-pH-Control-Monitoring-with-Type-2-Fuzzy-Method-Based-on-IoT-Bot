@@ -9,7 +9,7 @@ Sambungkan ``` probe pH (+) ``` ke ``` probe pH (-) ``` untuk mendapatkan nilai 
 ```ino
 #define pHpin 35 // GPIO pin 35 is used for pH sensor
 int pHValue; // This variable is used to hold the ADC reading value from the sensor
-float voltage; // This variable is used to store the voltage value from the sensor
+float voltage; // This variable is used to store the voltage reading value from the sensor
 
 void setup(){
    Serial.begin(115200); // Default baudrate for ESP32
