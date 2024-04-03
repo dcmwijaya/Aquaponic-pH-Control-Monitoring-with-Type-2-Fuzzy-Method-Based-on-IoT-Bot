@@ -38,15 +38,17 @@ Putar potensiometer hingga output yang diinginkan itu tercapai (target: 2,5V). 2
 
 <table><tr><td width="810">
    
-   1. Celupkan sensor ke dalam air yang mengandung larutan asam.
+   1. Sambungkan probe sensor ke konektor BNC.
+   
+   2. Celupkan probe sensor ke dalam air yang mengandung larutan asam.
       
-   2. Tunggu hingga tegangan menjadi stabil.
+   3. Tunggu hingga tegangan menjadi stabil.
       
-   3. Silakan catat nilai tegangan (𝑋) yang dibaca oleh sensor tersebut.
+   4. Silakan catat nilai tegangan (𝑋) yang dibaca oleh sensor tersebut.
       
-   4. Selanjutnya tinggal mencari nilai 𝑌², 𝑋², dan 𝑋𝑌.
+   5. Selanjutnya tinggal mencari nilai 𝑌², 𝑋², dan 𝑋𝑌.
       
-   5. Silakan hitung semua nilai dan taruh hasilnya ke dalam tabel.
+   6. Silakan hitung semua nilai dan taruh hasilnya ke dalam tabel.
    
 </td></tr></table><br>
 
@@ -54,15 +56,17 @@ Putar potensiometer hingga output yang diinginkan itu tercapai (target: 2,5V). 2
 
 <table><tr><td width="810">
    
-   1. Celupkan sensor ke dalam air yang netral.
+   1. Sambungkan probe sensor ke konektor BNC.
+   
+   2. Celupkan probe sensor ke dalam air yang netral.
       
-   2. Tunggu hingga tegangan menjadi stabil.
+   3. Tunggu hingga tegangan menjadi stabil.
       
-   3. Silakan catat nilai tegangan (𝑋) yang dibaca oleh sensor tersebut.
+   4. Silakan catat nilai tegangan (𝑋) yang dibaca oleh sensor tersebut.
       
-   4. Selanjutnya tinggal mencari nilai 𝑌², 𝑋², dan 𝑋𝑌.
+   5. Selanjutnya tinggal mencari nilai 𝑌², 𝑋², dan 𝑋𝑌.
       
-   5. Silakan hitung semua nilai dan taruh hasilnya ke dalam tabel.
+   6. Silakan hitung semua nilai dan taruh hasilnya ke dalam tabel.
    
 </td></tr></table><br>
 
@@ -70,15 +74,17 @@ Putar potensiometer hingga output yang diinginkan itu tercapai (target: 2,5V). 2
 
 <table><tr><td width="810">
    
-   1. Celupkan sensor ke dalam air yang mengandung larutan basa.
+   1. Sambungkan probe sensor ke konektor BNC.
+   
+   2. Celupkan probe sensor ke dalam air yang mengandung larutan basa.
       
-   2. Tunggu hingga tegangan menjadi stabil.
+   3. Tunggu hingga tegangan menjadi stabil.
       
-   3. Silakan catat nilai tegangan (𝑋) yang dibaca oleh sensor tersebut.
+   4. Silakan catat nilai tegangan (𝑋) yang dibaca oleh sensor tersebut.
       
-   4. Selanjutnya tinggal mencari nilai 𝑌², 𝑋², dan 𝑋𝑌.
+   5. Selanjutnya tinggal mencari nilai 𝑌², 𝑋², dan 𝑋𝑌.
       
-   5. Silakan hitung semua nilai dan taruh hasilnya ke dalam tabel.
+   6. Silakan hitung semua nilai dan taruh hasilnya ke dalam tabel.
    
 </td></tr></table><br>
 
