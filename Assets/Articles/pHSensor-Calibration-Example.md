@@ -38,15 +38,17 @@ Turn the potentiometer until the desired output is reached (target: 2.5V). This 
 
 <table><tr><td width="810">
    
-   1. Dip the sensor into water containing an acidic solution.
+   1. Connect the sensor probe to the BNC connector.
+   
+   2. Dip the sensor probe into water containing an acidic solution.
       
-   2. Wait for the voltage to stabilize.
+   3. Wait for the voltage to stabilize.
       
-   3. Please record the voltage value (𝑋) read by the sensor.
+   4. Please record the voltage value (𝑋) read by the sensor.
       
-   4. Next, find the value of 𝑌², 𝑋², and 𝑋𝑌.
+   5. Next, find the value of 𝑌², 𝑋², and 𝑋𝑌.
       
-   5. Calculate all the values and put them in the table.
+   6. Calculate all the values and put them in the table.
    
 </td></tr></table><br>
 
@@ -54,15 +56,17 @@ Turn the potentiometer until the desired output is reached (target: 2.5V). This 
 
 <table><tr><td width="810">
    
-   1. Dip the sensor into neutral water.
+   1. Connect the sensor probe to the BNC connector.
+   
+   2. Dip the sensor probe into neutral water.
       
-   2. Wait for the voltage to stabilize.
+   3. Wait for the voltage to stabilize.
       
-   3. Please record the voltage value (𝑋) read by the sensor.
+   4. Please record the voltage value (𝑋) read by the sensor.
       
-   4. Next, find the value of 𝑌², 𝑋², and 𝑋𝑌.
+   5. Next, find the value of 𝑌², 𝑋², and 𝑋𝑌.
       
-   5. Calculate all the values and put them in the table.
+   6. Calculate all the values and put them in the table.
    
 </td></tr></table><br>
 
@@ -70,15 +74,17 @@ Turn the potentiometer until the desired output is reached (target: 2.5V). This 
 
 <table><tr><td width="810">
    
-   1. Dip the sensor into water containing an alkaline solution.
+   1. Connect the sensor probe to the BNC connector.
+   
+   2. Dip the sensor probe into water containing an alkaline solution.
       
-   2. Wait for the voltage to stabilize.
+   3. Wait for the voltage to stabilize.
       
-   3. Please record the voltage value (𝑋) read by the sensor.
+   4. Please record the voltage value (𝑋) read by the sensor.
       
-   4. Next, find the value of 𝑌², 𝑋², and 𝑋𝑌.
+   5. Next, find the value of 𝑌², 𝑋², and 𝑋𝑌.
       
-   5. Calculate all the values and put them in the table.
+   6. Calculate all the values and put them in the table.
    
 </td></tr></table><br>
 
