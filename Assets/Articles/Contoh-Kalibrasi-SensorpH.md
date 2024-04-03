@@ -2,27 +2,31 @@
 
 <img width="840" src="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/assets/54527592/07ecfdf2-beb2-4dc1-aa96-96e1d7c8f168" alt="ph-probe-settings">
 
-<br>
+<br><br>
 
-Sambungkan probe pH (+) ke probe pH (-) untuk mendapatkan nilai netral (7). Unggah kode program berikut ini di Arduino IDE :
+Sambungkan probe pH (+) ke probe pH (-) untuk mendapatkan nilai netral (7). Selanjutnya, unggah kode program berikut :
 
 ```ino
-int pHValue;
-float voltage;
+#define pHpin 35 // GPIO pin 35 is used for pH sensor
+int pHValue; // This variable is used to hold the ADC reading value from the sensor
+float voltage; // This variable is used to store the voltage value from the sensor
 
 void setup(){
-   Serial.begin(115200);
+   Serial.begin(115200); // Default baudrate for ESP32
+   pinMode(pHpin, INPUT); // Initialize the pH sensor pins as input
 }
 
 void loop(){
-   pHValue = analogRead(35);
+   pHValue = analogRead(pHpin); // Read the ADC sensor
    voltage = pHValue * (3.3 / 4095.0); // 12 bit ADC resolution
-   Serial.println(voltage);
-   delay(1000);
+   Serial.println(voltage); // Print voltage value to Serial Monitor
+   delay(1000); // Delay for 1 second
 }
 ```
 
-Kemudian putar potensiometer yang ada di pH module untuk menyesuaikan nilai output.
+<br>
+
+Putar potensiometer yang ada pada pH module untuk menyesuaikan nilai keluaran.
 
 <br><br>
 
