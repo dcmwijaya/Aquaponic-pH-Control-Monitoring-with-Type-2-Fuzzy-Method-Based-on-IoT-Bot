@@ -30,7 +30,7 @@ void loop(){
 
 </td></tr></table><br>
 
-Turn the potentiometer until the desired output is reached (target: 2.5V). If the value has stabilized, then remove the jumper in the pH probe area. Next, perform a test like the following steps :
+Turn the potentiometer until the desired output is reached (target: 2.5V). This 2.5V is obtained from half 5V. If the value has stabilized, then remove the jumper in the pH BNC connector area. Next, perform a test like the following steps :
 
 <br>
 
