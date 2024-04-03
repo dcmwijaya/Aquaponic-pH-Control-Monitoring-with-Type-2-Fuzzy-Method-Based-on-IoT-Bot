@@ -1,5 +1,39 @@
 ## Step One: Determine the values of 𝑌, 𝑋, 𝑌², 𝑋², dan 𝑋𝑌
 
+<img width="810" src="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/assets/54527592/07ecfdf2-beb2-4dc1-aa96-96e1d7c8f168" alt="ph-probe-settings">
+
+<br><br>
+
+Install the cable in the ``` Positive (+) ``` part of the pH probe, then connect it to the ``` Negative (-) ``` part of the pH probe. This is deliberately done by the author to easily obtain a ``` neutral ``` value. Next, upload the program code.
+
+<table><tr><td width="810">
+   
+```ino
+#define pHpin 35 // GPIO pin 35 is used for pH sensor
+int pHValue; // This variable is used to hold the ADC reading value from the sensor
+float voltage; // This variable is used to store the voltage reading value from the sensor
+
+void setup(){
+   Serial.begin(115200); // Default baudrate for ESP32
+   pinMode(pHpin, INPUT); // Initialize the pH sensor pins as input
+}
+
+void loop(){
+   pHValue = analogRead(pHpin); // Read the sensor ADC
+   // 4095 => 12 bit ADC resolution
+   // Read the sensor voltage
+   voltage = pHValue * (5 / 4095.0); 
+   Serial.println(voltage); // Print voltage value to Serial Monitor
+   delay(1000); // Delay for 1 second
+}
+```
+
+</td></tr></table><br>
+
+Turn the potentiometer until the desired output is reached (target: 2.5V). If the value has stabilized, then remove the jumper in the pH probe area. Next, perform a test like the following steps :
+
+<br>
+
 • Acidic state (𝑌=4) :
 
 <table><tr><td width="810">
