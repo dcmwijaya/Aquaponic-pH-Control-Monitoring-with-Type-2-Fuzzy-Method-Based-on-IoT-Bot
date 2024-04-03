@@ -99,7 +99,7 @@ Sistem akuaponik merupakan sistem budidaya gabungan antara ikan dengan sayuran d
 void setup() {
   Wire.begin();
   Serial.begin(115200);
-  while (!Serial); // Wait for serial monitor
+  while (!Serial); // Tunggu monitor serial
   Serial.println("\nI2C Scanner");
 }
 
@@ -108,7 +108,7 @@ void loop() {
   Serial.println("Scanning...");
 
   for (byte address = 1; address < 127; ++address) {
-    // The i2c_scanner uses the return value of the Wire.endTransmission to see if a device did acknowledge to the address.
+    // i2c_scanner menggunakan nilai balik dari Wire.endTransmission untuk melihat apakah sebuah perangkat memang mengakui alamat tersebut.
     Wire.beginTransmission(address);
     byte error = Wire.endTransmission();
 
@@ -134,7 +134,7 @@ void loop() {
   } else {
     Serial.println("done\n");
   }
-  delay(5000); // Wait 5 seconds for next scan
+  delay(5000); // Tunggu 5 detik untuk pemindaian berikutnya
 }
 ```
 
@@ -192,24 +192,24 @@ Contoh kalibrasi sensor pH: <a href="https://github.com/devancakra/Aquaponic-pH-
 Sensor RTC ini dapat di kalibrasi dengan menggunakan kode program berikut :
 
 ```ino
-#include <RTClib.h> // Calling the RTC library
-RTC_DS3231 rtc; // Constructor
+#include <RTClib.h> // Memanggil pustaka RTC
+RTC_DS3231 rtc; // Konstruktor
 
 void setup(){
-   RTCinit(); // Calling the RTCinit method
+   RTCinit(); // Memanggil metode RTCinit
 }
 
 void loop(){}
 
 void RTCinit(){
-   // Starting up the RTC
+   // Memulai RTC
    rtc.begin();
 
-   // DateTime Setting
+   // Pengaturan Tanggal dan Waktu
    rtc.adjust(DateTime(F(__DATE__), F(__TIME__)));
 
-   // Set Time Now
-   rtc.adjust(DateTime(YYYY,MM,DD,HH,MM,SS)); // If you have calibrated please close with a comment
+   // Atur Waktu Sekarang
+   rtc.adjust(DateTime(YYYY,MM,DD,HH,MM,SS)); // Jika anda telah mengkalibrasi, silakan tutup dengan komentar
 }
 ```
 
