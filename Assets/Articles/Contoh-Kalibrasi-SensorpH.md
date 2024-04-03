@@ -9,22 +9,22 @@ Pasang kabel jumper di bagian ``` Positif (+) ``` probe pH, lalu hubungkan ke ba
 <table><tr><td width="810">
    
 ```ino
-#define pHpin 35 // GPIO pin 35 is used for pH sensor
-int pHValue; // This variable is used to hold the ADC reading value from the sensor
-float voltage; // This variable is used to store the voltage reading value from the sensor
+#define pHpin 35 // Pin GPIO 35 digunakan untuk sensor pH
+int pHValue; // Variabel ini digunakan untuk menampung nilai pembacaan ADC dari sensor
+float voltage; // Variabel ini digunakan untuk menyimpan nilai pembacaan tegangan dari sensor
 
 void setup(){
-   Serial.begin(115200); // Default baudrate for ESP32
-   pinMode(pHpin, INPUT); // Initialize the pH sensor pins as input
+   Serial.begin(115200); // Baudrate default untuk ESP32
+   pinMode(pHpin, INPUT); // Inisialisasi pin sensor pH sebagai input
 }
 
 void loop(){
-   pHValue = analogRead(pHpin); // Read the sensor ADC
-   // 4095 => 12 bit ADC resolution
-   // Read the sensor voltage
+   pHValue = analogRead(pHpin); // Baca ADC sensor
+   // 4095 => resolusi ADC 12 bit
+   // Baca tegangan sensor
    voltage = pHValue * (5 / 4095.0); 
-   Serial.println(voltage); // Print voltage value to Serial Monitor
-   delay(1000); // Delay for 1 second
+   Serial.println(voltage); // Cetak nilai tegangan ke Serial Monitor
+   delay(1000); // Tunda selama 1 detik
 }
 ```
 
@@ -100,7 +100,7 @@ Telah didapatkan ``` nilai 𝑎 ``` sebesar ``` 21,84 ``` dan ``` nilai 𝑏 ```
 
 ## Tahap Ketiga: Persamaan Regresi Linear
 
-``` Nilai 𝑎 ``` dan ```nilai 𝑏 ``` tinggal dimasukkan ke dalam persamaan ``` regresi linear ``` sehingga menjadi :
+``` Nilai 𝑎 ``` dan ``` nilai 𝑏 ``` tinggal dimasukkan ke dalam persamaan ``` regresi linear ``` sehingga menjadi :
 
 <img height="30" width="180" src="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/assets/54527592/b1ebdeee-7ca4-4dfc-8edd-258a9266d31e"><br><br>
 
