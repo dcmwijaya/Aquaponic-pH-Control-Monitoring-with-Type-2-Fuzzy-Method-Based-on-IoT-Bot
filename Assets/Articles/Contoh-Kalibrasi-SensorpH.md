@@ -4,7 +4,7 @@
 
 <br><br>
 
-Pasang kabel di bagian ``` Positif (+) ``` probe pH, lalu hubungkan ke bagian ``` Negatif (-) ``` probe pH. Hal ini sengaja dilakukan oleh penulis agar mudah memperoleh nilai ``` netral ```. Selanjutnya, unggah kode program.
+Pasang kabel jumper di bagian ``` Positif (+) ``` probe pH, lalu hubungkan ke bagian ``` Negatif (-) ``` probe pH. Hal ini sengaja dilakukan oleh penulis agar mudah memperoleh nilai ``` netral ```. Selanjutnya, unggah kode program.
 
 <table><tr><td width="810">
    
