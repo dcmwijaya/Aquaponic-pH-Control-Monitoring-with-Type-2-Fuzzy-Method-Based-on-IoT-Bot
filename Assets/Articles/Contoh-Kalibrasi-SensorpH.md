@@ -4,7 +4,7 @@
 
 <br><br>
 
-Sambungkan ``` probe pH (+) ``` ke ``` probe pH (-) ``` agar pH menjadi ``` netral (nilai pH: 7) ```. Selanjutnya, unggah kode program.
+Pasang kabel di bagian ``` (+) probe pH ``` lalu hubungkan ke bagian ``` (-) probe pH ``` agar pH module membaca ``` netral ```. Selanjutnya, unggah kode program.
 
 ```ino
 #define pHpin 35 // GPIO pin 35 is used for pH sensor
