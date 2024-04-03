@@ -4,8 +4,10 @@
 
 <br><br>
 
-Pasang kabel di bagian ``` (+) probe pH ```, lalu hubungkan ke bagian ``` (-) probe pH ```. Hal ini sengaja dilakukan oleh penulis agar mudah memperoleh nilai ``` netral ```. Selanjutnya, unggah kode program.
+Pasang kabel di bagian ``` Positif (+) ``` probe pH, lalu hubungkan ke bagian ``` Negatif (-) ``` probe pH. Hal ini sengaja dilakukan oleh penulis agar mudah memperoleh nilai ``` netral ```. Selanjutnya, unggah kode program.
 
+<table><tr><td width="810">
+   
 ```ino
 #define pHpin 35 // GPIO pin 35 is used for pH sensor
 int pHValue; // This variable is used to hold the ADC reading value from the sensor
@@ -26,7 +28,7 @@ void loop(){
 }
 ```
 
-<br>
+</td></tr></table><br>
 
 Putar potensiometer hingga output yang diinginkan itu tercapai (target: 2,5V). Jika sudah stabil nilainya, maka lepaskan jumper yang ada di area probe pH tersebut. Selanjutnya, lakukan pengujian seperti langkah-langkah berikut :
 
