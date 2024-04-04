@@ -395,7 +395,7 @@ void RTCinit(){
 
 3. Pilih ``` Add Folder... ``` -> cari folder ``` FIS-IT2FLS-Toolbox-MATLAB ``` -> ``` Select Folder ```.<br><br>
 
-4. Klik ``` Move Down ``` -> pilih ``` Save ``` kemudian ``` Close ```.<br><br>
+4. Klik ``` Save ``` dan kemudian klik ``` Close ```.<br><br>
 
 5. Buka ``` IT2FL Toolbox ``` menggunakan perintah :
    
