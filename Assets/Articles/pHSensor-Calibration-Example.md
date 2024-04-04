@@ -6,7 +6,7 @@
 
 Install a jumper cable in the ``` Positive (+) ``` part of the pH BNC connector, then connect it to the ``` Negative (-) ``` part of the pH BNC connector. This is deliberately done by the author to easily obtain a ``` neutral ``` value. Next, upload the program code.
 
-<table><tr><td width="810">
+<table><tr><td width="800">
    
 ```ino
 #define pHpin 35 // GPIO pin 35 is used for pH sensor
