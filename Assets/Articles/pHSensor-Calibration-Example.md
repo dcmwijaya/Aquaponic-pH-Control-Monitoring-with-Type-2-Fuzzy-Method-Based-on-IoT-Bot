@@ -104,7 +104,7 @@ The ``` value of 𝑎 ``` is ``` 21.84 ``` and the ``` value of 𝑏 ``` is ``` 
 
 <br><br>
 
-## Step Three: Linear Regression Equation
+## Step Three: Input 𝑎 and 𝑏 Values in the Linear Regression Equation
 
 The ``` value of 𝑎 ``` and ``` value of 𝑏 ``` can just be entered into the ``` linear regression ``` equation so that it becomes :
 
