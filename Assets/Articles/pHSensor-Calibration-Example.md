@@ -4,7 +4,7 @@
 
 <br><br>
 
-Install a jumper cable in the ``` Positive (+) ``` part of the pH BNC connector, then connect it to the ``` Negative (-) ``` part of the pH BNC connector. This is deliberately done by the author to easily obtain a ``` neutral ``` value. Next, upload the program code.
+Install a jumper cable in the ``` Positive (+) ``` part of the pH BNC connector, then connect it to the ``` Negative (-) ``` part of the pH BNC connector. This was done deliberately by the author to make calibration easier. Next, upload the program code.
 
 <table><tr><td width="810">
    
@@ -30,7 +30,7 @@ void loop(){
 
 </td></tr></table><br>
 
-Turn the potentiometer until the desired output is reached (target: 2.5V). This 2.5V is obtained from half 5V. If the value has stabilized, then remove the jumper in the pH BNC connector area. Next, perform a test like the following steps :
+Turn the potentiometer until the desired output is reached (target: 2.5V). This 2.5V is obtained from half of 5V which is assumed to be the value of the neutral voltage determination. If the value has stabilized, then remove the jumper in the pH BNC connector area. Next, perform a test like the following steps :
 
 <br>
 
