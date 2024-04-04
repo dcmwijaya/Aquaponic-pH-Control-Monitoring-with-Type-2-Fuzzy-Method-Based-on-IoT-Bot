@@ -93,6 +93,8 @@ Aquaponic system is a combined farming system between fish with vegetables where
 <br><br>
 
 ## Scanning the I2C Address on the LCD
+<table><tr><td width="840">
+   
 ```ino
 #include <Wire.h>
 
@@ -108,7 +110,8 @@ void loop() {
   Serial.println("Scanning...");
 
   for (byte address = 1; address < 127; ++address) {
-    // The i2c_scanner uses the return value of the Wire.endTransmission to see if a device did acknowledge to the address.
+    // The i2c_scanner uses the return value of the Wire.endTransmission
+    // to see if a device did acknowledge to the address
     Wire.beginTransmission(address);
     byte error = Wire.endTransmission();
 
@@ -138,7 +141,7 @@ void loop() {
 }
 ```
 
-<br><br>
+</td></tr></table><br><br>
 
 ##  pH Sensor Calibration
 The pH sensor can be calibrated using the results of a linear regression calculation. You can see the linear regression equation as follows.
@@ -190,6 +193,8 @@ Example of pH sensor calibration: <a href="https://github.com/devancakra/Aquapon
 
 ## RTC Sensor Calibration
 This RTC sensor can be calibrated using the following program code :
+   
+<table><tr><td width="840">
 
 ```ino
 #include <RTClib.h> // Calling the RTC library
@@ -209,11 +214,12 @@ void RTCinit(){
    rtc.adjust(DateTime(F(__DATE__), F(__TIME__)));
 
    // Set Time Now
-   rtc.adjust(DateTime(YYYY,MM,DD,HH,MM,SS)); // If you have calibrated please close with a comment
+   // If calibrated, please close with a comment
+   rtc.adjust(DateTime(YYYY,MM,DD,HH,MM,SS));
 }
 ```
 
-<br><br>
+</td></tr></table><br><br>
 
 ## Arduino IDE Setup
 1. Open the ``` Arduino IDE ``` first, then open the project by clicking ``` File ``` -> ``` Open ``` : 
@@ -367,7 +373,44 @@ void RTCinit(){
    #define BOTtoken "2006772150:AAE6Fdjk3KbiySkzV6CLbd6ClJDzgTfJ5y0"
    ```
    
-   </td></tr></table><br><br>
+   </td></tr></table>
+
+<br><br>
+
+## Matlab Setup
+1. Open the ``` Matlab ```.<br><br>
+
+2. Open the ``` Set Path ``` dialog box using the command :
+   
+   <table><tr><td width="810">
+      
+   ```
+   pathtool
+   ```
+
+   </td></tr></table><br>
+   
+   <img width="810" src="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/assets/54527592/d9cbd9a7-a6ee-4af9-8e24-39ad8566381b" alt="set-path-matlab"><br><br>
+
+3. Select ``` Add Folder... ``` -> search the ``` FIS-IT2FLS-Toolbox-MATLAB ``` folder -> ``` Select Folder ```.<br><br>
+
+4. Click ``` Move Down ``` -> select ``` Save ``` then ``` Close ```.<br><br>
+
+5. Open the ``` IT2FL Toolbox ``` using the command :
+   
+   <table><tr><td width="810">
+
+   ```
+   fuzzyt2
+   ```
+
+   </td></tr></table><br>
+   
+   <img width="810" src="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/assets/54527592/64a4ef45-d707-45e2-bcce-9302fbd2092b" alt="set-path-matlab"><br><br>
+
+6. The rest you can customize according to your needs.
+
+<br><br>
 
 ## Get Started
 1. Download and extract this repository.<br><br>
