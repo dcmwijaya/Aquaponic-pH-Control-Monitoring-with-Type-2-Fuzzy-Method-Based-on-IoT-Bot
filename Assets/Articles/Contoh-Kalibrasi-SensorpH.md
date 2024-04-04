@@ -10,8 +10,8 @@ Pasang kabel jumper di bagian ``` Positif (+) ``` konektor BNC pH, lalu hubungka
    
 ```ino
 #define pHpin 35 // Pin GPIO 35 digunakan untuk sensor pH
-int pHValue; // Variabel ini digunakan untuk menampung nilai pembacaan ADC dari sensor
-float voltage; // Variabel ini digunakan untuk menyimpan nilai pembacaan tegangan dari sensor
+int pHValue; // Variabel ini digunakan untuk menampung nilai pembacaan ADC
+float voltage; // Variabel ini digunakan untuk menyimpan nilai pembacaan tegangan
 
 void setup(){
    Serial.begin(115200); // Baudrate default untuk ESP32
