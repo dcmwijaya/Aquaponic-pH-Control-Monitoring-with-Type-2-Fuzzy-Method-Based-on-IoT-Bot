@@ -141,9 +141,7 @@ void loop() {
 }
 ```
 
-</td></tr></table><br>
-
-<br><br>
+</td></tr></table><br><br>
 
 ## Kalibrasi Sensor pH
 Sensor pH dapat di kalibrasi dengan menggunakan hasil perhitungan regresi linear. Persamaan regresi linear dapat anda lihat sebagai berikut.
