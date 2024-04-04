@@ -111,7 +111,7 @@ void loop() {
 
   for (byte address = 1; address < 127; ++address) {
     // The i2c_scanner uses the return value of the Wire.endTransmission
-    // to see if a device did acknowledge to the address
+    // To see if a device did acknowledge to the address
     Wire.beginTransmission(address);
     byte error = Wire.endTransmission();
 
