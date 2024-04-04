@@ -30,7 +30,7 @@ void loop(){
 
 </td></tr></table><br>
 
-Putar potensiometer hingga output yang diinginkan itu tercapai (target: 2,5V). 2,5V ini diperoleh dari setengah 5V. Jika sudah stabil nilainya, maka lepaskan jumper yang ada di area konektor BNC pH tersebut. Selanjutnya, lakukan pengujian seperti langkah-langkah berikut :
+Putar potensiometer hingga output yang diinginkan itu tercapai (target: 2,5V). 2,5V ini diperoleh dari setengah 5V yang diasumsikan sebagai tegangan netral. Jika sudah stabil nilainya, maka lepaskan jumper yang ada di area konektor BNC pH tersebut. Selanjutnya, lakukan pengujian seperti langkah-langkah berikut :
 
 <br>
 
