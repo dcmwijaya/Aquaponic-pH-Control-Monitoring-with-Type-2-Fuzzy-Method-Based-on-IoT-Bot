@@ -389,7 +389,7 @@ void RTCinit(){
    pathtool
    ```
 
-   </td></tr></table><br>
+   </td></tr></table>
    
    <img width="810" src="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/assets/54527592/d9cbd9a7-a6ee-4af9-8e24-39ad8566381b" alt="set-path-matlab"><br><br>
 
@@ -405,7 +405,7 @@ void RTCinit(){
    fuzzyt2
    ```
 
-   </td></tr></table><br>
+   </td></tr></table>
    
    <img width="810" src="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/assets/54527592/64a4ef45-d707-45e2-bcce-9302fbd2092b" alt="set-path-matlab"><br><br>
 
