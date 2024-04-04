@@ -6,12 +6,12 @@
 
 Install a jumper cable in the ``` Positive (+) ``` part of the pH BNC connector, then connect it to the ``` Negative (-) ``` part of the pH BNC connector. This is deliberately done by the author to easily obtain a ``` neutral ``` value. Next, upload the program code.
 
-<table><tr><td width="800">
+<table><tr><td width="810">
    
 ```ino
 #define pHpin 35 // GPIO pin 35 is used for pH sensor
-int pHValue; // This variable is used to hold the ADC reading value from the sensor
-float voltage; // This variable is used to store the voltage reading value from the sensor
+int pHValue; // This variable is used to hold the ADC reading value
+float voltage; // This variable is used to store the voltage reading value
 
 void setup(){
    Serial.begin(115200); // Default baudrate for ESP32
