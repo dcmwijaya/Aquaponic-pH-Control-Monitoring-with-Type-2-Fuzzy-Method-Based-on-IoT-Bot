@@ -104,7 +104,7 @@ Telah didapatkan ``` nilai 𝑎 ``` sebesar ``` 21,84 ``` dan ``` nilai 𝑏 ```
 
 <br><br>
 
-## Tahap Ketiga: Persamaan Regresi Linear
+## Tahap Ketiga: Memasukkan nilai a dan b dalam Persamaan Regresi Linier
 
 ``` Nilai 𝑎 ``` dan ``` nilai 𝑏 ``` tinggal dimasukkan ke dalam persamaan ``` regresi linear ``` sehingga menjadi :
 
