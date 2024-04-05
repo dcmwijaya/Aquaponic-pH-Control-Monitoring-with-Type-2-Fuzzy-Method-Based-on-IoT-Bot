@@ -12,7 +12,6 @@ Aquaponic system is a combined farming system between fish with vegetables where
 ## Project Requirements
 | Part | Description |
 | --- | --- |
-| Operating System | Windows 10 |
 | Development Board | DOIT ESP32 DEVKIT V1 |
 | Supporting Board | Arduino Uno R3 |
 | Code Editor | Arduino IDE |
