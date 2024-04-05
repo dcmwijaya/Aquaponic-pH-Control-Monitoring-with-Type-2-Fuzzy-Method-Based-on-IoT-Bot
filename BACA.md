@@ -12,7 +12,6 @@ Sistem akuaponik merupakan sistem budidaya gabungan antara ikan dengan sayuran d
 ## Kebutuhan Proyek
 | Bagian | Deskripsi |
 | --- | --- |
-| Sistem Operasi | Windows 10 |
 | Papan Pengembangan | DOIT ESP32 DEVKIT V1 |
 | Papan Pendukung | Arduino Uno R3 |
 | Editor Kode | Arduino IDE |
