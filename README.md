@@ -16,7 +16,7 @@ Aquaponic system is a combined farming system between fish with vegetables where
 | Supporting Board | Arduino Uno R3 |
 | Code Editor | Arduino IDE |
 | Application Support | • Telegram Bot<br>• Matlab R2020 |
-| Driver | USB-Serial CP210X |
+| Driver | CP210X USB Driver |
 | IoT Platform | io-t.net |
 | Communications Protocol | • Inter Integrated Circuit (I2C)<br>• Message Queuing Telemetry Transport (MQTT)<br>• MTProto |
 | IoT Architecture | 4 Layer |
@@ -42,12 +42,12 @@ Aquaponic system is a combined farming system between fish with vegetables where
 
    </td></tr></table><br>
 
-2. USB-Serial CP210X
+2. CP210X USB Driver
 
    <table><tr><td width="810">
 
    ```
-   https://bit.ly/CP210X_Driver
+   https://bit.ly/CP210X_USB_Driver
    ```
 
    </td></tr></table><br>
@@ -57,7 +57,7 @@ Aquaponic system is a combined farming system between fish with vegetables where
    <table><tr><td width="810">
 
    ```
-   https://bit.ly/Matlab2020Installer
+   https://bit.ly/Matlab_R2020a_Installer
    ```
 
    </td></tr></table>
