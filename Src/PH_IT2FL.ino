@@ -206,7 +206,7 @@ void DTnow(){
 //============================================================== Method Read pH ============================================================
 void ReadPH(){
   analog = analogRead(PoPin); //Membaca analog pin pH
-  xn = analog * (5.0 / 1023.0) / 10; //Nilai tegangan murni
+  xn = analog * (5.0 / 4095.0) / 10; //Nilai tegangan murni
   xcal = 3.7; //Nilai kalibrasi tegangan
   x = abs(xn - xcal); //Tegangan pH
   a = 21.84; b = -5.27; //Linear Regression Value
