@@ -24,7 +24,7 @@ char dataHari[7][12] = {"Minggu", "Senin", "Selasa", "Rabu", "Kamis", "Jumat", "
 char pHresultPUB[4]; 
 
 //Tipe data Float
-float pHResult, analog=0, x, xn, xcal, a, b, y;
+float pHResult, analog=0, x, a, b, y;
 float pHair_Upper, pHair_Lower;
 float AKU, AKL, ALU, ALL, NU, NL, BLU, BLL, BKU, BKL;
 float SigyiMiuMFUpper, SigyiMiuMFLower, SigMiuMFUpper, SigMiuMFLower, yl, yr;
@@ -206,9 +206,7 @@ void DTnow(){
 //============================================================== Method Read pH ============================================================
 void ReadPH(){
   analog = analogRead(PoPin); //Membaca analog pin pH
-  xn = analog * (5.0 / 4095.0) / 10; //Nilai tegangan murni
-  xcal = 3.7; //Nilai kalibrasi tegangan
-  x = abs(xn - xcal); //Tegangan pH
+  x = analog * (5.0 / 4095.0); //Nilai tegangan murni
   a = 21.84; b = -5.27; //Linear Regression Value
   y = a + b * x; //pH Value
 
