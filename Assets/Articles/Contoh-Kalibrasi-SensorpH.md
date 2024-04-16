@@ -20,9 +20,9 @@ void setup(){
 
 void loop(){
    pHValue = analogRead(pHpin); // Baca ADC sensor
-   // 4095 => resolusi ADC 12 bit
-   // Baca tegangan sensor
-   voltage = pHValue * (5 / 4095.0); 
+   // ADC ESP32 => 4095 => 12 bit
+   // Tegangan referensi => 5V
+   voltage = pHValue * (5.0 / 4095.0); // Baca tegangan sensor murni
    Serial.println(voltage); // Cetak nilai tegangan ke Serial Monitor
    delay(1000); // Tunda selama 1 detik
 }
