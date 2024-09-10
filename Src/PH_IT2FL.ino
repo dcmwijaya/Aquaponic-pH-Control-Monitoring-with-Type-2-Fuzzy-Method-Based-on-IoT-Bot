@@ -31,6 +31,7 @@ float SigyiMiuMFUpper, SigyiMiuMFLower, SigMiuMFUpper, SigMiuMFLower, yl, yr;
 float MiuUMF[5], MiuLMF[5];
 
 //Tipe data Int
+int count=0;
 int tanggal, bulan, tahun; 
 int i, yi, ycos, yout, Tarray1, Tarray2; 
 int SPK[5]; 
@@ -259,16 +260,26 @@ void LCDpHDownOFF(){
 
 //========================================================= Method Output Relay pH =======================================================
 void pH_up_onlm(){ //Method pH Up On 25 detik : On/Off Controller
-  do{
-    digitalWrite(SValve1, relayON); delay(25000);
-    digitalWrite(SValve1, relayOFF); digitalWrite(SValve2, relayOFF);
-  } while(1);
+  while(count <= 25){
+    digitalWrite(SValve1, relayON); delay(500);
+    if(count > 25){
+      digitalWrite(SValve1, relayOFF); 
+      digitalWrite(SValve2, relayOFF);
+      break;
+    }
+    count++;
+  }
 }
 void pH_up_onsd(){ //Method pH Up On 10 detik : On/Off Controller
-  do{
-    digitalWrite(SValve1, relayON); delay(10000);
-    digitalWrite(SValve1, relayOFF); digitalWrite(SValve2, relayOFF);
-  } while(1);
+  while(count <= 10){
+    digitalWrite(SValve1, relayON); delay(500);
+    if(count > 10){
+      digitalWrite(SValve1, relayOFF); 
+      digitalWrite(SValve2, relayOFF);
+      break;
+    }
+    count++;
+  }
 }
 void pH_up_on(){ //Method pH Up on : On/Off Controller
   digitalWrite(SValve1, relayON);
@@ -289,16 +300,26 @@ void pH_down_off(){ //Method pH Down off : On/Off Controller
   digitalWrite(SValve2, relayOFF);
 }
 void pH_down_onsd(){ //Method pH Down On 10 detik : On/Off Controller
-  do{
-    digitalWrite(SValve2, relayON); delay(10000);
-    digitalWrite(SValve1, relayOFF); digitalWrite(SValve2, relayOFF);
-  } while(1);
+  while(count <= 10){
+    digitalWrite(SValve2, relayON); delay(500);
+    if(count > 10){
+      digitalWrite(SValve1, relayOFF); 
+      digitalWrite(SValve2, relayOFF);
+      break;
+    }
+    count++;
+  }
 }
 void pH_down_onlm(){ //Method pH Down On 25 detik : On/Off Controller
-  do{  
-    digitalWrite(SValve2, relayON); delay(25000);
-    digitalWrite(SValve1, relayOFF); digitalWrite(SValve2, relayOFF);
-  } while(1);
+  while(count <= 25){
+    digitalWrite(SValve2, relayON); delay(500);
+    if(count > 25){
+      digitalWrite(SValve1, relayOFF); 
+      digitalWrite(SValve2, relayOFF);
+      break;
+    }
+    count++;
+  }
 }
 
 
