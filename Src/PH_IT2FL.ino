@@ -493,7 +493,6 @@ void botTelegram(){
       else if(msg.callbackQueryData.equals(INrespNo)){ //Respon Opsi Tidak -> main_menu
         sendMsg = "❌ Perintah telah dibatalkan!!!";
         myBot.sendMessage(msg.sender.id, sendMsg);
-        delay(2000);
         goto main_menu;
       }
       else if(msg.callbackQueryData.equals(INrespYes1)){ //Respon Opsi Sub Menu All-pH ON
@@ -513,7 +512,6 @@ void botTelegram(){
       else if(msg.callbackQueryData.equals(INrespNo1)){ //Respon Opsi Tidak -> sub_menu2
         sendMsg = "❌ Perintah telah dibatalkan!!!";
         myBot.sendMessage(msg.sender.id, sendMsg);
-        delay(2000);
         goto sub_menu2;
       }
       else if(msg.callbackQueryData.equals(INrespYes3)){ //Respon Opsi Sub Menu pH-Up ON
@@ -533,7 +531,6 @@ void botTelegram(){
       else if(msg.callbackQueryData.equals(INrespNo2)){ //Respon Opsi Tidak -> sub_menu3
         sendMsg = "❌ Perintah telah dibatalkan!!!";
         myBot.sendMessage(msg.sender.id, sendMsg);
-        delay(2000);
         goto sub_menu3;
       }
       else if(msg.callbackQueryData.equals(INrespYes5)){ //Respon Opsi Sub Menu pH-Down ON
@@ -553,7 +550,6 @@ void botTelegram(){
       else if(msg.callbackQueryData.equals(INrespNo3)){ //Respon Opsi Tidak -> sub_menu4
         sendMsg = "❌ Perintah telah dibatalkan!!!";
         myBot.sendMessage(msg.sender.id, sendMsg);
-        delay(2000);
         goto sub_menu4;
       }
     }
@@ -561,7 +557,7 @@ void botTelegram(){
       sendMsg = "🙋🏻‍♂️ Hai @" + msg.sender.username + " 👋👋\n\n❌ Gagal mengakses, coba lagi";
       myBot.sendMessage(msg.sender.id, sendMsg);
     } 
-  } delay(500); IT2FL_pH(); //Memanggil Method IT2FL_pH
+  } IT2FL_pH(); //Memanggil Method IT2FL_pH
 }
 
 
