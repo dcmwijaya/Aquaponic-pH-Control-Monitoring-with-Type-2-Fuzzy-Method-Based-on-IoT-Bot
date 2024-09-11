@@ -218,7 +218,6 @@ void ReadPH(){
   //publish topic IoT
   dtostrf(y, 4, 2, pHresultPUB); //Float -> String
   client.publish(Topic, pHresultPUB); //publish nilai pH
-  delay(5000); //Tunda 5 detik
 }
 
 
@@ -578,7 +577,6 @@ void IT2FL_pH(){
   Serial.println("\nproses reduksi tipe & defuzzifikasi :"); 
   redukdefuzz_it2fl(); //Memanggil Method Reduksi Tipe dan Defuzzifikasi
   Serial.println("\n==================================================================================\n");
-  delay(5000);
   reset_redukdeffuzz();
 }
 
