@@ -1,6 +1,6 @@
 ## Step One: Determine the values of 𝑌, 𝑋, 𝑌², 𝑋², dan 𝑋𝑌
 
-<img width="810" src="../Images/pH Sensor Calibration/4.png" alt="ph-probe-settings">
+<img width="810" src="../Images/Calibration/1.png" alt="ph-probe-settings">
 
 <br><br>
 
@@ -90,7 +90,7 @@ Turn the potentiometer until the desired output is reached (target: 2.5V). This 
 
 You can see the calculation example as follows :
 
-<img height="220" width="500" src="../Images/pH Sensor Calibration/5.png">
+<img height="220" width="500" src="../Images/Calibration/2.png">
 
 <br><br>
 
@@ -98,7 +98,7 @@ You can see the calculation example as follows :
 
 The values that have been obtained from the previous stage just need to be entered into the equations ``` 𝑎 ``` and ``` 𝑏 ```. The calculation example is like this :
 
-<img height="450" width="500" src="../Images/pH Sensor Calibration/6.png"><br><br>
+<img height="450" width="500" src="../Images/Calibration/3.png"><br><br>
 
 The ``` value of 𝑎 ``` is ``` 21.84 ``` and the ``` value of 𝑏 ``` is ``` -5.27 ```.
 
@@ -108,6 +108,6 @@ The ``` value of 𝑎 ``` is ``` 21.84 ``` and the ``` value of 𝑏 ``` is ``` 
 
 The ``` value of 𝑎 ``` and ``` value of 𝑏 ``` can just be entered into the ``` linear regression ``` equation so that it becomes :
 
-<img height="30" width="180" src="../Images/pH Sensor Calibration/7.png"><br><br>
+<img height="30" width="180" src="../Images/Calibration/4.png"><br><br>
 
 The above equation can be directly used for ``` PH4502C sensor ``` calibration purposes.

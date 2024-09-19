@@ -1,6 +1,6 @@
 ## Tahap Pertama: Menentukan nilai 𝑌, 𝑋, 𝑌², 𝑋², dan 𝑋𝑌
 
-<img width="810" src="../Images/pH Sensor Calibration/4.png" alt="ph-probe-settings">
+<img width="810" src="../Images/Calibration/1.png" alt="ph-probe-settings">
 
 <br><br>
 
@@ -90,7 +90,7 @@ Putar potensiometer hingga output yang diinginkan itu tercapai (target: 2,5V). 2
 
 Contoh perhitungannya dapat anda lihat sebagai berikut :
 
-<img height="220" width="500" src="../Images/pH Sensor Calibration/5.png">
+<img height="220" width="500" src="../Images/Calibration/2.png">
 
 <br><br>
 
@@ -98,7 +98,7 @@ Contoh perhitungannya dapat anda lihat sebagai berikut :
 
 Nilai yang sudah didapat dari tahap sebelumnya tinggal dimasukkan ke dalam persamaan ``` 𝑎 ``` dan ``` 𝑏 ```. Contoh perhitungannya seperti ini :
 
-<img height="450" width="500" src="../Images/pH Sensor Calibration/6.png"><br><br>
+<img height="450" width="500" src="../Images/Calibration/3.png"><br><br>
 
 Telah didapatkan ``` nilai 𝑎 ``` sebesar ``` 21,84 ``` dan ``` nilai 𝑏 ``` sebesar ``` -5,27 ```.
 
@@ -108,6 +108,6 @@ Telah didapatkan ``` nilai 𝑎 ``` sebesar ``` 21,84 ``` dan ``` nilai 𝑏 ```
 
 ``` Nilai 𝑎 ``` dan ``` nilai 𝑏 ``` tinggal dimasukkan ke dalam persamaan ``` regresi linear ``` sehingga menjadi :
 
-<img height="30" width="180" src="../Images/pH Sensor Calibration/7.png"><br><br>
+<img height="30" width="180" src="../Images/Calibration/4.png"><br><br>
 
 Persamaan di atas bisa langsung digunakan untuk keperluan kalibrasi ``` sensor PH4502C ```.

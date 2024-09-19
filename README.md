@@ -149,7 +149,7 @@ The pH sensor can be calibrated using the results of a linear regression calcula
 <table>
    <tr>
       <td width="40">I</td>
-      <td width="800"><img height="30" width="120" src="Assets/Images/pH Sensor Calibration/1.png" alt="Persamaan-I"></td>
+      <td width="800"><img height="30" width="120" src="Assets/Images/Equations/1.png" alt="Persamaan-I"></td>
    </tr>
 </table><br>
 
@@ -179,11 +179,11 @@ The linear regression determination values (a and b) can be obtained through equ
 <table>
    <tr>
       <td width="40">II</td>
-      <td width="800"><img height="50" width="180" src="Assets/Images/pH Sensor Calibration/2.png" alt="Persamaan-II"></td>
+      <td width="800"><img height="50" width="180" src="Assets/Images/Equations/2.png" alt="Persamaan-II"></td>
    </tr>
    <tr>
       <td width="40">III</td>
-      <td width="800"><img height="50" width="180" src="Assets/Images/pH Sensor Calibration/3.png" alt="Persamaan-III"></td>
+      <td width="800"><img height="50" width="180" src="Assets/Images/Equations/3.png" alt="Persamaan-III"></td>
    </tr>
 </table><br>
 
@@ -390,7 +390,7 @@ void RTCinit(){
 
    </td></tr></table>
    
-   <img width="810" src="Assets/Images/Matlab Setup/1.png" alt="set-path-matlab"><br><br>
+   <img width="810" src="Assets/Images/Matlab/1.png" alt="set-path-matlab"><br><br>
 
 3. Select ``` Add Folder... ``` -> search the ``` FIS-IT2FLS-Toolbox-MATLAB ``` folder -> ``` Select Folder ```.<br><br>
 
@@ -406,7 +406,7 @@ void RTCinit(){
 
    </td></tr></table>
    
-   <img width="810" src="Assets/Images/Matlab Setup/2.png" alt="it2fl-toolbox"><br><br>
+   <img width="810" src="Assets/Images/Matlab/2.png" alt="it2fl-toolbox"><br><br>
 
 6. The rest you can customize according to your needs.
 
