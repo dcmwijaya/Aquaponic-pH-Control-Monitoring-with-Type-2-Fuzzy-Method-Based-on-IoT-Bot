@@ -1,6 +1,6 @@
 ## Step One: Determine the values of 𝑌, 𝑋, 𝑌², 𝑋², dan 𝑋𝑌
 
-<img width="810" src="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/assets/54527592/07ecfdf2-beb2-4dc1-aa96-96e1d7c8f168" alt="ph-probe-settings">
+<img width="810" src="../Images/pH Sensor Calibration/4.png" alt="ph-probe-settings">
 
 <br><br>
 
@@ -90,7 +90,7 @@ Turn the potentiometer until the desired output is reached (target: 2.5V). This 
 
 You can see the calculation example as follows :
 
-<img height="220" width="500" src="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/assets/54527592/544cb844-59eb-4ea0-81c3-f5daa0ee3bcf">
+<img height="220" width="500" src="../Images/pH Sensor Calibration/5.png">
 
 <br><br>
 
@@ -98,7 +98,7 @@ You can see the calculation example as follows :
 
 The values that have been obtained from the previous stage just need to be entered into the equations ``` 𝑎 ``` and ``` 𝑏 ```. The calculation example is like this :
 
-<img height="450" width="500" src="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/assets/54527592/d2545e57-3307-439e-a362-93e71ffb4097"><br><br>
+<img height="450" width="500" src="../Images/pH Sensor Calibration/6.png"><br><br>
 
 The ``` value of 𝑎 ``` is ``` 21.84 ``` and the ``` value of 𝑏 ``` is ``` -5.27 ```.
 
@@ -108,6 +108,6 @@ The ``` value of 𝑎 ``` is ``` 21.84 ``` and the ``` value of 𝑏 ``` is ``` 
 
 The ``` value of 𝑎 ``` and ``` value of 𝑏 ``` can just be entered into the ``` linear regression ``` equation so that it becomes :
 
-<img height="30" width="180" src="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/assets/54527592/b1ebdeee-7ca4-4dfc-8edd-258a9266d31e"><br><br>
+<img height="30" width="180" src="../Images/pH Sensor Calibration/7.png"><br><br>
 
 The above equation can be directly used for ``` PH4502C sensor ``` calibration purposes.
