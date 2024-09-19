@@ -72,9 +72,9 @@ Aquaponic system is a combined farming system between fish with vegetables where
 <th width="280">Main Box Design</th>
 </tr>
 <tr>
-<td><img src="https://user-images.githubusercontent.com/54527592/174567843-176f5f16-fbe3-420d-b50b-0aff1d11714e.jpg" alt="Pictorial-Diagram"></td>
-<td><img src="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/assets/54527592/86d03081-632b-415c-9962-f38ba9097039" alt="Prototype-Design"></td>
-<td><img src="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/assets/54527592/6d8c4722-5b95-44ba-b383-404d83377334" alt="MainBox-Design"></td>
+<td><img src="Assets/Images/Project Designs/1.jpg" alt="Pictorial-Diagram"></td>
+<td><img src="Assets/Images/Project Designs/2.jpg" alt="Prototype-Design"></td>
+<td><img src="Assets/Images/Project Designs/3.jpg" alt="MainBox-Design"></td>
 </tr>
 </table>
 <table>
@@ -84,9 +84,9 @@ Aquaponic system is a combined farming system between fish with vegetables where
 <th width="280">IT2FL Output Variable</th>
 </tr>
 <tr>
-<td><img src="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/assets/54527592/199cbe1c-c49f-4e94-b342-b9d13008293e" alt="FIS-IT2FL"></td>
-<td><img src="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/assets/54527592/8430aa92-e75a-4cfd-9091-40e79430eb54" alt="VarIn-IT2FL"></td>
-<td><img src="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/assets/54527592/b1bd8b70-1bde-40b4-b82d-c1436cf3fc1e" alt="VarOut-IT2FL"></td>
+<td><img src="Assets/Images/Project Designs/4.jpg" alt="FIS-IT2FL"></td>
+<td><img src="Assets/Images/Project Designs/5.jpg" alt="VarIn-IT2FL"></td>
+<td><img src="Assets/Images/Project Designs/6.jpg" alt="VarOut-IT2FL"></td>
 </tr>
 </table>
 
@@ -149,7 +149,7 @@ The pH sensor can be calibrated using the results of a linear regression calcula
 <table>
    <tr>
       <td width="40">I</td>
-      <td width="800"><img height="30" width="120" src="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/assets/54527592/30303e06-fd2a-4e06-a7d2-911da8af041d" alt="Persamaan-I"></td>
+      <td width="800"><img height="30" width="120" src="Assets/Images/pH Sensor Calibration/1.png" alt="Persamaan-I"></td>
    </tr>
 </table><br>
 
@@ -179,11 +179,11 @@ The linear regression determination values (a and b) can be obtained through equ
 <table>
    <tr>
       <td width="40">II</td>
-      <td width="800"><img height="50" width="180" src="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/assets/54527592/c9f65453-cb7f-4c4c-8676-ecbf8b4bd9e1" alt="Persamaan-II"></td>
+      <td width="800"><img height="50" width="180" src="Assets/Images/pH Sensor Calibration/2.png" alt="Persamaan-II"></td>
    </tr>
    <tr>
       <td width="40">III</td>
-      <td width="800"><img height="50" width="180" src="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/assets/54527592/260b350f-0374-4ad1-bdb2-4c74ce70aa0b" alt="Persamaan-III"></td>
+      <td width="800"><img height="50" width="180" src="Assets/Images/pH Sensor Calibration/3.png" alt="Persamaan-III"></td>
    </tr>
 </table><br>
 
@@ -390,7 +390,7 @@ void RTCinit(){
 
    </td></tr></table>
    
-   <img width="810" src="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/assets/54527592/1b62848d-a01c-4f5e-9737-89ff189ab076" alt="set-path-matlab"><br><br>
+   <img width="810" src="Assets/Images/Matlab Setup/1.png" alt="set-path-matlab"><br><br>
 
 3. Select ``` Add Folder... ``` -> search the ``` FIS-IT2FLS-Toolbox-MATLAB ``` folder -> ``` Select Folder ```.<br><br>
 
@@ -406,7 +406,7 @@ void RTCinit(){
 
    </td></tr></table>
    
-   <img width="810" src="https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot/assets/54527592/64a4ef45-d707-45e2-bcce-9302fbd2092b" alt="it2fl-toolbox"><br><br>
+   <img width="810" src="Assets/Images/Matlab Setup/2.png" alt="it2fl-toolbox"><br><br>
 
 6. The rest you can customize according to your needs.
 
@@ -438,9 +438,9 @@ Via Telegram: <a href="https://t.me/phiotnet_bot">@phiotnet_bot</a>
 <th width="280">Telegram Bot</th>
 </tr>
 <tr>
-<td><img src="https://user-images.githubusercontent.com/54527592/174566236-fbcf5d61-bc8e-4daf-ac06-5d396a5c58b8.jpg" alt="Product"></td>
-<td><img src="https://user-images.githubusercontent.com/54527592/174578231-f2675b70-ebbf-4e9d-84fa-f0c2a7efa167.jpg" alt="IT2FL-SPK"></td>
-<td><img src="https://user-images.githubusercontent.com/54527592/174577321-b1da1af7-ce1b-4ec4-9f87-af616ad9f52b.jpg" alt="Telegram-Bot"></td>
+<td><img src="Assets/Images/Highlights/1.jpg" alt="Product"></td>
+<td><img src="Assets/Images/Highlights/2.jpg" alt="IT2FL-SPK"></td>
+<td><img src="Assets/Images/Highlights/3.jpg" alt="Telegram-Bot"></td>
 </tr>
 </table>
 
