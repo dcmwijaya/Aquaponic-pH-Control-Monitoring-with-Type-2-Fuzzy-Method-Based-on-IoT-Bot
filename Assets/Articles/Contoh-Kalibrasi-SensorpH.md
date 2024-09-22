@@ -98,19 +98,23 @@ Contoh perhitungannya dapat anda lihat sebagai berikut :
 
 Nilai yang sudah didapat dari tahap sebelumnya tinggal dimasukkan ke dalam persamaan ``` 𝑎 ``` dan ``` 𝑏 ```. Contoh perhitungannya seperti ini :
 
-<img height="450" width="500" src="../Images/Calibration/3.png">
    <table><tr><td width="800" height="80">
    
    &nbsp;
    $\ a = \frac{\sum Y.\sum X^{2}-\sum X.\sum XY}{n.\sum X^{2}-(\sum X)^{2}} $
    <br><br>&nbsp;&nbsp;&nbsp;
-   $\ = \frac{(21) . (24,46) - (8,45) . (55,67)}{(3) . (24,46) - (71,4)} = \frac{513,66 - 470,41}{73,38 -71,4} $
+   $\ = \frac{(21) . (24,46) - (8,45) . (55,67)}{(3) . (24,46) - (71,4)} = \frac{513,66 - 470,41}{73,38 - 71,4} $
    <br><br>&nbsp;&nbsp;&nbsp;
    $\ = \frac{43,25}{1,98} = 21,84 $
+   <br><br><br><br>
+   &nbsp;
+   $\ b = \frac{n.\sum XY-\sum X.\sum Y}{n.\sum X^{2}-(\sum X)^{2}} $
+   <br><br>&nbsp;&nbsp;&nbsp;
+   $\ = \frac{(3) . (55,67) - (8,45) . (21)}{(3) . (24,46) - (71,4)} = \frac{167,01 - 177,45}{73,38 - 71,4} $
+   <br><br>&nbsp;&nbsp;&nbsp;
+   $\ = \frac{-10,44}{1,98} = -5,27 $
 
-   </td></tr></table>
-   
-<br><br>
+   </td></tr></table><br>
 
 Telah didapatkan ``` nilai 𝑎 ``` sebesar ``` 21,84 ``` dan ``` nilai 𝑏 ``` sebesar ``` -5,27 ```.
 
@@ -124,8 +128,6 @@ Telah didapatkan ``` nilai 𝑎 ``` sebesar ``` 21,84 ``` dan ``` nilai 𝑏 ```
 
    $\ Y = 21,84+(-5,27 . X) $
          
-   </td></tr></table>
-   
-<br><br>
+   </td></tr></table><br>
 
 Persamaan di atas bisa langsung digunakan untuk keperluan kalibrasi ``` sensor PH4502C ```.
