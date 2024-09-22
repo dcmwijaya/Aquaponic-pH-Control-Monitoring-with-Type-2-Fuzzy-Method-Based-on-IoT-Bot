@@ -108,6 +108,11 @@ Telah didapatkan ``` nilai 𝑎 ``` sebesar ``` 21,84 ``` dan ``` nilai 𝑏 ```
 
 ``` Nilai 𝑎 ``` dan ``` nilai 𝑏 ``` tinggal dimasukkan ke dalam persamaan ``` regresi linear ``` sehingga menjadi :
 
-<img height="30" width="180" src="../Images/Calibration/4.png"><br><br>
+   <table><tr><td width="800" height="80">
+
+   $\ Y = 21,84+(-5,27 . X) $
+         
+   </td></tr></table>
+<br><br>
 
 Persamaan di atas bisa langsung digunakan untuk keperluan kalibrasi ``` sensor PH4502C ```.
