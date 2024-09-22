@@ -90,7 +90,46 @@ Putar potensiometer hingga output yang diinginkan itu tercapai (target: 2,5V). 2
 
 Contoh perhitungannya dapat anda lihat sebagai berikut :
 
-<img height="220" width="500" src="../Images/Calibration/2.png">
+<table>
+<tr height="70">
+<th width="140">$\ n $</th>
+<th width="140">$\ Y $</th>
+<th width="140">$\ X $</th>
+<th width="140">$\ Y^{2} $</th>
+<th width="140">$\ X^{2} $</th>
+<th width="140">$\ XY $</th>
+</tr>
+<tr align="center">
+<td rowspan="3">3</td>
+<td>4</td>
+<td>3,4</td>
+<td>16</td>
+<td>11,56</td>
+<td>13,6</td>
+</tr>
+   <tr align="center">
+<td>7</td>
+<td>2,81</td>
+<td>49</td>
+<td>7,89</td>
+<td>19,67</td>
+</tr>
+   <tr align="center">
+<td>10</td>
+<td>2,24</td>
+<td>100</td>
+<td>5,01</td>
+<td>22,4</td>
+</tr>
+   <tr align="center">
+<td>$\ \sum $</td>
+<td>21</td>
+<td>8,45</td>
+<td>165</td>
+<td>24,46</td>
+<td>55,67</td>
+</tr>
+</table>
 
 <br><br>
 
