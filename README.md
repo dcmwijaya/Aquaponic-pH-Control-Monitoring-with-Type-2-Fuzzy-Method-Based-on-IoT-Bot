@@ -72,9 +72,9 @@ Aquaponic system is a combined farming system between fish with vegetables where
 <th width="280">Main Box Design</th>
 </tr>
 <tr>
-<td><img src="Assets/Images/Project Designs/1.jpg" alt="Pictorial-Diagram"></td>
-<td><img src="Assets/Images/Project Designs/2.jpg" alt="Prototype-Design"></td>
-<td><img src="Assets/Images/Project Designs/3.jpg" alt="MainBox-Design"></td>
+<td><img src="Assets/Images/Pictorial Diagram.jpg" alt="Pictorial-Diagram"></td>
+<td><img src="Assets/Images/Prototype Design.jpg" alt="Prototype-Design"></td>
+<td><img src="Assets/Images/Main Box Design.jpg" alt="MainBox-Design"></td>
 </tr>
 </table>
 <table>
@@ -84,9 +84,9 @@ Aquaponic system is a combined farming system between fish with vegetables where
 <th width="280">IT2FL Output Variable</th>
 </tr>
 <tr>
-<td><img src="Assets/Images/Project Designs/4.jpg" alt="FIS-IT2FL"></td>
-<td><img src="Assets/Images/Project Designs/5.jpg" alt="VarIn-IT2FL"></td>
-<td><img src="Assets/Images/Project Designs/6.jpg" alt="VarOut-IT2FL"></td>
+<td><img src="Assets/Images/Fuzzy Interface System IT2FL.jpg" alt="FIS-IT2FL"></td>
+<td><img src="Assets/Images/IT2FL Input Variable.jpg" alt="VarIn-IT2FL"></td>
+<td><img src="Assets/Images/IT2FL Output Variable.jpg" alt="VarOut-IT2FL"></td>
 </tr>
 </table>
 
@@ -402,7 +402,7 @@ void RTCinit(){
 
    </td></tr></table>
    
-   <img width="810" src="Assets/Images/Matlab/1.png" alt="set-path-matlab"><br><br>
+   <img width="810" src="Assets/Images/MATLAB Set Path.png" alt="set-path-matlab"><br><br>
 
 3. Select ``` Add Folder... ``` -> search the ``` FIS-IT2FLS-Toolbox-MATLAB ``` folder -> ``` Select Folder ```.<br><br>
 
@@ -418,7 +418,7 @@ void RTCinit(){
 
    </td></tr></table>
    
-   <img width="810" src="Assets/Images/Matlab/2.png" alt="it2fl-toolbox"><br><br>
+   <img width="810" src="Assets/Images/IT2FL Toolbox.png" alt="it2fl-toolbox"><br><br>
 
 6. The rest you can customize according to your needs.
 
@@ -450,9 +450,9 @@ Via Telegram: <a href="https://t.me/phiotnet_bot">@phiotnet_bot</a>
 <th width="280">Telegram Bot</th>
 </tr>
 <tr>
-<td><img src="Assets/Images/Highlights/1.jpg" alt="Product"></td>
-<td><img src="Assets/Images/Highlights/2.jpg" alt="IT2FL-SPK"></td>
-<td><img src="Assets/Images/Highlights/3.jpg" alt="Telegram-Bot"></td>
+<td><img src="Assets/Images/Product.jpg" alt="Product"></td>
+<td><img src="Assets/Images/IT2FL Decision Support System.jpg" alt="IT2FL-SPK"></td>
+<td><img src="Assets/Images/Telegram Bot.jpg" alt="Telegram-Bot"></td>
 </tr>
 </table>
 

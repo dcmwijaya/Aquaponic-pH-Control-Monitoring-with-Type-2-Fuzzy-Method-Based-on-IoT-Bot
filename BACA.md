@@ -72,9 +72,9 @@ Sistem akuaponik merupakan sistem budidaya gabungan antara ikan dengan sayuran d
 <th width="280">Desain Wadah Utama</th>
 </tr>
 <tr>
-<td><img src="Assets/Images/Project Designs/1.jpg" alt="Pictorial-Diagram"></td>
-<td><img src="Assets/Images/Project Designs/2.jpg" alt="Prototype-Design"></td>
-<td><img src="Assets/Images/Project Designs/3.jpg" alt="MainBox-Design"></td>
+<td><img src="Assets/Images/Pictorial Diagram.jpg" alt="Pictorial-Diagram"></td>
+<td><img src="Assets/Images/Prototype Design.jpg" alt="Prototype-Design"></td>
+<td><img src="Assets/Images/Main Box Design.jpg" alt="MainBox-Design"></td>
 </tr>
 </table>
 <table>
@@ -84,9 +84,9 @@ Sistem akuaponik merupakan sistem budidaya gabungan antara ikan dengan sayuran d
 <th width="280">Variabel Keluaran IT2FL</th>
 </tr>
 <tr>
-<td><img src="Assets/Images/Project Designs/4.jpg" alt="FIS-IT2FL"></td>
-<td><img src="Assets/Images/Project Designs/5.jpg" alt="VarIn-IT2FL"></td>
-<td><img src="Assets/Images/Project Designs/6.jpg" alt="VarOut-IT2FL"></td>
+<td><img src="Assets/Images/Fuzzy Interface System IT2FL.jpg" alt="FIS-IT2FL"></td>
+<td><img src="Assets/Images/IT2FL Input Variable.jpg" alt="VarIn-IT2FL"></td>
+<td><img src="Assets/Images/IT2FL Output Variable.jpg" alt="VarOut-IT2FL"></td>
 </tr>
 </table>
 
@@ -403,7 +403,7 @@ void RTCinit(){
 
    </td></tr></table>
    
-   <img width="810" src="Assets/Images/Matlab/1.png" alt="set-path-matlab"><br><br>
+   <img width="810" src="Assets/Images/MATLAB Set Path.png" alt="set-path-matlab"><br><br>
 
 3. Pilih ``` Add Folder... ``` -> cari folder ``` FIS-IT2FLS-Toolbox-MATLAB ``` -> ``` Select Folder ```.<br><br>
 
@@ -419,7 +419,7 @@ void RTCinit(){
 
    </td></tr></table>
    
-   <img width="810" src="Assets/Images/Matlab/2.png" alt="it2fl-toolbox"><br><br>
+   <img width="810" src="Assets/Images/IT2FL Toolbox.png" alt="it2fl-toolbox"><br><br>
 
 6. Selebihnya tinggal anda atur sesuai dengan kebutuhan anda.
 
@@ -451,9 +451,9 @@ Via Telegram: <a href="https://t.me/phiotnet_bot">@phiotnet_bot</a>
 <th width="280">Bot Telegram</th>
 </tr>
 <tr>
-<td><img src="Assets/Images/Highlights/1.jpg" alt="Product"></td>
-<td><img src="Assets/Images/Highlights/2.jpg" alt="IT2FL-SPK"></td>
-<td><img src="Assets/Images/Highlights/3.jpg" alt="Telegram-Bot"></td>
+<td><img src="Assets/Images/Product.jpg" alt="Product"></td>
+<td><img src="Assets/Images/IT2FL Decision Support System.jpg" alt="IT2FL-SPK"></td>
+<td><img src="Assets/Images/Telegram Bot.jpg" alt="Telegram-Bot"></td>
 </tr>
 </table>
 
