@@ -90,8 +90,6 @@ Turn the potentiometer until the desired output is reached (target: 2.5V). This 
 
 You can see the calculation example as follows :
 
-<img height="220" width="500" src="../Images/Calibration/2.png">
-
 <table>
 <tr height="70">
 <th width="140">$\ n $</th>
@@ -102,7 +100,7 @@ You can see the calculation example as follows :
 <th width="140">$\ XY $</th>
 </tr>
 <tr align="center">
-<td>3</td>
+<td rowspan="3">3</td>
 <td>4</td>
 <td>3,4</td>
 <td>16</td>
@@ -110,7 +108,6 @@ You can see the calculation example as follows :
 <td>13,6</td>
 </tr>
    <tr align="center">
-<td>3</td>
 <td>7</td>
 <td>2,81</td>
 <td>49</td>
@@ -118,7 +115,6 @@ You can see the calculation example as follows :
 <td>19,67</td>
 </tr>
    <tr align="center">
-<td>3</td>
 <td>10</td>
 <td>2,24</td>
 <td>100</td>
