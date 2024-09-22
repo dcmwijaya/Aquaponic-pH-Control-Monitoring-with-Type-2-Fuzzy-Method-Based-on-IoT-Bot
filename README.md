@@ -151,9 +151,7 @@ The pH sensor can be calibrated using the results of a linear regression calcula
    <td width="40">I</td>
    <td width="800">
 
-   $$\left(
-   Y = a+b.X
-   \right)$$
+   $\ Y = a+b.X $
          
    </td>      
    </tr>
@@ -187,9 +185,7 @@ The linear regression determination values (a and b) can be obtained through equ
    <td width="40">II</td>
    <td width="800">
    
-   $$\left(
-    a = \frac{\sum Y.\sum X^{2}-\sum X.\sum XY}{n.\sum X^{2}-(\sum X)^{2}}
-   \right)$$
+   $\ a = \frac{\sum Y.\sum X^{2}-\sum X.\sum XY}{n.\sum X^{2}-(\sum X)^{2}} $
 
    </td>
    </tr>
@@ -197,9 +193,7 @@ The linear regression determination values (a and b) can be obtained through equ
    <td width="40">III</td>
    <td width="800">
    
-   $$\left(
-    b = \frac{n.\sum XY-\sum X.\sum Y}{n.\sum X^{2}-(\sum X)^{2}}
-   \right)$$
+   $\ b = \frac{n.\sum XY-\sum X.\sum Y}{n.\sum X^{2}-(\sum X)^{2}} $
 
    </td>
    </tr>
