@@ -148,8 +148,14 @@ The pH sensor can be calibrated using the results of a linear regression calcula
 
 <table>
    <tr>
-      <td width="40">I</td>
-      <td width="800"><img height="30" width="120" src="Assets/Images/Equations/1.png" alt="Persamaan-I"></td>
+   <td width="40">I</td>
+   <td width="800">
+         
+   ```math
+   Y = a+b.X
+   ```
+         
+   </td>      
    </tr>
 </table><br>
 
@@ -178,12 +184,24 @@ The linear regression determination values (a and b) can be obtained through equ
 
 <table>
    <tr>
-      <td width="40">II</td>
-      <td width="800"><img height="50" width="180" src="Assets/Images/Equations/2.png" alt="Persamaan-II"></td>
+   <td width="40">II</td>
+   <td width="800">
+   
+   ```math
+    a = \frac{\sum Y.\sum X^{2}-\sum X.\sum XY}{n.\sum X^{2}-(\sum X)^{2}}
+   ```
+
+   </td>
    </tr>
    <tr>
-      <td width="40">III</td>
-      <td width="800"><img height="50" width="180" src="Assets/Images/Equations/3.png" alt="Persamaan-III"></td>
+   <td width="40">III</td>
+   <td width="800">
+   
+   ```math
+    b = \frac{n.\sum XY-\sum X.\sum Y}{n.\sum X^{2}-(\sum X)^{2}}
+   ```
+
+   </td>
    </tr>
 </table><br>
 
