@@ -98,7 +98,23 @@ You can see the calculation example as follows :
 
 The values that have been obtained from the previous stage just need to be entered into the equations ``` 𝑎 ``` and ``` 𝑏 ```. The calculation example is like this :
 
-<img height="450" width="500" src="../Images/Calibration/3.png"><br><br>
+   <table><tr><td width="800" height="80">
+   
+   &nbsp;
+   $\ a = \frac{\sum Y.\sum X^{2}-\sum X.\sum XY}{n.\sum X^{2}-(\sum X)^{2}} $
+   <br><br>&nbsp;&nbsp;&nbsp;
+   $\ = \frac{(21) . (24,46) - (8,45) . (55,67)}{(3) . (24,46) - (71,4)} = \frac{513,66 - 470,41}{73,38 - 71,4} $
+   <br><br>&nbsp;&nbsp;&nbsp;
+   $\ = \frac{43,25}{1,98} = 21,84 $
+   <br><br><br><br>
+   &nbsp;
+   $\ b = \frac{n.\sum XY-\sum X.\sum Y}{n.\sum X^{2}-(\sum X)^{2}} $
+   <br><br>&nbsp;&nbsp;&nbsp;
+   $\ = \frac{(3) . (55,67) - (8,45) . (21)}{(3) . (24,46) - (71,4)} = \frac{167,01 - 177,45}{73,38 - 71,4} $
+   <br><br>&nbsp;&nbsp;&nbsp;
+   $\ = \frac{-10,44}{1,98} = -5,27 $
+
+   </td></tr></table><br>
 
 The ``` value of 𝑎 ``` is ``` 21.84 ``` and the ``` value of 𝑏 ``` is ``` -5.27 ```.
 
@@ -108,6 +124,10 @@ The ``` value of 𝑎 ``` is ``` 21.84 ``` and the ``` value of 𝑏 ``` is ``` 
 
 The ``` value of 𝑎 ``` and ``` value of 𝑏 ``` can just be entered into the ``` linear regression ``` equation so that it becomes :
 
-<img height="30" width="180" src="../Images/Calibration/4.png"><br><br>
+   <table><tr><td width="800" height="80">
+
+   $\ Y = 21,84+(-5,27 . X) $
+         
+   </td></tr></table><br>
 
 The above equation can be directly used for ``` PH4502C sensor ``` calibration purposes.
