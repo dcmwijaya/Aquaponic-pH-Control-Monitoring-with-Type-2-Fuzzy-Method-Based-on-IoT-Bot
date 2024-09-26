@@ -563,7 +563,7 @@ Jika karya ini bermanfaat bagi anda, maka dukunglah karya ini sebagai bentuk apr
 <br><br>
 
 ## Penafian
-Karya ini adalah ciptaan saya sendiri bukan hasil dari plagiat penelitian atau karya orang lain, kecuali yang berhubungan dengan layanan pihak ketiga yang diantaranya meliputi: kode editor, pustaka, kerangka kerja, dan sebagainya.
+Aplikasi ini merupakan hasil karya saya sendiri dan bukan merupakan hasil plagiat dari penelitian atau karya orang lain, kecuali yang berkaitan dengan layanan pihak ketiga yang meliputi: kode editor, library, framework, dan lain sebagainya.
 
 <br><br>
 
