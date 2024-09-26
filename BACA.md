@@ -563,7 +563,7 @@ Jika karya ini bermanfaat bagi anda, maka dukunglah karya ini sebagai bentuk apr
 <br><br>
 
 ## Penafian
-Aplikasi ini dibuat dengan menyertakan sumber-sumber dari pihak ketiga. Pihak ketiga di sini adalah penyedia layanan, yang layanannya berupa pustaka, kerangka kerja, dan lain-lain. Saya ucapkan terima kasih banyak atas layanannya. Telah terbukti sangat membantu dan dapat diimplementasikan.
+Saya menyatakan bahwa karya ini merupakan ciptaan saya sendiri bukan hasil plagiat dari penelitian atau karya orang lain, kecuali yang berhubungan dengan layanan pihak ketiga, yang diantaranya meliputi: kode editor, pustaka, kerangka kerja, dan lain sebagainya.
 
 <br><br>
 
