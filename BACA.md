@@ -72,9 +72,9 @@ Sistem akuaponik merupakan sistem budidaya gabungan antara ikan dengan sayuran d
 <th width="280">Desain Wadah Utama</th>
 </tr>
 <tr>
-<td><img src="Assets/Documentation/Pictorial Diagram.jpg" alt="Pictorial-Diagram"></td>
-<td><img src="Assets/Documentation/Prototype Design.jpg" alt="Prototype-Design"></td>
-<td><img src="Assets/Documentation/Main Box Design.jpg" alt="MainBox-Design"></td>
+<td><img src="Assets/Documentation/Diagram/Pictorial Diagram.jpg" alt="pictorial-diagram"></td>
+<td><img src="Assets/Documentation/Design/Prototype Design.jpg" alt="prototype-design"></td>
+<td><img src="Assets/Documentation/Design/Main Box Design.jpg" alt="mainBox-design"></td>
 </tr>
 </table>
 <table>
@@ -84,9 +84,9 @@ Sistem akuaponik merupakan sistem budidaya gabungan antara ikan dengan sayuran d
 <th width="280">Variabel Keluaran IT2FL</th>
 </tr>
 <tr>
-<td><img src="Assets/Documentation/Fuzzy Interface System IT2FL.jpg" alt="FIS-IT2FL"></td>
-<td><img src="Assets/Documentation/IT2FL Input Variable.jpg" alt="VarIn-IT2FL"></td>
-<td><img src="Assets/Documentation/IT2FL Output Variable.jpg" alt="VarOut-IT2FL"></td>
+<td><img src="Assets/Documentation/Experiment/Fuzzy Interface System IT2FL.jpg" alt="fis-it2fl"></td>
+<td><img src="Assets/Documentation/Experiment/IT2FL Input Variable.jpg" alt="varin-it2fl"></td>
+<td><img src="Assets/Documentation/Experiment/IT2FL Output Variable.jpg" alt="varout-it2fl"></td>
 </tr>
 </table>
 
@@ -403,7 +403,7 @@ void RTCinit(){
 
    </td></tr></table>
    
-   <img width="810" src="Assets/Documentation/MATLAB Set Path.png" alt="set-path-matlab"><br><br>
+   <img width="810" src="Assets/Documentation/Experiment/MATLAB Set Path.jpg" alt="set-path-matlab"><br><br>
 
 3. Pilih ``` Add Folder... ``` -> cari folder ``` FIS-IT2FLS-Toolbox-MATLAB ``` -> ``` Select Folder ```.<br><br>
 
@@ -419,7 +419,7 @@ void RTCinit(){
 
    </td></tr></table>
    
-   <img width="810" src="Assets/Documentation/IT2FL Toolbox.png" alt="it2fl-toolbox"><br><br>
+   <img width="810" src="Assets/Documentation/Experiment/IT2FL Toolbox.jpg" alt="it2fl-toolbox"><br><br>
 
 6. Selebihnya tinggal anda atur sesuai dengan kebutuhan anda.
 
@@ -451,9 +451,9 @@ Via Telegram: <a href="https://t.me/phiotnet_bot">@phiotnet_bot</a>
 <th width="280">Bot Telegram</th>
 </tr>
 <tr>
-<td><img src="Assets/Documentation/Product.jpg" alt="Product"></td>
-<td><img src="Assets/Documentation/IT2FL Decision Support System.jpg" alt="IT2FL-SPK"></td>
-<td><img src="Assets/Documentation/Telegram Bot.jpg" alt="Telegram-Bot"></td>
+<td><img src="Assets/Documentation/Experiment/Product.jpg" alt="product"></td>
+<td><img src="Assets/Documentation/Experiment/IT2FL Decision Support System.jpg" alt="it2fl-spk"></td>
+<td><img src="Assets/Documentation/Experiment/Telegram Bot.jpg" alt="telegram-bot"></td>
 </tr>
 </table>
 

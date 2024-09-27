@@ -72,9 +72,9 @@ Aquaponic system is a combined farming system between fish with vegetables where
 <th width="280">Main Box Design</th>
 </tr>
 <tr>
-<td><img src="Assets/Documentation/Pictorial Diagram.jpg" alt="Pictorial-Diagram"></td>
-<td><img src="Assets/Documentation/Prototype Design.jpg" alt="Prototype-Design"></td>
-<td><img src="Assets/Documentation/Main Box Design.jpg" alt="MainBox-Design"></td>
+<td><img src="Assets/Documentation/Diagram/Pictorial Diagram.jpg" alt="pictorial-diagram"></td>
+<td><img src="Assets/Documentation/Design/Prototype Design.jpg" alt="prototype-design"></td>
+<td><img src="Assets/Documentation/Design/Main Box Design.jpg" alt="mainBox-design"></td>
 </tr>
 </table>
 <table>
@@ -84,9 +84,9 @@ Aquaponic system is a combined farming system between fish with vegetables where
 <th width="280">IT2FL Output Variable</th>
 </tr>
 <tr>
-<td><img src="Assets/Documentation/Fuzzy Interface System IT2FL.jpg" alt="FIS-IT2FL"></td>
-<td><img src="Assets/Documentation/IT2FL Input Variable.jpg" alt="VarIn-IT2FL"></td>
-<td><img src="Assets/Documentation/IT2FL Output Variable.jpg" alt="VarOut-IT2FL"></td>
+<td><img src="Assets/Documentation/Experiment/Fuzzy Interface System IT2FL.jpg" alt="fis-it2fl"></td>
+<td><img src="Assets/Documentation/Experiment/IT2FL Input Variable.jpg" alt="varin-it2fl"></td>
+<td><img src="Assets/Documentation/Experiment/IT2FL Output Variable.jpg" alt="varout-it2fl"></td>
 </tr>
 </table>
 
@@ -402,7 +402,7 @@ void RTCinit(){
 
    </td></tr></table>
    
-   <img width="810" src="Assets/Documentation/MATLAB Set Path.png" alt="set-path-matlab"><br><br>
+   <img width="810" src="Assets/Documentation/Experiment/MATLAB Set Path.jpg" alt="set-path-matlab"><br><br>
 
 3. Select ``` Add Folder... ``` -> search the ``` FIS-IT2FLS-Toolbox-MATLAB ``` folder -> ``` Select Folder ```.<br><br>
 
@@ -418,7 +418,7 @@ void RTCinit(){
 
    </td></tr></table>
    
-   <img width="810" src="Assets/Documentation/IT2FL Toolbox.png" alt="it2fl-toolbox"><br><br>
+   <img width="810" src="Assets/Documentation/Experiment/IT2FL Toolbox.jpg" alt="it2fl-toolbox"><br><br>
 
 6. The rest you can customize according to your needs.
 
@@ -450,15 +450,16 @@ Via Telegram: <a href="https://t.me/phiotnet_bot">@phiotnet_bot</a>
 <th width="280">Telegram Bot</th>
 </tr>
 <tr>
-<td><img src="Assets/Documentation/Product.jpg" alt="Product"></td>
-<td><img src="Assets/Documentation/IT2FL Decision Support System.jpg" alt="IT2FL-SPK"></td>
-<td><img src="Assets/Documentation/Telegram Bot.jpg" alt="Telegram-Bot"></td>
+<td><img src="Assets/Documentation/Experiment/Product.jpg" alt="product"></td>
+<td><img src="Assets/Documentation/Experiment/IT2FL Decision Support System.jpg" alt="it2fl-spk"></td>
+<td><img src="Assets/Documentation/Experiment/Telegram Bot.jpg" alt="telegram-bot"></td>
 </tr>
 </table>
 
 <br>
 <strong>More information:</strong> <br><br>
 <table><tr><td width="840">
+
    • Undergraduate Thesis: <a href="http://repository.upnjatim.ac.id/id/eprint/7014"><u>Click Here</u></a><br><br>
    • SINTA-type journals: <a href="https://publikasi.mercubuana.ac.id/index.php/Incomtech/article/view/15453"><u>Click Here</u></a><br><br>
    • Non SINTA-type journals: <a href="https://www.researchgate.net/publication/363660330_SISTEM_KONTROL_PH_UP-DOWN_BERBASIS_NODEMCU32_DENGAN_METODE_ON-OFF_CONTROLLER"><u>Click Here</u></a>
