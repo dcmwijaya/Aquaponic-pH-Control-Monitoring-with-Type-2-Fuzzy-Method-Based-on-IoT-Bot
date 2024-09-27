@@ -1,6 +1,6 @@
 ## Step One: Determine the values of 𝑌, 𝑋, 𝑌², 𝑋², dan 𝑋𝑌
 
-<img width="810" src="../Documentation/PH4502C Calibration.png" alt="ph-probe-settings">
+<img width="810" src="../Documentation/Experiment/PH4502C Calibration.png" alt="ph-probe-settings">
 
 <br><br>
 
