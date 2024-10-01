@@ -1,7 +1,8 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://opensource.org/licenses/MIT)
 ![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Control-Monitoring-pH-Aquaponics-BotIoTBased-FuzzyType2?logo=Codeforces&logoColor=white&color=%23F7DF1E)
-![Thesis-Project](https://img.shields.io/badge/Project-Thesis%20Undergraduate-light.svg?style=flat&logo=arduino&logoColor=white&color=%23F7DF1E)
+![Project](https://img.shields.io/badge/Project-ESP32-light.svg?style=flat&logo=espressif&logoColor=white&color=%23F7DF1E)
+![Type](https://img.shields.io/badge/Type-Thesis%20Undergraduate-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
 # Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot
 <strong>Dokumentasi Skripsi - Informatika UPN Veteran Jatim</strong><br><br>
